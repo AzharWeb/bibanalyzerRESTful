@@ -1,0 +1,6 @@
+The dictionaries within this folder were generated on the basis of bibliographic references
+being collected from Springer Open Access data only.
+
+<BibliographyGrant Grant="OpenAccess"/>
+http://www.springeropen.com/authors/license
+

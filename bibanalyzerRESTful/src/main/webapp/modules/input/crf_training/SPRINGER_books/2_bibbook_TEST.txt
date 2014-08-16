@@ -1,0 +1,104 @@
+BOR <BOR>
+&nbsp; <&nbsp;>
+Hoaglin <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+David <Initials>
+&nbsp; <Initials>
+C <Initials>
+. <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+Frederick <Initials>
+&nbsp; <&nbsp;>
+Mosteller <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+and <dummy>
+&nbsp; <&nbsp;>
+John <Initials>
+&nbsp; <Initials>
+W <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Tukey <FamilyName>
+. <&period;>
+&nbsp; <&nbsp;>
+Understanding <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Robust <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+and <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Exploratory <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Data <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Analysis <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+New <PublisherLocation>
+&nbsp; <PublisherLocation>
+York <PublisherLocation>
+; <&semicolon;>
+&nbsp; <&nbsp;>
+Wiley <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+1983 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Paul <Initials>
+&nbsp; <Initials>
+Francis <Initials>
+&nbsp; <&nbsp;>
+Mendler <FamilyName>
+. <&period;>
+&nbsp; <&nbsp;>
+Inductive <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Definition <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+in <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Type <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Theory <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+PhD <dummy>
+&nbsp; <&nbsp;>
+thesis <dummy>
+, <&comma;>
+&nbsp; <&nbsp;>
+Department <PublisherName>
+&nbsp; <PublisherName>
+of <PublisherName>
+&nbsp; <PublisherName>
+Computer <PublisherName>
+&nbsp; <PublisherName>
+Science <PublisherName>
+, <PublisherName>
+&nbsp; <PublisherName>
+Cornell <PublisherName>
+&nbsp; <PublisherName>
+University <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Ithaca <PublisherLocation>
+, <PublisherLocation>
+&nbsp; <PublisherLocation>
+New <PublisherLocation>
+&nbsp; <PublisherLocation>
+York <PublisherLocation>
+, <&comma;>
+&nbsp; <&nbsp;>
+1987 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+

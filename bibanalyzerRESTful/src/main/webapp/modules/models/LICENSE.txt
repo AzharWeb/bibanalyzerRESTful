@@ -1,0 +1,41 @@
+Bibanalyzer - Legal Information
+========================
+
+Version of August 5th, 2014
+
+
+1. Copyright and License
+------------------------
+
+Copyright (c) 2014 by Christian Chiarcos, Niko Schenk (Goehte Universität
+Frankfurt am Main, Applied Computational Linguistics--ACoLi)
+
+The data models provided in this directory are released under the 
+Open Data Commons Attribution License (ODC-BY 1.0). 
+You are free to copy, distribute, use, modify, transform, build
+upon, and produce derived works from our data as long as you attribute any
+public use of the data, or works produced from the data, in the manner
+specified in the license. Read the full ODC-BY 1.0 license text at
+
+ http://opendatacommons.org/licenses/by/1.0/
+
+for the exact terms that apply. The ODC-BY 1.0 license is courtesy of the Open
+Knowledge Foundation (http://okfn.org/).
+
+Please attribute the use of the models by simply refering to the draft version with the following BibTeX entry
+
+@unpublished{Chiarcos2014,
+author = "Christian Chiarcos and Niko Schenk",
+title = "Bibanalyzer -- An open-source tool for analyzing bibliographic references",
+month = Aug,
+year = 2014,
+note = "Unpublished manuscript"}
+
+
+as well as a A link to the bibanalyzer project page. 
+
+(LINKs here) 
+
+This is sufficient to meet the attribution criterion.
+
+

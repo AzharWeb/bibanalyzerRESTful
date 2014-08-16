@@ -1,0 +1,828 @@
+Lecture Notes in Computer Science
+CEUR Workshop Proceedings
+Studies in Computational Intelligence
+Informatik-Fachberichte
+DISKI
+ACM International Conference Proceeding Series
+LNI
+IFIP Conference Proceedings
+Communications in Computer and Information Science
+Lecture Notes in Business Information Processing
+Dagstuhl Seminar Proceedings
+EPTCS
+IFIP Advances in Information and Communication Technology
+Springer Briefs in Computer Science
+Frontiers in Artificial Intelligence and Applications
+Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering
+Studies in Fuzziness and Soft Computing
+IFIP Transactions
+DISDBIS
+Informatik Aktuell
+CRPIT
+Springer Tracts in Advanced Robotics
+Lecture Notes in Electrical Engineering
+Workshops in Computing
+AAAI Technical Report
+IFIP
+Advances in Information Security
+Synthesis Lectures on Biomedical Engineering
+Advances in Soft Computing
+Undergraduate Topics in Computer Science
+Berichte des German Chapter of the ACM
+Intelligent Systems Reference Library
+Synthesis Lectures on Digital Circuits and Systems
+International computer science series
+Reihe Informatik
+SPIE Proceedings
+Synthesis Lectures on Data Management
+Advances in Intelligent Systems and Computing
+Berichte aus der Informatik
+Human-Computer Interaction Series
+Texts in Computer Science
+OASICS
+AAAI Workshops
+Advances in Database Systems
+Leitfäden und Monographien der Informatik
+Synthesis Lectures on Information Concepts, Retrieval, and Services
+JMLR Proceedings
+Cognitive Technologies
+EATCS Monographs on Theoretical Computer Science
+Logic, Epistemology, and the Unity of Science
+Synthesis Lectures on Computer Architecture
+Outstanding Dissertations in the Computer Sciences
+books@ocg.at
+Studies in Health Technology and Informatics
+Computer Communications and Networks
+Prentice Hall International Series in Computer Science
+LIPIcs
+Edition PAGE
+Leitfäden der angewandten Informatik
+Synthesis Lectures on Human Language Technologies
+Texts and monographs in computer science
+Synthesis Lectures on Artificial Intelligence and Machine Learning
+Lecture Notes in Computational Science and Engineering
+Monographs in Theoretical Computer Science. An EATCS Series
+EPiC Series
+Springer-Lehrbuch
+Leitfäden der Informatik
+Synthesis Lectures on Human-Centered Informatics
+Procedia Computer Science
+Prentice Hall International series in computer science
+BCS practitioner series
+AFIPS Conference Proceedings
+Cognitive Systems Monographs
+Information Security and Cryptography
+Annals of Information Systems
+Ambient Intelligence and Smart Environments
+Synthesis Lectures on Communication Networks
+Synthesis Lectures on Computer Graphics and Animation
+Synthesis Lectures on Image, Video, and Multimedia Processing
+Advances in Pattern Recognition
+Wiley professional computing
+Advances in Computer Vision and Pattern Recognition
+Java series
+Advances in Intelligent and Soft Computing
+Synthesis Lectures on Speech and Audio Processing
+Synthesis Lectures on Algorithms and Software in Engineering
+Synthesis Lectures on Signal Processing
+Schriften zur Informationswissenschaft
+Ellis Horwood series in computers and their applications
+Undergraduate texts in computer science
+Ellis Horwood series in artificial intelligence
+Revue des Nouvelles Technologies de l'Information
+Advances in Parallel Computing
+Studies in Classification, Data Analysis, and Knowledge Organization
+Synthesis Lectures on Distributed Computing Theory
+Synthesis Lectures on Antennas
+Natural Computing Series
+Lecture Notes in Geoinformation and Cartography
+Trends in Functional Programming
+Tübinger Studientexte Informatik und Gesellschaft
+Wiley-Interscience series in discrete mathematics and optimization
+Synthesis Lectures on Mobile and Pervasive Computing
+Semantic Web And Beyond Computing for Human Experience
+Lecture Notes in Control and Information Sciences
+Studies in Applied Philosophy, Epistemology and Rational Ethics
+vdf Lehrbuch
+Proceedings in Informatics
+Computer Supported Cooperative Work
+RNTI
+Beiträge zur graphischen Datenverarbeitung
+Graduate Texts in Computer Science
+NATO Science for Peace and Security Series - D: Information and Communication Security
+eXamen.press
+Teubner-Reihe Wirtschaftsinformatik
+Texts in theoretical computer science
+Gabler Edition Wissenschaft
+Prentice Hall international series in computer science
+Sixth-generation computer technology series
+Informatik Lehrbuch-Reihe
+Technical Report
+Synthesis Lectures on Communications
+Synthesis Lectures on Computer Science
+Informatik und Unternehmensführung
+Synthesis Lectures on Data Mining and Knowledge Discovery
+Synthesis Lectures on Mathematics and Statistics
+Texts & Monographs in Symbolic Computation
+Perspectives in neural computing
+Computational Biology
+Informatik und Praxis
+The International Series in Video Computing
+FACIT: Formal approaches to computing and information technology
+Proceedings of SPIE
+Synthesis Lectures on Quantum Computing
+Synthesis Lectures on Computational Electromagnetics
+Synthesis Lectures on Information Security, Privacy, and Trust
+Universitext
+Dagstuhl Follow-Ups
+VNR computer library
+Concurrent Systems Engineering Series
+Topics in Information Systems
+Practitioner series
+IFIP International Federation for Information Processing
+Synthesis Lectures on Mathematics & Statistics
+ACM distinguished dissertations
+Advanced book classics
+X.media.publishing
+Software, environments, tools
+Computer science and scientific computing
+Informatik-Bericht
+PC system architecture series
+Computational Music Science
+Linköping Electronic Conference Proceedings
+Studia Informatica Universalis
+Studies in natural language processing
+Hanser Studienbücher
+Discrete Mathematics and Theoretical Computer Science Proceedings
+Prentice Hall series in innovative technology
+Computer science and applied mathematics
+Computing Supplement
+Addison-Wesley object technology series
+Addison-Wesley series in computer science
+Computer science workbench
+IFIP Series on Computer Graphics
+Wirtschaftsinformatik
+CPHC/BCS distinguished dissertations
+International Congress Series
+CTIT Workshop Proceedings Series
+Artificial intelligence
+Addison-Wesley professional computing series
+Synthesis Lectures on Computer Vision
+Hochschultaschenbuch
+Applied computing
+Foundations of computing
+Undergraduate texts in mathematics
+Research monographs in parallel and distributed computing
+DUV Informatik
+Hanser Studienbücher der Informatik
+Wiley series in parallel computing
+IFIP State-of-the-Art Reports
+Springer Compass
+CSLI lecture notes series
+Synthesis Lectures on Control and Mechatronics
+Neural network modeling and connectionism
+Chapman and Hall computing series
+GMD-Studien
+Reihe Künstliche Intelligenz
+Foundations of computing series
+IBaI Report
+Electronic systems engineering series
+Synthesis Lectures on Global Engineering
+Synthesis Lectures on Assistive, Rehabilitative, and Health-Preserving Technologies
+Lecture Notes in Social Networks
+Springer Briefs in Cybersecurity
+Lehrbuch Informatik
+Advanced Database Research and Development Series
+Mobile communications series
+Wiley series in software engineering practice
+Vieweg Lehrbuch Informatik
+Symbolic computation
+DuD-Fachbeiträge
+Advances in computer science series
+Perspectives in Mathematical Logic
+Computational science and engineering
+Advances in semiotics
+Wiley series on parallel and distributed computing
+Language and Computers - Studies in Practical Linguistics
+Dissertationen zur künstlichen Intelligenz
+Internationale Computer-Bibliothek
+Ablex series in computational science
+Praktische Informatik
+Computer graphics: systems and applications
+Data communications and networks series
+PHI Series in computer science
+CSLI Lecture Notes
+Yourdon Press Computing series
+Springers angewandte Informatik
+Lecture Notes in Engineering and Computer Science
+Research notes in theoretical computer science
+Springer Series on Touch and Haptic Systems
+History of computing
+Data-Centric Systems and Applications
+Teubner Studienbücher
+X.media.press
+International series in logic programming
+Symbolic computation: artificial intelligence
+Advanced information and knowledge processing
+Artificial intelligence = Künstliche Intelligenz
+Computer systems
+Objekttechnologie
+SEI series in software engineering
+Prentice Hall international editions
+Series on integrated circuits and systems
+Mathematik für Informatiker
+Synthesis Lectures on Professionalism and Career Advancement for Scientists and Engineers
+Computational intelligence
+Informatik
+Synthesis Lectures on Technology, Management, and Entrepreneurship
+Prentice Hall series in computer science
+Künstliche Intelligenz
+Synthesis Lectures on the Semantic Web: Theory and Technology
+Logic programming
+Oxford mathematical monographs
+Principles of computer science series
+Pure and applied mathematics
+Yourdon Press computing series
+The Java series
+Benjamin/Cummings series in object-oriented software engineering
+Benjamin/Cummings series in computer science
+Synthesis Lectures on the Semantic Web
+Mathematik Kompakt
+Advances in Data Base Theory
+Mathematische Grundlagen der Informatik
+Computer aided systems engineering
+Loop transformations for restructuring compilers
+Computation and neural systems series
+Prentice Hall Silicon systems engineering series
+Graduate texts in mathematics
+Australian Computer Science Communications
+Datenbanksysteme
+MOS-SIAM Series on Optimization
+ACM Press frontier series
+Cambridge studies in advanced mathematics
+Foundation of computing series
+Applied and numerical harmonic analysis
+Algorithms and computation in mathematics
+Collection Didactique
+McGrawhill international series in software engineering
+Studienreihe Informatik
+Essays in cognitive psychology
+The Morgan Kaufmann series in systems on silicon
+Springer undergraduate texts in mathematics and technology
+McGraw-Hill series in electrical engineering
+Morgan Kaufmann series in representation and reasoning
+Algorithms and combinatorics
+Computational mathematics and applications
+Synthese library
+Advances in design and control
+Computer science classics
+Cambridge mathematical textbooks
+Computers and people series
+Extraction des Connaissances et Apprentissage
+CBMS-NSF regional conference series in applied mathematics
+Student mathematical library
+Ablex series in artificial intelligence
+Ellis Horwood Series in computers and their applications
+Basiswissen
+CSLI Studies in Computational Linguistics
+Mathematical Research
+Research Notes in Theoretical Computer Science
+Chapman and Hall / CRC mathematical and computational biology series
+The virtual laboratory
+Mathematik für Anwendungen
+MIT Press series in the foundations of computing
+xml.bibliothek
+NASA Conference Proceedings
+Monographs in computer science
+Berichte aus der Mathematik
+IEEE Computer Society Press Tutorial
+Springer Lehrbuch Mathematik
+Encyclopedia of mathematics and its applications
+MIT electrical engineering and computer science series
+Zielorientiertes Software Development
+MIT Press series in computer systems
+Data-centric systems and applications
+Graduate texts in computer science
+Help for Unix system administrators
+Artificial intelligence - Künstliche Intelligenz
+Discrete mathematics and theoretical computer science
+Texts in Algorithmics
+Synthesis Lectures on Visualization
+Edition Screen Multimedia
+MIT Press series in artificial intelligence
+Notes on Numerical Fluid Mechanics
+Programm Angewandte Informatik
+Wadsworth & Brooks / Cole mathematics series
+vdf Praxis und Lehre
+Theory and Applications of Computability
+Advances in Bioinformatics and Computational Biology
+Monographs in visual communication
+Preprint
+Theory in practice
+Pearson Studium
+Informationssicherheit
+Mathematik für Ingenieure
+Theorie der Informatik
+ICB Research Report
+Wiley-Interscience series in systems and optimization
+Complex adaptive systems
+Spektrum Hochschultaschenbuch
+ACL-MIT press series in natural language processing
+Kluwer International Series in Engineering and Computer Science
+FZI-Berichte Informatik
+Contemporary Mathematics
+ACM Doctoral dissertation awards
+Vieweg Lehrbuch
+Cambridge Tracts in Theoretical Computer Science
+Geometry and computing
+Ellis Horwood workshop series
+Wiley series in communication and distributed systems
+Make projects
+Grundlehren der mathematischen Wissenschaften
+Frontiers of computer science
+Communications and control engineering series
+Use R
+Scientific and engineering computation
+Studies in Universal Logic
+ACM monograph series
+McGraw-Hill series in software engineering and technology
+Classics in mathematics
+Datalogiske Skrifter
+Topics in Computer Mathematics
+Yourdon Press Computing Series
+The Fraunhofer IESE Series on Software and Systems Engineering
+Synthesis Lectures on Solid State Materials and Devices
+GMM-Fachbericht
+Computeralgebra
+Datenverarbeitungspraxis
+The Enterprise Engineering Series
+Informationstechnik
+The MIT Press essential knowledge series
+Information systems
+Wiley series in probability and statistics
+Production and Logistics
+Unix power tools
+PC professionell
+BRICS Dissertation Series
+Sixth-Generation computer technology series
+Bejnamin/Cummings series in computer science
+Vieweg Studium Aufbaukurs Mathematik
+Prentice Hall Series in Innovative Technology
+notThenot PWS series in computer science
+Wiley series on information and communication technology
+Anwendungsorientierte Informatik
+Prentice Hall Silicon Systems Engineering Series
+Hanser-Studien-Bücher
+World wide series in computer science
+Langue, raisonnement, calcul
+Professional Computing
+Springers Lehrbücher der Informatik
+Texts in statistical science series
+The SEI series in software engineering
+Series in Machine Perception and Artificial Intelligence
+Applied mathematics and computation
+Routledge Series in Information Systems
+UNIX easy
+English for academic purposes series
+Understanding science and technology series
+Systems and control
+Cambridge Introductions to Music
+Software engineering series
+Fundamentals of algorithms
+Teubner Texte zur Informatik
+Texts in Logic and Games
+GMD Report
+Logic Programming
+Addison Wesley object technology series
+Studies in Cognitive Systems
+Atlantis Studies in Computing
+Berichte aus dem Department für Informatik / Universität Oldenburg / Fachbereich Informatik
+Lingen PC Bibliothek
+McGraw-Hill series in information processing and computers
+MikorComputer-Praxis
+MIT Press series in scientific computation
+Synthesis Lectures on The Semantic Web
+Academic Press series in engineering
+UQP nonfiction
+The Prentice Hall service technology series
+The systems programming series
+Information revolution and global politics
+Report
+Use R!
+Chapman and Hall mathematics series
+Prentice Hall International series in systems and control engineering
+Studies in Logic and the Foundations of Mathematics
+Vieweg Lehrbuch Angewandte Mathematik
+ACM International Conference Proceedings Series
+PC professional
+Embedded Systems
+Reihe Informationstechnik/Nachrichtentechnik
+The SunSoft Press Java series
+Ellis Horwood series series in interactive information systems
+Konstanzer Schriften in Mathematik und Informatik
+Colloquium Publications
+Ellis Horwood Series in artificial intelligence
+Prentice Hall International series in Computer Science
+Ellis Horwood series in interactive information systems
+Interdisziplinäre Wissenschaft
+Lectures in mathematics
+Informatik Berichte
+Statistical modeling and decision science
+notThenot Wadsworth series in management information series
+The expert's voice
+AKM series in theoretical computer science
+Theory and Decision Library
+DIMACS Series in Discrete Mathematics and Theoretical Computer Science
+Ellis Horwood Series in Computers and their applications
+Studien-Texte Informatik
+Veröffentlichungen der Universitäsbibliothek Essen
+Advances in Databases Systems
+Ellis Horwood Series in computer communications and networking
+Current Issues in Linguistic Theory (CILT)
+Ellis Horwood books in information technology
+Multimedia Systems and Applications
+Cooperative Information Systems series
+Systems and control : foundations and applications
+Digital design and applications
+Problem books in mathematics
+Informatik im Fokus
+The Cambridge Series on Electronic Publishing
+Help for Internet users
+Help for system administrators
+Sicherheit in der Informations- und Kommunikationstechnik
+Tutorial monographs in cognitive science
+Berichte aus der Umweltinformatik
+The pragmatic programmers
+Computer software engineering series
+McGraw-Hill series in engineering sciences
+Department of Computing Technical Report
+The underground guide series
+Studien des Büros für Technikfolgen-Abschätzung beim Deutschen Bundestag
+London Mathematical Society lecture note series
+Applied mathematical sciences
+Beiträge zur Informatik
+Multiagent Systems, Artificial Societies, and Simulated Organizations
+Economic learning and social evolution
+CTIT Workshop Proceedings
+Practical software engineering series
+C++ in-depth series
+Lehr- und Handbücher der Statistik
+Springer books on professional computing
+Aksen Associates series in electrical and computer engineering
+International Series in Intelligent Technologies
+Wiley interscience series in discrete mathematics and optimization
+Lehrbücher Wirtschaftsinformatik
+The Morgan Kaufmann Series in Computer Architecture and Design
+Advanced studies of computer science
+Artech House computer security series
+A Norton professional book
+MAA notes
+Leitfaeden der Informatik
+Computer security
+ix edition
+Santa Fe Institute Studies in the Sciences of Complexity
+Schriften zur EDV-orientierten Betriebswirtschaft
+Applicable theory in computer science
+Revue des Sciences et Technologies de l'Information - série RIA ECA
+Prentice Hall series in advanced communications technologies
+The SEI series in software engineering / Software Engineering Institute
+Wiley series in probability and mathematical statistics
+Lezioni Lincee
+Addison-Wesley series on tools and techniques for computer typesetting
+Law, Governance and Technology Series
+Springer series in perception engineering
+Wiley series in computing
+Advanced Information Processing
+Adaptation, learning, and optimization
+notThenot Addison-Wesley object technology series
+Product data engineering
+Antwerp papers in linguistics
+Advanced studies in computer science
+ACM Press Frontier Series
+General electric series
+The Kluwer international series in engineering and computer science
+Mathematical Centre Tracts
+MIT Press Series in Computer Systems
+Uni-text
+Wiley series in microwave and optical engineering
+Advances in soft computing
+IET Control Engineering Series
+Annales Academiae Scientiarum Fennecae, Series A
+The Kluwer International Series in Engineering and Computer Science 296
+SPIE / IEEE series on imaging science and engineering
+x.media.press
+Programming series
+Advanced Information Technology
+VDI-Buch
+Insight series in artificial intelligence
+Advanced manufacturing series
+McGraw-Hill international series in software engineering
+McGraw Hill series in computer science
+Aachener Beiträge zur Wissenschafts- und Technikgeschichte des 20. Jahrhunderts
+The Morgan Kaufmann series in networking
+ACM Press tutorial series
+European semiotics
+Wiley series in telecommunications and signal processing
+Sitzungsberichte der Heidelberger Akademie der Wissenschaften: Mathematisch-naturwissenschaftliche Klasse: Jahrgang 1995, 2. Abhandlung
+Electronic Workshops in Computing
+Encyclopedia of Mathematics and its Applications
+International Computer Science Series
+DUV Wirtschaftsinformatik
+Arbeitspapiere der GMD
+Minerva-Fachserie Naturwissenschaften
+Reihe Fachwissen Telekommunikation
+Operations research / computer science interfaces series
+Hayden books Unix System Library
+J. Ranade Workstation series
+Signals and communication technology
+Addison-Wesley advanced Windows series
+Mathematical lecture note series
+Addison-Wesley series in artificial intelligence
+Prentice Hall series in computer networking and distributed systems
+Research in computer science
+Discrete mathematics and its applications series
+Chapman and Hall / CRC studies in informatics series
+McGrawHill international series in software engineering
+Hewlett-Packard Press Series
+Artificial intelligence series
+McGraw-Hill international editions: computer science series
+Insiderbuch
+Chapman and Hall / CRC Data Mining and Knowledge Discovery Series
+Chapman and Hall / CRC machine learning and pattern recognition series
+Hildesheimer Informatik-Berichte
+Prentice Hall software series
+SEKI Working Paper
+Entrepreneurship
+Infosys Press
+Algorithms and architectures for advanced scientific computing
+Chapman and Hall Mathematics
+ACL Anthology
+Addison-Wesley series in telecommunications
+Ulmer Informatik-Berichte
+Algorithms and Combinatorics
+Spektrum Lehrbuch
+Prentice Hall object-oriented series
+Xpert.Press
+Informatik-Lehrbuch
+Artificial intelligence and legal reasoning
+Addison-Wesley Kompaktführer
+Wirtschaftsinformatik / Business Computing
+ACM Doctoral dissertation award ; 1991
+London Mathematical Society student texts
+Edition SEL-Stiftung
+NATO Security through Science Series D: Information and Communication Security
+Applied Logic Series
+Synthesis Lectures on Chemical Engineering and Biochemical Engineering
+Prentice Hall computer applications in electrical engineering series
+Micro computer books
+Ablex computational science series
+Ellis Hoorwood series in computers and their applications
+Best Practices Series
+International Handbooks on Information Systems
+Unix programming
+Broschüren des Informatik-Forums Stuttgart e. V
+Computational neuroscience
+Prentice Hall international series in industrial and systems engineering
+Fortschritt-Berichte VDI Reihe 10
+Emerging directions in database systems and applications
+Prentice-Hall Advances in computer science series
+Microelectronics systems design series
+Mathematics and visualization
+Lectures in mathematics / ETH Zürich
+Diss. ETH
+Graduate texts in comtemporary physics
+Ellis Horwood series in electrical and electronic engineering
+Understanding language series
+Forschungsberichte / Monographien / Tagungsbände
+Forschungsreport
+Web review studio series
+de Gruyter Lehrbuch
+Informationstechnologien für die Praxis
+Publishing Praxis
+Synthesis Lectures on Software Engineering
+The Morgan Kaufmann series in computer graphics and geometric modeling
+notThenot Morgan Kaufmann series in representation and reasoning
+Memoirs of the American Mathematical Society
+Data communications and networks
+McGraw-Hill Computer Science series
+Ellis Horwood books in computer science
+Wiley professional computingWiley series in software engineering practice
+Artificial Intelligence
+Advances in numerical mathematics
+McGraw-Hill Series in Information Processing and Computers
+notThenot James Martin Books
+Addison-Wesley series in statistics
+Programm-Information PI-45
+O'Reilly Web Studio
+Computer science series
+Service Science
+Distinguished dissertations
+Ellis Horwood Books in computing science
+The Lean Series
+Texts in Theoretical Computer Science. An EATCS Series
+Mitteilungen aus dem Forschungsinstitut der Deutschen Bundespost
+Schriftenreihe Informatik
+Cambridge series in human-computer interaction
+Mathematics and Visualization
+Ellis Horwood series in computer communications and networking
+Prentice Hall series in computational mathematics
+Springer Theses: Recognizing outstanding Ph.D. Research
+notThenot Benjamin/Cummings series in computer science
+Advances in computer vision and machine intelligence
+SPIE/IEEE series on imaging science and engineering
+Synthesis lectures on digital circuits and systems
+McGraw-Hill Series in computer organization and architecture
+notThenot Java series
+Computation in cognitive science
+Dissertationen zu Datenbanken und Informationssystemen
+Reports on Communications and Distributed Systems
+Linux Specials
+Computers and security
+Hewlett-Packard professional books
+Lecture Notes Series on Computing
+Advances in industrial control
+PARAT
+International software quality assurance series
+Inside technology
+Addison-Wesley series in object-oriented software engineering
+Wiley series in industrial software engineering practice
+Wiley-interscience series in systems and optimization
+Prentice Hall series in computer engineering
+Applied mathematics and computation: 94. 1998
+Prenctice Hall International series in systems and control engineering
+DUV Datenverarbeitung
+Cambridge international series on parallel computation
+PC-professionell
+Springer monographs in mathematics
+Progress in theoretical computer science
+Texts and monographs in symbolic computation
+ACM Distinguished dissertations
+ACM Distinguished Dissertations
+Analog Circuits and Signal Processing
+John Wiley Information systems series
+Mathematics and Its Applications
+SunSoft Press Java series
+ICB-Research Report
+Prentice Hall international series in systems and control engineering
+Rotbuch Rationen
+Short Topics in System Administration
+Multimedia engineering
+Prentice Hall International series in computer science and engineering
+Powerful techniques for Perl and other tools
+Prentice Hall Series in computer engineering
+Computing & Philosophy
+Angewandte Informatik
+Frontiers in electronic testing
+Simulation Foundations, Methods and Applications
+Lecture notes in economics and mathematical systems
+Semantics Structures in Computation
+Cognitive science series
+London Mathematical Society Lecture Note Series
+Perspectives in logic
+Chapman and Hall / CRC Applied Algorithms and Data Structures Series
+Informationstechnik und Datenverarbeitung
+dpunkt.lehrbuch
+Oxford science publications
+Wiley-IS&T series in imaging science and technology
+Springer Handbooks of Computational Statistics
+Benjamin/Cummings Series in computer science and engineering
+Prentice Hall International Series in computer science
+Computer science and data analysis series
+Veröffentlichungen des Instituts für Bibliothekswissenschaft und Bibliothekarausbildung der Freien Universität Berlin
+Studies in nonlinearity
+Academic Press international series in formal methods
+The IBM Research Symposia Series
+dpunkt.Lehrbuch
+Lecture Notes in Mathematics
+HRW Series in electrical and computer engineering
+Series in software engineering
+Xpert.press
+A nutshell handbook
+VDE-Fachbericht
+Prentice Hall signal processing series
+Software Studies
+Forschungsberichte/Monographien/Tagungsbände
+International series in operations research and management science
+Advanced perspectives in applied computing
+Dissertations in geographic information science
+Human computer interaction
+Electronic-systems engineering series
+Springer Briefs in Electrical and Computer Engineering
+Chapman and Hall / CRC innovations in software engineering and software development
+Prentice Hall Information and System Sciences Series
+Prentice Hall advances in computer science series
+Terrorism, Security, and Computation
+Journal of mathematical analysis and applications : 226. 1998
+SIKS dissertation series
+Fortschritt-Berichte VDI Reihe 3: Verfahrenstechnik
+Programm angewandte Informatik
+Informatik Lehrbuchreihe
+Brady programming library
+European Forest Institute Research Report
+Progress in mathematics
+Computer and communication sciences
+English corpus linguistics
+COE Research Monograph Series
+Stanford Artificial Intelligence Laboratory: Memo AIM
+Lebensgeschichten aus der Wissenschaft
+Springer Compass International
+Artificial Intelligence = Künstliche Intelligenz
+Chapman and Hall / CRC computational science series
+Prentice-Hall series in automatic computation
+Teubner Studienbücher: Informatik
+EATCS Texts in Theoretical Computer Science
+Prentice Hall International editions
+ACM Press books
+Preprints aus dem Institut für Informatik
+X.media.interaktiv
+Logica Nova
+Explorations in language and space
+IEEE computer society press monograph
+Digital Press X and Motif Series
+Prentice-Hall international series in computer science
+British library research
+Advances in parallel computing
+Prentice Hall International Editions
+Mathematical modeling and computation
+Foundations of Computing Series
+Studies in linguistics and philosophy
+Prentice Hall Series in Computer Engineering
+Teubner Studienbücher Ingenieurmathematik
+Neue Software
+Chapman and Hall / CRC computer and information science series
+Digital audio and video series
+Oldenburg computer science series
+Recent research in psychology
+Hanser Studien-Bücher der Informatik
+Ellis Horwood Series in mathematics and its applications
+Kluwer international series in engineering and computer science
+John von Neumann Institute for Computing Series
+Astronomy and astrophysics library
+Wiley series in systems engineering
+T-Labs Series in Telecommunication Services
+Berichte aus der Elektrotechnik
+ASCI dissertation
+Database systems
+Reihe Informationstechnik und Datenverarbeitung
+Addison-Wesley series in electrical and computer engineering
+Database management systems
+Prentice Hall series in artificial intelligence
+Universität Trier, Mathematik/Informatik, Forschungsbericht
+Zurich Lectures in Advanced Mathematics
+Numerical analysis and scientific computation
+Chapman & Hall computing series
+Informatik und Computer
+Learning in doing: social,cognitive,and computational perspectives
+Vieweg Studium Aufbaukurs Mathematik = Advanced lectures in mathematics
+NATO ASI Series F: Computing and Systems Sciences
+Sun Blueprints
+Johns Hopkins series in the mathematical sciences
+Chapman and Hall Computing Series
+Ellis Horwood series in digital and signal processing
+Lero Technical Report
+CAD/CAM, robotics, and computer vision
+Cambridge series in statistical and probabilistic mathematics
+Oxford Studies in the Evolution of Language
+Edition ALCATEL-SEL-Stiftung
+Forschungsbeiträge zur Wirtschaftsinformatik
+Hanser-Studienbücher
+Borland Osborne / McGraw-Hill programming series
+Ellis Horwood series in mathematics and its applications
+Vieweg advanced studies in computer science
+Prentice-Hall Software Series
+Hochschultext
+Geschichte der verpaßten Gelegenheiten: Standort Deutschland
+Software Engineering Institute series in software engineering
+Studienführer im dtv
+INFSYS Research Report
+Best Practices for Longitudinal Data
+Library and information science series
+Physics series
+Atlantis Thinking Machines
+Forschen und Wissen Informatik
+Applied mathematics and computation : 93. 1998
+The information retrieval series
+Semantic Web And Beyond
+The Kluwer international series on computer supported cooperative work
+Springer series in symbolic computation
+Vieweg Studium
+McGraw Hill series on computer communications
+AAAI Fall Symposium Series
+Technology in education series
+BRICS Notes Series
+notThenot SunSoft Press Java series
+SMLI TR
+Oxford logic guides
+The essence of management series
+URA-CNRS
+Kendall's library of statistics
+Macmillan computer science series
+Multimedia systems and applications
+Wolfram's Anwender- und Programmierhandbuch
+Wolfram's Anwender- und Programmierhandbücher
+SIAM studies in applied mathematics
+What Every Engineer Should Know About
+Nutshell handbooks
+Princeton computer science notes
+Cambridge Studies in Probability, Induction and Decision Theory
+UNIX und seine Werkzeuge

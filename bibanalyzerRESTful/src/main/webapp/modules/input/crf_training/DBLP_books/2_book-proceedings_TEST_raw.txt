@@ -1,0 +1,2 @@
+Laveen N. Kanal, Tod S. Levitt, and John F. Lemmer, editors. UAI '87: Proceedings of the Third Annual Conference on Uncertainty in Artificial Intelligence, Seattle, WA, USA, July 10-12, 1987, 1989. Elsevier. ISBN 0-444-87417-8. URL db/conf/uai/uai1987.html.
+Donald Sannella en Andrzej Tarlecki, redactie. Recent Trends in Data Type Specification, 5th Workshop on Abstract Data Types, Gullane, Scotland, September 1-4, 1987, Selected Papers, Lecture Notes in Computer Science, deel 332. Springer, 1987.

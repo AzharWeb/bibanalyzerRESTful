@@ -1,0 +1,455 @@
+BOR <BOR>
+&nbsp; <&nbsp;>
+John <Initials>
+&nbsp; <&nbsp;>
+L <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Pasalis <FamilyName>
+. <&period;>
+&nbsp; <&nbsp;>
+Realize <ChapterTitle>
+: <ChapterTitle>
+&nbsp; <ChapterTitle>
+An <ChapterTitle>
+&nbsp; <ChapterTitle>
+interactive <ChapterTitle>
+&nbsp; <ChapterTitle>
+graphical <ChapterTitle>
+&nbsp; <ChapterTitle>
+data <ChapterTitle>
+&nbsp; <ChapterTitle>
+structure <ChapterTitle>
+&nbsp; <ChapterTitle>
+presentation <ChapterTitle>
+&nbsp; <ChapterTitle>
+and <ChapterTitle>
+&nbsp; <ChapterTitle>
+rendering <ChapterTitle>
+&nbsp; <ChapterTitle>
+system <ChapterTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Master <BookTitle>
+' <BookTitle>
+s <BookTitle>
+&nbsp; <BookTitle>
+thesis <BookTitle>
+, <&comma;>
+&nbsp; <&nbsp;>
+Computer <PublisherName>
+&nbsp; <PublisherName>
+Science <PublisherName>
+&nbsp; <PublisherName>
+Division <PublisherName>
+, <PublisherName>
+&nbsp; <PublisherName>
+University <PublisherName>
+&nbsp; <PublisherName>
+of <PublisherName>
+&nbsp; <PublisherName>
+California <PublisherName>
+, <PublisherName>
+&nbsp; <PublisherName>
+Berkeley <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Berkeley <PublisherLocation>
+, <PublisherLocation>
+&nbsp; <PublisherLocation>
+CA <PublisherLocation>
+&nbsp; <PublisherLocation>
+94720 <PublisherLocation>
+, <&comma;>
+&nbsp; <&nbsp;>
+1992 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Eileen <Initials>
+&nbsp; <&nbsp;>
+C <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Way <FamilyName>
+. <&period;>
+&nbsp; <&nbsp;>
+Conceptual <ChapterTitle>
+&nbsp; <ChapterTitle>
+graphs <ChapterTitle>
+: <ChapterTitle>
+&nbsp; <ChapterTitle>
+Past <ChapterTitle>
+, <ChapterTitle>
+&nbsp; <ChapterTitle>
+present <ChapterTitle>
+, <ChapterTitle>
+&nbsp; <ChapterTitle>
+and <ChapterTitle>
+&nbsp; <ChapterTitle>
+future <ChapterTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+In <Initials>
+&nbsp; <Initials>
+William <Initials>
+&nbsp; <&nbsp;>
+M <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Tepfenhart <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Judith <Initials>
+&nbsp; <&nbsp;>
+P <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Dick <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+and <dummy>
+&nbsp; <&nbsp;>
+John <Initials>
+&nbsp; <&nbsp;>
+F <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Sowa <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+editors <dummy>
+, <&comma;>
+&nbsp; <&nbsp;>
+Proceedings <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+the <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+2nd <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+International <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Conference <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+on <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Conceptual <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Structures <Italic> <BookTitle>
+: <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Current <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Practices <Italic> <BookTitle>
+, <&comma;>
+&nbsp; <&nbsp;>
+volume <dummy>
+&nbsp; <&nbsp;>
+835 <NumberInSeries>
+&nbsp; <&nbsp;>
+of <dummy>
+&nbsp; <&nbsp;>
+LNAI <SeriesTitle>
+, <&comma;>
+&nbsp; <&nbsp;>
+pages <dummy>
+&nbsp; <&nbsp;>
+11 <FirstPage>
+– <&hypen;>
+30 <LastPage>
+, <&comma;>
+&nbsp; <&nbsp;>
+Berlin <PublisherLocation>
+, <&comma;>
+&nbsp; <&nbsp;>
+August <dummy>
+&nbsp; <&nbsp;>
+1994 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+Springer <PublisherName>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Hetherington <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+E <Initials>
+. <Initials>
+&nbsp; <Initials>
+Mavis <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+Roger <Initials>
+&nbsp; <&nbsp;>
+Cox <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+and <dummy>
+&nbsp; <&nbsp;>
+Martha <Initials>
+&nbsp; <&nbsp;>
+Cox <FamilyName>
+. <&period;>
+&nbsp; <&nbsp;>
+1982 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+“ <&ldquo;>
+Effects <ChapterTitle>
+&nbsp; <ChapterTitle>
+of <ChapterTitle>
+&nbsp; <ChapterTitle>
+Divorce <ChapterTitle>
+&nbsp; <ChapterTitle>
+on <ChapterTitle>
+&nbsp; <ChapterTitle>
+Parents <ChapterTitle>
+&nbsp; <ChapterTitle>
+and <ChapterTitle>
+&nbsp; <ChapterTitle>
+Children <ChapterTitle>
+. <&period;>
+” <&rdquo>
+&nbsp; <&nbsp;>
+In <dummy>
+&nbsp; <&nbsp;>
+Nontraditional <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Families <Italic> <BookTitle>
+: <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Parenting <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+and <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Child <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Development <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+ed <dummy>
+. <&period;>
+&nbsp; <&nbsp;>
+Michael <Initials>
+&nbsp; <Initials>
+E <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Lamb <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+pp <dummy>
+. <&period;>
+&nbsp; <&nbsp;>
+223 <FirstPage>
+– <&hypen;>
+88 <LastPage>
+. <&period;>
+&nbsp; <&nbsp;>
+New <PublisherLocation>
+&nbsp; <PublisherLocation>
+York <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+L <PublisherName>
+. <PublisherName>
+&nbsp; <PublisherName>
+Erlbaum <PublisherName>
+&nbsp; <PublisherName>
+Associates <PublisherName>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Parcel <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Toby <Initials>
+. <&period;>
+&nbsp; <&nbsp;>
+1989 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+“ <&ldquo;>
+Comparable <ChapterTitle>
+&nbsp; <ChapterTitle>
+Worth <ChapterTitle>
+, <ChapterTitle>
+&nbsp; <ChapterTitle>
+Occupational <ChapterTitle>
+&nbsp; <ChapterTitle>
+Labor <ChapterTitle>
+&nbsp; <ChapterTitle>
+Markets <ChapterTitle>
+, <ChapterTitle>
+&nbsp; <ChapterTitle>
+and <ChapterTitle>
+&nbsp; <ChapterTitle>
+Occupational <ChapterTitle>
+&nbsp; <ChapterTitle>
+Earnings <ChapterTitle>
+: <ChapterTitle>
+&nbsp; <ChapterTitle>
+Results <ChapterTitle>
+&nbsp; <ChapterTitle>
+from <ChapterTitle>
+&nbsp; <ChapterTitle>
+the <ChapterTitle>
+&nbsp; <ChapterTitle>
+1980 <ChapterTitle>
+&nbsp; <ChapterTitle>
+Census <ChapterTitle>
+. <&period;>
+” <&rdquo>
+&nbsp; <&nbsp;>
+In <dummy>
+&nbsp; <&nbsp;>
+Pay <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Equity <Italic> <BookTitle>
+: <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Empirical <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Issues <Italic> <BookTitle>
+, <&comma;>
+&nbsp; <&nbsp;>
+edited <dummy>
+&nbsp; <&nbsp;>
+by <dummy>
+&nbsp; <&nbsp;>
+Robert <Initials>
+&nbsp; <Initials>
+T <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Michael <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Heidi <Initials>
+&nbsp; <&nbsp;>
+I <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Hartmann <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+and <dummy>
+&nbsp; <&nbsp;>
+Brigid <Initials>
+&nbsp; <&nbsp;>
+O <FamilyName>
+' <FamilyName>
+Farrell <FamilyName>
+. <&period;>
+&nbsp; <&nbsp;>
+Washington <PublisherLocation>
+, <PublisherLocation>
+&nbsp; <PublisherLocation>
+D <PublisherLocation>
+. <PublisherLocation>
+C <PublisherLocation>
+. <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+National <PublisherName>
+&nbsp; <PublisherName>
+Academy <PublisherName>
+&nbsp; <PublisherName>
+Press <PublisherName>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Hansruedi <Initials>
+&nbsp; <&nbsp;>
+Heeb <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+“ <&ldquo;>
+A <ChapterTitle>
+&nbsp; <ChapterTitle>
+Rule <ChapterTitle>
+- <ChapterTitle>
+Based <ChapterTitle>
+&nbsp; <ChapterTitle>
+System <ChapterTitle>
+&nbsp; <ChapterTitle>
+for <ChapterTitle>
+&nbsp; <ChapterTitle>
+Polycell <ChapterTitle>
+&nbsp; <ChapterTitle>
+Generation <ChapterTitle>
+, <&comma;>
+” <&rdquo>
+&nbsp; <&nbsp;>
+in <dummy>
+&nbsp; <&nbsp;>
+Fast <Italic> <BookTitle>
+- <Italic> <BookTitle>
+Protyping <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+VLSI <Italic> <BookTitle>
+, <&comma;>
+&nbsp; <&nbsp;>
+ed <dummy>
+. <&period;>
+&nbsp; <&nbsp;>
+G <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Saucier <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+E <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Read <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+and <dummy>
+&nbsp; <&nbsp;>
+J <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Trilhe <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+pp <dummy>
+. <&period;>
+&nbsp; <&nbsp;>
+109 <FirstPage>
+– <&hypen;>
+116 <LastPage>
+, <&comma;>
+&nbsp; <&nbsp;>
+Elsevier <PublisherName>
+&nbsp; <PublisherName>
+Science <PublisherName>
+&nbsp; <PublisherName>
+Publishers <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Amsterdam <PublisherLocation>
+, <&comma;>
+&nbsp; <&nbsp;>
+1987 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+

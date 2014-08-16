@@ -1,0 +1,1042 @@
+BOR <isPunctOrUpper> 
+&nbsp; 
+K <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Marti 
+, 
+&nbsp; 
+Advances <inDict> 
+&nbsp; 
+in <inDict> 
+&nbsp; 
+Engineering <inDict> <isSpringerPublisherName> 
+&nbsp; 
+Software <inDict> 
+&nbsp; 
+46 
+( 
+1 
+) 
+, 
+&nbsp; 
+43 
+&nbsp; 
+( 
+2012 <isYear> 
+) 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+D <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+B <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Herrmann <isSpringerPublisherName> 
+, 
+&nbsp; 
+“ 
+Astronomy <inDict> 
+&nbsp; 
+in <inDict> 
+&nbsp; 
+the <inDict> 
+&nbsp; 
+twentieth <inDict> 
+&nbsp; 
+century <inDict> 
+. <isPunctOrUpper> 
+” 
+&nbsp; 
+Scientometrics <inDict> 
+, 
+&nbsp; 
+vol <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+9 
+, 
+&nbsp; 
+no <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+3 
+- 
+4 
+, 
+&nbsp; 
+pp <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+187 
+- 
+191 
+, 
+&nbsp; 
+1986 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Birger 
+&nbsp; 
+Koblitz 
+, 
+&nbsp; 
+Nuno 
+&nbsp; 
+Santos 
+, 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+V <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Pose <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+The <inDict> <isSpringerPublisherName> 
+&nbsp; 
+AMGA <isPunctOrUpper> 
+&nbsp; 
+Metadata <inDict> 
+&nbsp; 
+Service <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+J <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Grid <inDict> <isSpringerPublisherName> 
+&nbsp; 
+Comput <isSpringerPublisherName> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+6 
+( 
+1 
+) 
+: 
+61 
+- 
+76 
+, 
+&nbsp; 
+2008 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+G <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+H <isPunctOrUpper> <isSpringerPublisherName> 
+. <isPunctOrUpper> <isSpringerPublisherName> 
+&nbsp; <isSpringerPublisherName> 
+Freeman <inDict> <isSpringerPublisherName> 
+, 
+&nbsp; 
+I <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+F <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Blake 
+, 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+J <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+W <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Mark <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+Trellis <inDict> 
+&nbsp; 
+source <inDict> 
+&nbsp; 
+code <inDict> 
+&nbsp; 
+design <inDict> 
+&nbsp; 
+as <inDict> 
+&nbsp; 
+an <inDict> 
+&nbsp; 
+optimization <inDict> 
+&nbsp; 
+problem <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+IEEE <inDict> <isPunctOrUpper> <isSpringerPublisherName> 
+&nbsp; 
+Transactions <inDict> <isSpringerPublisherName> 
+&nbsp; 
+on <inDict> 
+&nbsp; 
+Information <inDict> 
+&nbsp; 
+Theory <inDict> <isSpringerPublisherName> 
+, 
+&nbsp; 
+34 
+( 
+5 
+) 
+: 
+1226 
+- 
+1241 
+, 
+&nbsp; 
+1988 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Toshiyuki 
+&nbsp; 
+Hama 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Hiroaki 
+&nbsp; 
+Etoh 
+. <isPunctOrUpper> 
+&nbsp; 
+Topological <inDict> 
+&nbsp; 
+routing <inDict> 
+&nbsp; 
+path <inDict> 
+&nbsp; 
+search <inDict> 
+&nbsp; 
+algorithm <inDict> 
+&nbsp; 
+with <inDict> 
+&nbsp; 
+incremental <inDict> 
+&nbsp; 
+routability <inDict> 
+&nbsp; 
+test <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+IEEE <inDict> <isPunctOrUpper> <isSpringerPublisherName> 
+&nbsp; <isSpringerPublisherName> 
+Trans <inDict> <isSpringerPublisherName> 
+. <isPunctOrUpper> 
+&nbsp; 
+on <inDict> 
+&nbsp; 
+CAD <inDict> <isPunctOrUpper> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+Integrated <inDict> 
+&nbsp; 
+Circuits <inDict> 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Systems <inDict> <isSpringerPublisherName> 
+, 
+&nbsp; 
+18 
+( 
+2 
+) 
+: 
+142 
+- 
+150 
+, 
+&nbsp; 
+1999 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Md <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+Saidur 
+&nbsp; 
+Rahman 
+&nbsp; 
+0001 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Satoshi 
+&nbsp; 
+Fujita 
+, 
+&nbsp; 
+editors <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+WALCOM <isPunctOrUpper> 
+: 
+&nbsp; 
+Algorithms <inDict> 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Computation <inDict> 
+, 
+&nbsp; 
+4th 
+&nbsp; 
+International <inDict> <isSpringerPublisherName> 
+&nbsp; 
+Workshop <inDict> <isSpringerPublisherName> 
+, 
+&nbsp; 
+WALCOM <isPunctOrUpper> 
+&nbsp; 
+2010 <isYear> 
+, 
+&nbsp; 
+Dhaka <isSpringerPublisherName> 
+, 
+&nbsp; 
+Bangladesh <inDict> 
+, 
+&nbsp; 
+February <inDict> <isSpringerPublisherName> 
+&nbsp; 
+10 
+- 
+12 
+, 
+&nbsp; 
+2010 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+Proceedings <inDict> <isSpringerPublisherName> 
+, 
+&nbsp; 
+volume <inDict> 
+&nbsp; 
+5942 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+Lecture <inDict> <isSpringerPublisherName> 
+&nbsp; <isSpringerPublisherName> 
+Notes <inDict> <isSpringerPublisherName> 
+&nbsp; <isSpringerPublisherName> 
+in <inDict> <isSpringerPublisherName> 
+&nbsp; <isSpringerPublisherName> 
+Computer <inDict> <isSpringerPublisherName> 
+&nbsp; <isSpringerPublisherName> 
+Science <inDict> <isSpringerPublisherName> 
+, 
+&nbsp; 
+2010 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+Springer <inDict> <isSpringerPublisherName> 
+. <isPunctOrUpper> <isSpringerPublisherName> 
+&nbsp; 
+ISBN <inDict> <isPunctOrUpper> 
+&nbsp; 
+978 
+- 
+3 
+- 
+642 
+- 
+11439 
+- 
+7 
+. <isPunctOrUpper> 
+&nbsp; 
+URL <inDict> <isPunctOrUpper> 
+&nbsp; 
+db <inDict> 
+/ 
+conf <inDict> 
+/ 
+walcom 
+/ 
+walcom2010 
+. <isPunctOrUpper> 
+html <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Ethan 
+&nbsp; 
+L <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Miller <inDict> 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Erez 
+&nbsp; 
+Zadok 
+, 
+&nbsp; 
+editors <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+Proceedings <inDict> <isSpringerPublisherName> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+the <inDict> 
+&nbsp; 
+2006 <isYear> 
+&nbsp; 
+ACM <inDict> <isPunctOrUpper> <isSpringerPublisherName> 
+&nbsp; 
+Workshop <inDict> <isSpringerPublisherName> 
+&nbsp; 
+On <inDict> 
+&nbsp; 
+Storage <inDict> 
+&nbsp; 
+Security <inDict> 
+&nbsp; 
+And <inDict> 
+&nbsp; 
+Survivability <inDict> 
+, 
+&nbsp; 
+StorageSS 
+&nbsp; 
+2006 <isYear> 
+, 
+&nbsp; 
+Alexandria <inDict> <isSpringerPublisherName> 
+, 
+&nbsp; 
+VA <inDict> <isPunctOrUpper> 
+, 
+&nbsp; 
+USA <inDict> <isPunctOrUpper> <isSpringerPublisherName> 
+, 
+&nbsp; 
+October <inDict> <isSpringerPublisherName> 
+&nbsp; 
+30 
+, 
+&nbsp; 
+2006 <isYear> 
+, 
+&nbsp; 
+2006 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+ACM <inDict> <isPunctOrUpper> <isSpringerPublisherName> 
+. <isPunctOrUpper> <isSpringerPublisherName> 
+&nbsp; 
+ISBN <inDict> <isPunctOrUpper> 
+&nbsp; 
+1 
+- 
+59593 
+- 
+552 
+- 
+5 
+. <isPunctOrUpper> 
+&nbsp; 
+db <inDict> 
+/ 
+conf <inDict> 
+/ 
+storagess 
+/ 
+storagess2006 
+. <isPunctOrUpper> 
+html <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Second <inDict> 
+&nbsp; 
+CYTED <isPunctOrUpper> 
+- 
+RITOS <isPunctOrUpper> 
+&nbsp; 
+International <inDict> <isSpringerPublisherName> 
+&nbsp; 
+Workshop <inDict> <isSpringerPublisherName> 
+&nbsp; 
+on <inDict> 
+&nbsp; 
+Groupware <inDict> 
+, 
+&nbsp; 
+CRIWG <isPunctOrUpper> 
+&nbsp; 
+' 
+96 
+, 
+&nbsp; 
+Puerto 
+&nbsp; 
+Varas 
+, 
+&nbsp; 
+Chile <inDict> <isSpringerPublisherName> 
+, 
+&nbsp; 
+September <inDict> <isSpringerPublisherName> 
+&nbsp; 
+25 
+- 
+27 
+, 
+&nbsp; 
+1996 <isYear> 
+, 
+&nbsp; 
+Proceedings <inDict> <isSpringerPublisherName> 
+, 
+&nbsp; 
+1996 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Eckhard 
+&nbsp; 
+D <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Falkenberg 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Wolfgang 
+&nbsp; 
+Hesse 
+, 
+&nbsp; 
+editors <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+Information <inDict> 
+&nbsp; 
+System <inDict> 
+&nbsp; 
+Concepts <inDict> 
+: 
+&nbsp; 
+Towards <inDict> 
+&nbsp; 
+a 
+&nbsp; 
+consolidation <inDict> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+views <inDict> 
+, 
+&nbsp; 
+Proceedings <inDict> <isSpringerPublisherName> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+the <inDict> 
+&nbsp; 
+IFIP <isPunctOrUpper> <isSpringerPublisherName> 
+&nbsp; 
+international <inDict> 
+&nbsp; 
+working <inDict> 
+&nbsp; 
+conference <inDict> 
+&nbsp; 
+on <inDict> 
+&nbsp; 
+information <inDict> 
+&nbsp; 
+system <inDict> 
+&nbsp; 
+concepts <inDict> 
+, 
+&nbsp; 
+Marburg <isSpringerPublisherName> 
+, 
+&nbsp; 
+Germany <inDict> <isSpringerPublisherName> 
+, 
+&nbsp; 
+28 
+- 
+30 
+&nbsp; 
+March <inDict> <isSpringerPublisherName> 
+&nbsp; 
+1995 <isYear> 
+, 
+&nbsp; 
+volume <inDict> 
+&nbsp; 
+26 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+IFIP <isPunctOrUpper> <isSpringerPublisherName> 
+&nbsp; 
+Conference <inDict> <isSpringerPublisherName> 
+&nbsp; 
+Proceedings <inDict> <isSpringerPublisherName> 
+. <isPunctOrUpper> 
+&nbsp; 
+Chapman <isSpringerPublisherName> 
+&nbsp; <isSpringerPublisherName> 
+& <isSpringerPublisherName> 
+&nbsp; <isSpringerPublisherName> 
+Hall <inDict> <isSpringerPublisherName> 
+, 
+&nbsp; 
+1995 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+MacClelland 
+, 
+&nbsp; 
+D <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+& 
+&nbsp; 
+Futato 
+, 
+&nbsp; 
+D <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+( 
+2008 <isYear> 
+) 
+, 
+&nbsp; 
+Adobe <inDict> 
+&nbsp; 
+InDesign 
+&nbsp; 
+CS4 
+&nbsp; 
+one <inDict> 
+- 
+on <inDict> 
+- 
+one <inDict> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+O <isPunctOrUpper> <isSpringerPublisherName> 
+' <isSpringerPublisherName> 
+Reilly <isSpringerPublisherName> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Anderson <isSpringerPublisherName> 
+, 
+&nbsp; 
+D <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+L <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Machine <inDict> 
+&nbsp; 
+Intentionality <inDict> 
+, 
+&nbsp; 
+the <inDict> 
+&nbsp; 
+Moral <inDict> 
+&nbsp; 
+Status <inDict> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+Machines <inDict> 
+, 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+the <inDict> 
+&nbsp; 
+Composition <inDict> 
+&nbsp; 
+Problem <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+In <inDict> 
+&nbsp; 
+Philosophy <inDict> 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Theory <inDict> <isSpringerPublisherName> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+Artificial <inDict> 
+&nbsp; 
+Intelligence <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+2013 <isYear> 
+, 
+&nbsp; 
+pp <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+321 
+- 
+333 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Vectorization <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+In <inDict> 
+&nbsp; 
+Encyclopedia <inDict> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+Parallel <inDict> 
+&nbsp; 
+Computing <inDict> 
+, 
+&nbsp; 
+page <inDict> 
+&nbsp; 
+2135 
+. <isPunctOrUpper> 
+&nbsp; 
+2011 <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Mazurek 
+, 
+&nbsp; 
+C <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Mielnicki 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Nowak 
+, 
+&nbsp; 
+A <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Stroinski 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Werla 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+& 
+&nbsp; 
+Weglarz 
+, 
+&nbsp; 
+J <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+( 
+2013 <isYear> 
+) 
+, 
+&nbsp; 
+Architecture <inDict> 
+&nbsp; 
+for <inDict> 
+&nbsp; 
+Aggregation <inDict> 
+, 
+&nbsp; 
+Processing <inDict> 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Provisioning <inDict> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+Data <inDict> 
+&nbsp; 
+from <inDict> 
+&nbsp; 
+Heterogeneous <inDict> 
+&nbsp; 
+Scientific <inDict> <isSpringerPublisherName> 
+&nbsp; 
+Information <inDict> 
+&nbsp; 
+Services <inDict> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+in <inDict> 
+&nbsp; 
+‘Intelligent 
+&nbsp; 
+Tools <inDict> 
+&nbsp; 
+for <inDict> 
+&nbsp; 
+Building <inDict> 
+&nbsp; 
+a 
+&nbsp; 
+Scientific <inDict> <isSpringerPublisherName> 
+&nbsp; 
+Information <inDict> 
+&nbsp; 
+Platform <inDict> 
+' 
+, 
+&nbsp; 
+pp <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+529 
+- 
+546 
+. <isPunctOrUpper> 
+&nbsp; 
+URL <inDict> <isPunctOrUpper> 
+: 
+&nbsp; 
+db <inDict> 
+/ 
+series <inDict> 
+/ 
+sci <inDict> 
+/ 
+sci467 
+. <isPunctOrUpper> 
+html#MazurekMNSWW13 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Tamir 
+, 
+&nbsp; 
+Y <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Liang 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Lai <inDict> 
+, 
+&nbsp; 
+T <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Tremblay 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+: 
+&nbsp; 
+1991 <isYear> 
+, 
+&nbsp; 
+The <inDict> <isSpringerPublisherName> 
+&nbsp; 
+UCLA <isPunctOrUpper> <isSpringerPublisherName> 
+&nbsp; 
+Mirror <inDict> 
+&nbsp; 
+Processor <inDict> 
+: 
+&nbsp; 
+A <isPunctOrUpper> 
+&nbsp; 
+Building <inDict> 
+&nbsp; 
+Block <inDict> 
+&nbsp; 
+for <inDict> 
+&nbsp; 
+Self <inDict> 
+- 
+Checking <inDict> 
+&nbsp; 
+Self <inDict> 
+- 
+Repring 
+&nbsp; 
+Computing <inDict> 
+&nbsp; 
+Nodes <inDict> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+FTCS <isPunctOrUpper> 
+, 
+&nbsp; 
+pp <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+178 
+- 
+187 
+. <isPunctOrUpper> 
+&nbsp; 
+URL <inDict> <isPunctOrUpper> 
+: 
+&nbsp; 
+db <inDict> 
+/ 
+conf <inDict> 
+/ 
+ftcs 
+/ 
+ftcs91 
+. <isPunctOrUpper> 
+html#TamirLLT91 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Caroline 
+&nbsp; 
+Fontaine 
+. <isPunctOrUpper> 
+&nbsp; 
+Summation <inDict> 
+&nbsp; 
+generator <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+In <inDict> 
+&nbsp; 
+Encyclopedia <inDict> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+Cryptography <inDict> 
+&nbsp; 
+and <inDict> 
+&nbsp; 
+Security <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+2005c <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+URL <inDict> <isPunctOrUpper> 
+&nbsp; 
+db <inDict> 
+/ 
+reference <inDict> 
+/ 
+crypt <inDict> 
+/ 
+crypt2005 
+. <isPunctOrUpper> 
+html#Fontaine05i 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+This <inDict> 
+&nbsp; 
+is <inDict> 
+&nbsp; 
+the <inDict> 
+&nbsp; 
+end <inDict> 
+&nbsp; 
+of <inDict> 
+&nbsp; 
+the <inDict> 
+&nbsp; 
+reference <inDict> 
+&nbsp; 
+list <inDict> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+

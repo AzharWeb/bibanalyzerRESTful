@@ -1,0 +1,314 @@
+BOR <BOR>
+&nbsp; <&nbsp;>
+Richard <Initials>
+&nbsp; <&nbsp;>
+J <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Lipton <FamilyName>
+&nbsp; <&nbsp;>
+and <dummy>
+&nbsp; <&nbsp;>
+Rafail <Initials>
+&nbsp; <&nbsp;>
+Ostrovsky <FamilyName>
+. <&period;>
+&nbsp; <&nbsp;>
+Micro <BookTitle>
+- <BookTitle>
+payments <BookTitle>
+&nbsp; <BookTitle>
+via <BookTitle>
+&nbsp; <BookTitle>
+efficient <BookTitle>
+&nbsp; <BookTitle>
+coin <BookTitle>
+- <BookTitle>
+flipping <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+In <dummy>
+&nbsp; <&nbsp;>
+Proceedings <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+of <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+Second <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+Financial <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+Cryptography <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+Conference <Italic> <ConfEventName>
+, <Italic> <ConfEventName>
+’ <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+98 <Italic> <ConfEventName>
+, <&comma;>
+&nbsp; <&nbsp;>
+volume <dummy>
+&nbsp; <&nbsp;>
+1465 <NumberInSeries>
+&nbsp; <&nbsp;>
+of <dummy>
+&nbsp; <&nbsp;>
+Lecture <Italic> <dummy>
+&nbsp; <Italic> <&nbsp;>
+Notes <Italic> <dummy>
+&nbsp; <Italic> <&nbsp;>
+in <Italic> <dummy>
+&nbsp; <Italic> <&nbsp;>
+Computer <Italic> <dummy>
+&nbsp; <Italic> <&nbsp;>
+Science <Italic> <dummy>
+&nbsp; <Italic> <&nbsp;>
+LNCS <Italic> <dummy>
+, <&comma;>
+&nbsp; <&nbsp;>
+pages <dummy>
+&nbsp; <&nbsp;>
+1 <FirstPage>
+– <&hypen;>
+15 <LastPage>
+, <&comma;>
+&nbsp; <&nbsp;>
+February <dummy>
+&nbsp; <&nbsp;>
+1998 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Mises <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Ludwig <Initials>
+&nbsp; <&nbsp;>
+von <Particle>
+, <&comma;>
+&nbsp; <&nbsp;>
+Gottfried <Initials>
+&nbsp; <&nbsp;>
+Haberler <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Murray <Initials>
+&nbsp; <Initials>
+N <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Rothbard <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+and <dummy>
+&nbsp; <&nbsp;>
+Friedrich <Initials>
+&nbsp; <Initials>
+A <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Hayek <FamilyName>
+. <&period;>
+&nbsp; <&nbsp;>
+1996 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+The <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Austrian <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Theory <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+the <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Trade <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Cycle <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+and <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Other <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Essays <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Auburn <PublisherLocation>
+, <PublisherLocation>
+&nbsp; <PublisherLocation>
+Ala <PublisherLocation>
+. <PublisherLocation>
+: <&colon;>
+&nbsp; <&nbsp;>
+Ludwig <PublisherName>
+&nbsp; <PublisherName>
+von <PublisherName>
+&nbsp; <PublisherName>
+Mises <PublisherName>
+&nbsp; <PublisherName>
+Institute <PublisherName>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Guido <Initials>
+&nbsp; <&nbsp;>
+Governatori <FamilyName>
+. <&period;>
+&nbsp; <&nbsp;>
+Un <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+modello <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+formale <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+per <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+il <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+ragionamento <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+giuridico <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+PhD <dummy>
+&nbsp; <&nbsp;>
+thesis <dummy>
+, <&comma;>
+&nbsp; <&nbsp;>
+CIRFID <PublisherName>
+, <PublisherName>
+&nbsp; <PublisherName>
+University <PublisherName>
+&nbsp; <PublisherName>
+of <PublisherName>
+&nbsp; <PublisherName>
+Bologna <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Bologna <PublisherLocation>
+, <&comma;>
+&nbsp; <&nbsp;>
+1997 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+http <RefSource>
+: <RefSource>
+/ <RefSource>
+/ <RefSource>
+www <RefSource>
+. <RefSource>
+cit <RefSource>
+. <RefSource>
+gu <RefSource>
+. <RefSource>
+edu <RefSource>
+. <RefSource>
+au <RefSource>
+/ <RefSource>
+~guido <RefSource>
+/ <RefSource>
+papers <RefSource>
+/ <RefSource>
+PhD <RefSource>
+. <RefSource>
+pdf <RefSource>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Gilles <Initials>
+&nbsp; <&nbsp;>
+Fauconnier <FamilyName>
+: <&colon;>
+&nbsp; <&nbsp;>
+“ <&ldquo;>
+Espaces <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+mentaux <Italic> <BookTitle>
+, <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+aspects <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+de <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+la <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+construction <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+du <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+sens <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+dans <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+les <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+langues <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+naturelles <Italic> <BookTitle>
+” <&rdquo>
+, <&comma;>
+&nbsp; <&nbsp;>
+216 <dummy>
+&nbsp; <&nbsp;>
+pages <dummy>
+, <&comma;>
+&nbsp; <&nbsp;>
+Les <PublisherName>
+&nbsp; <PublisherName>
+éditions <PublisherName>
+&nbsp; <PublisherName>
+de <PublisherName>
+&nbsp; <PublisherName>
+Minuit <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Paris <PublisherLocation>
+, <&comma;>
+&nbsp; <&nbsp;>
+1984 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Pallas <Initials>
+&nbsp; <&nbsp;>
+Athena <FamilyName>
+. <&period;>
+&nbsp; <&nbsp;>
+Protos <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+User <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Manual <Italic> <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Pallas <PublisherName>
+&nbsp; <PublisherName>
+Athena <PublisherName>
+&nbsp; <PublisherName>
+BV <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Plasmolen <PublisherLocation>
+, <PublisherLocation>
+&nbsp; <PublisherLocation>
+The <PublisherLocation>
+&nbsp; <PublisherLocation>
+Netherlands <PublisherLocation>
+, <&comma;>
+&nbsp; <&nbsp;>
+1997 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+

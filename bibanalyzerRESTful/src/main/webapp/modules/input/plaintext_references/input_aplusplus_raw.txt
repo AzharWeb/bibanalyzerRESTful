@@ -1,0 +1,6 @@
+<Citation ID="CR1"><BibUnstructured>Kohn LT, Corrigan JM, Donaldson MS (eds) (2000) To err is human: building a safer health system. National Academy Press, Washington DC</BibUnstructured></Citation>
+<Citation ID="CR2"><BibUnstructured>Lilford R, Mohammed MA, Spiegelhalter D, Thomson R (2004) Use and misuse of process and outcome data in managing performance of acute medical care: avoiding institutional stigma. Lancet 363:1147–1154</BibUnstructured></Citation>
+<Citation ID="CR3"><BibUnstructured>Blendon RJ, DesRoches CM, Brodie M, Jm Benson, Rosen AB, Schneider EC, Altman DE, Zapert K, Herrmann NL, Steffenson AE (2002) Views of practicing physicians and the public on medical errors. N Engl J Med 347:1933–1939</BibUnstructured></Citation>
+<Citation ID="CR4"><BibUnstructured>Altman DE, Clancy C, Blendon RJ (2004) Improving patient safety—five years after the IOM report. N Engl J Med 351:2041–2043</BibUnstructured></Citation>
+<Citation ID="CR5"><BibUnstructured>Donabedian A (1990) The seven pillars of quality. Arch Pathol Lab Med 114:1115–1118</BibUnstructured></Citation>
+<Citation ID="CR6"><BibUnstructured>Haynes B (1999) Can it work? Does it work? Is it worth it? Br Med J 319:652–653</BibUnstructured></Citation>

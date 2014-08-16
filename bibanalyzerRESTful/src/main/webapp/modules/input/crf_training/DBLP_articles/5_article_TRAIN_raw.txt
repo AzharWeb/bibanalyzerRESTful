@@ -1,0 +1,5 @@
+K. Marti, Advances in Engineering Software 46(1), 43 (2012)
+D. B. Herrmann, “Astronomy in the twentieth century.” Scientometrics, vol. 9, no. 3-4, pp. 187-191, 1986.
+Birger Koblitz, Nuno Santos, and V. Pose. The AMGA Metadata Service. J. Grid Comput., 6(1):61-76, 2008.
+G. H. Freeman, I. F. Blake, and J. W. Mark. Trellis source code design as an optimization problem. IEEE Transactions on Information Theory, 34(5):1226-1241, 1988.
+Toshiyuki Hama and Hiroaki Etoh. Topological routing path search algorithm with incremental routability test. IEEE Trans. on CAD of Integrated Circuits and Systems, 18(2):142-150, 1999.

@@ -1,0 +1,1042 @@
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> K
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FamilyName> Marti
+<&comma;> ,
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Advances
+<BookTitle> &nbsp;
+<BookTitle> <inDict> in
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Engineering
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Software
+<BookTitle> &nbsp;
+<BookTitle> 46
+<BookTitle> (
+<BookTitle> 1
+<BookTitle> )
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> 43
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2012
+<&brackr> )
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<Initials> <isPunctOrUpper> .
+<Initials> &nbsp;
+<Initials> <isPunctOrUpper> B
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Herrmann
+<&comma;> ,
+<&nbsp;> &nbsp;
+<ChapterTitle> “
+<ChapterTitle> <inDict> Astronomy
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> in
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> twentieth
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> century
+<ChapterTitle> <isPunctOrUpper> .
+<ChapterTitle> ”
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Scientometrics
+<ChapterTitle> ,
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> vol
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FamilyName> 9
+<&comma;> ,
+<&nbsp;> &nbsp;
+<dummy> <inDict> no
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FamilyName> 3
+<FamilyName> -
+<FamilyName> 4
+<&comma;> ,
+<&nbsp;> &nbsp;
+<dummy> <inDict> pp
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FamilyName> 187
+<FamilyName> -
+<FamilyName> 191
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Year> <isYear> 1986
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Birger
+<&nbsp;> &nbsp;
+<FamilyName> Koblitz
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Nuno
+<&nbsp;> &nbsp;
+<FamilyName> Santos
+<&comma;> ,
+<&nbsp;> &nbsp;
+<dummy> <inDict> and
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> V
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<dummy> <inDict> Pose
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> <isSpringerPublisherName> The
+<ChapterTitle> &nbsp;
+<ChapterTitle> <isPunctOrUpper> AMGA
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Metadata
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Service
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<BibComments> <inDict> <isSpringerPublisherName> Grid
+<BibComments> &nbsp;
+<BibComments> <isSpringerPublisherName> Comput
+<BibComments> <isPunctOrUpper> .
+<BibComments> ,
+<BibComments> &nbsp;
+<BibComments> 6
+<BibComments> (
+<BibComments> 1
+<BibComments> )
+<BibComments> :
+<BibComments> 61
+<BibComments> -
+<BibComments> 76
+<BibComments> ,
+<&nbsp;> &nbsp;
+<Year> <isYear> 2008
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> G
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherName> <isPunctOrUpper> H <isSpringerPublisherName>
+<PublisherName> <isPunctOrUpper> . <isSpringerPublisherName>
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> Freeman
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> I
+<Initials> <isPunctOrUpper> .
+<Initials> &nbsp;
+<Initials> <isPunctOrUpper> F
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<FamilyName> Blake
+<&comma;> ,
+<&nbsp;> &nbsp;
+<dummy> <inDict> and
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<Initials> <isPunctOrUpper> .
+<Initials> &nbsp;
+<Initials> <isPunctOrUpper> W
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<dummy> <inDict> Mark
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Trellis
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> source
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> code
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> design
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> as
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> an
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> optimization
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> problem
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<BookTitle> <isPunctOrUpper> <inDict> <isSpringerPublisherName> IEEE
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Transactions
+<BookTitle> &nbsp;
+<BookTitle> <inDict> on
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Information
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Theory
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> 34
+<BookTitle> (
+<BookTitle> 5
+<BookTitle> )
+<BookTitle> :
+<BookTitle> 1226
+<BookTitle> -
+<BookTitle> 1241
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Year> <isYear> 1988
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<ChapterTitle> Toshiyuki
+<ChapterTitle> &nbsp;
+<ChapterTitle> Hama
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> Hiroaki
+<ChapterTitle> &nbsp;
+<ChapterTitle> Etoh
+<ChapterTitle> <isPunctOrUpper> .
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Topological
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> routing
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> path
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> search
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> algorithm
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> with
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> incremental
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> routability
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> test
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<BookTitle> <isPunctOrUpper> <inDict> <isSpringerPublisherName> IEEE
+<BookTitle> &nbsp; <isSpringerPublisherName>
+<BookTitle> <inDict> <isSpringerPublisherName> Trans
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <inDict> on
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> <inDict> CAD
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Integrated
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Circuits
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Systems
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> 18
+<BookTitle> (
+<BookTitle> 2
+<BookTitle> )
+<BookTitle> :
+<BookTitle> 142
+<BookTitle> -
+<BookTitle> 150
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Year> <isYear> 1999
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<dummy> <inDict> Md
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<ChapterTitle> Saidur
+<ChapterTitle> &nbsp;
+<ChapterTitle> Rahman
+<ChapterTitle> &nbsp;
+<ChapterTitle> 0001
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> Satoshi
+<ChapterTitle> &nbsp;
+<ChapterTitle> Fujita
+<ChapterTitle> ,
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> editors
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> WALCOM
+<&colon;> :
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Algorithms
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Computation
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> 4th
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> International
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Workshop
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> WALCOM
+<&nbsp;> &nbsp;
+<Year> <isYear> 2010
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Dhaka
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Bangladesh
+<&comma;> ,
+<&nbsp;> &nbsp;
+<PublisherName> <inDict> <isSpringerPublisherName> February
+<PublisherName> &nbsp;
+<PublisherName> 10
+<PublisherName> -
+<PublisherName> 12
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Year> <isYear> 2010
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Proceedings
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> <inDict> volume
+<BookTitle> &nbsp;
+<BookTitle> 5942
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Lecture
+<BookTitle> &nbsp; <isSpringerPublisherName>
+<BookTitle> <inDict> <isSpringerPublisherName> Notes
+<BookTitle> &nbsp; <isSpringerPublisherName>
+<BookTitle> <inDict> in <isSpringerPublisherName>
+<BookTitle> &nbsp; <isSpringerPublisherName>
+<BookTitle> <inDict> <isSpringerPublisherName> Computer
+<BookTitle> &nbsp; <isSpringerPublisherName>
+<BookTitle> <inDict> <isSpringerPublisherName> Science
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Year> <isYear> 2010
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherName> <inDict> <isSpringerPublisherName> Springer
+<&period;> <isPunctOrUpper> . <isSpringerPublisherName>
+<&nbsp;> &nbsp;
+<BookTitle> <isPunctOrUpper> <inDict> ISBN
+<BookTitle> &nbsp;
+<BookTitle> 978
+<BookTitle> -
+<BookTitle> 3
+<BookTitle> -
+<BookTitle> 642
+<BookTitle> -
+<BookTitle> 11439
+<BookTitle> -
+<BookTitle> 7
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> <inDict> URL
+<BookTitle> &nbsp;
+<BookTitle> <inDict> db
+<BookTitle> /
+<BookTitle> <inDict> conf
+<BookTitle> /
+<BookTitle> walcom
+<BookTitle> /
+<BookTitle> walcom2010
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> <inDict> html
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Ethan
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> L
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Miller
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> Erez
+<ChapterTitle> &nbsp;
+<ChapterTitle> Zadok
+<ChapterTitle> ,
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> editors
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Proceedings
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> <isYear> 2006
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> <inDict> <isSpringerPublisherName> ACM
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Workshop
+<BookTitle> &nbsp;
+<BookTitle> <inDict> On
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Storage
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Security
+<BookTitle> &nbsp;
+<BookTitle> <inDict> And
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Survivability
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> StorageSS
+<&nbsp;> &nbsp;
+<Year> <isYear> 2006
+<&comma;> ,
+<&nbsp;> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> Alexandria
+<PublisherLocation> ,
+<PublisherLocation> &nbsp;
+<PublisherLocation> <isPunctOrUpper> <inDict> VA
+<PublisherLocation> ,
+<PublisherLocation> &nbsp;
+<PublisherLocation> <isPunctOrUpper> <inDict> <isSpringerPublisherName> USA
+<PublisherLocation> ,
+<PublisherLocation> &nbsp;
+<PublisherLocation> <inDict> <isSpringerPublisherName> October
+<PublisherLocation> &nbsp;
+<PublisherLocation> 30
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Year> <isYear> 2006
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Year> <isYear> 2006
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherName> <isPunctOrUpper> <inDict> <isSpringerPublisherName> ACM
+<&period;> <isPunctOrUpper> . <isSpringerPublisherName>
+<&nbsp;> &nbsp;
+<BookTitle> <isPunctOrUpper> <inDict> ISBN
+<BookTitle> &nbsp;
+<BookTitle> 1
+<BookTitle> -
+<BookTitle> 59593
+<BookTitle> -
+<BookTitle> 552
+<BookTitle> -
+<BookTitle> 5
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <inDict> db
+<BookTitle> /
+<BookTitle> <inDict> conf
+<BookTitle> /
+<BookTitle> storagess
+<BookTitle> /
+<BookTitle> storagess2006
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> <inDict> html
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Second
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> CYTED
+<BookTitle> -
+<BookTitle> <isPunctOrUpper> RITOS
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> International
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Workshop
+<BookTitle> &nbsp;
+<BookTitle> <inDict> on
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Groupware
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> CRIWG
+<BookTitle> &nbsp;
+<BookTitle> '
+<BookTitle> 96
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> Puerto
+<BookTitle> &nbsp;
+<BookTitle> Varas
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Chile
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> September
+<BookTitle> &nbsp;
+<BookTitle> 25
+<BookTitle> -
+<BookTitle> 27
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Year> <isYear> 1996
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> <isSpringerPublisherName> Proceedings
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Year> <isYear> 1996
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Eckhard
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<BookTitle> Falkenberg
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> Wolfgang
+<BookTitle> &nbsp;
+<BookTitle> Hesse
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> <inDict> editors
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Information
+<BookTitle> &nbsp;
+<BookTitle> <inDict> System
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Concepts
+<BookTitle> :
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Towards
+<BookTitle> &nbsp;
+<BookTitle> a
+<BookTitle> &nbsp;
+<BookTitle> <inDict> consolidation
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> views
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Proceedings
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> the
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> <isSpringerPublisherName> IFIP
+<BookTitle> &nbsp;
+<BookTitle> <inDict> international
+<BookTitle> &nbsp;
+<BookTitle> <inDict> working
+<BookTitle> &nbsp;
+<BookTitle> <inDict> conference
+<BookTitle> &nbsp;
+<BookTitle> <inDict> on
+<BookTitle> &nbsp;
+<BookTitle> <inDict> information
+<BookTitle> &nbsp;
+<BookTitle> <inDict> system
+<BookTitle> &nbsp;
+<BookTitle> <inDict> concepts
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> <isSpringerPublisherName> Marburg
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Germany
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> 28
+<BookTitle> -
+<BookTitle> 30
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> March
+<BookTitle> &nbsp;
+<BookTitle> <isYear> 1995
+<BookTitle> ,
+<BookTitle> &nbsp;
+<BookTitle> <inDict> volume
+<BookTitle> &nbsp;
+<BookTitle> 26
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <isPunctOrUpper> <isSpringerPublisherName> IFIP
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Conference
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Proceedings
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<PublisherName> <isSpringerPublisherName> Chapman
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> & <isSpringerPublisherName>
+<PublisherName> &nbsp; <isSpringerPublisherName>
+<PublisherName> <inDict> <isSpringerPublisherName> Hall
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Year> <isYear> 1995
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> MacClelland
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<&amp;> &
+<&nbsp;> &nbsp;
+<FamilyName> Futato
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2008
+<&brackr> )
+<&comma;> ,
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Adobe
+<ChapterTitle> &nbsp;
+<ChapterTitle> InDesign
+<ChapterTitle> &nbsp;
+<ChapterTitle> CS4
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> one
+<ChapterTitle> -
+<ChapterTitle> <inDict> on
+<ChapterTitle> -
+<ChapterTitle> <inDict> one
+<&period;> <isPunctOrUpper> .
+<&comma;> ,
+<&nbsp;> &nbsp;
+<PublisherName> <isPunctOrUpper> <isSpringerPublisherName> O
+<PublisherName> <isSpringerPublisherName> '
+<PublisherName> <isSpringerPublisherName> Reilly
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> <isSpringerPublisherName> Anderson
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> D
+<Initials> <isPunctOrUpper> .
+<Initials> &nbsp;
+<Initials> <isPunctOrUpper> L
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Machine
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Intentionality
+<ChapterTitle> ,
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Moral
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Status
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Machines
+<ChapterTitle> ,
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Composition
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Problem
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<dummy> <inDict> In
+<&nbsp;> &nbsp;
+<BookTitle> <inDict> Philosophy
+<BookTitle> &nbsp;
+<BookTitle> <inDict> and
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Theory
+<BookTitle> &nbsp;
+<BookTitle> <inDict> of
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Artificial
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Intelligence
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Year> <isYear> 2013
+<&comma;> ,
+<&nbsp;> &nbsp;
+<dummy> <inDict> pp
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<ChapterTitle> 321
+<ChapterTitle> -
+<ChapterTitle> 333
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<dummy> <inDict> Vectorization
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<dummy> <inDict> In
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Encyclopedia
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Parallel
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Computing
+<ChapterTitle> ,
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> page
+<ChapterTitle> &nbsp;
+<ChapterTitle> 2135
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Year> <isYear> 2011
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Mazurek
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> C
+<Initials> <isPunctOrUpper> .
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Mielnicki
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<Initials> <isPunctOrUpper> .
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Nowak
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> A
+<Initials> <isPunctOrUpper> .
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Stroinski
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<Initials> <isPunctOrUpper> .
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Werla
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<&amp;> &
+<&nbsp;> &nbsp;
+<FamilyName> Weglarz
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> J
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<&brackl> (
+<Year> <isYear> 2013
+<&brackr> )
+<&comma;> ,
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Architecture
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> for
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Aggregation
+<ChapterTitle> ,
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Processing
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Provisioning
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Data
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> from
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Heterogeneous
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> <isSpringerPublisherName> Scientific
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Information
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Services
+<&period;> <isPunctOrUpper> .
+<&comma;> ,
+<&nbsp;> &nbsp;
+<dummy> <inDict> in
+<&nbsp;> &nbsp;
+<BookTitle> ‘Intelligent
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Tools
+<BookTitle> &nbsp;
+<BookTitle> <inDict> for
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Building
+<BookTitle> &nbsp;
+<BookTitle> a
+<BookTitle> &nbsp;
+<BookTitle> <inDict> <isSpringerPublisherName> Scientific
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Information
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Platform
+<BookTitle> '
+<&comma;> ,
+<&nbsp;> &nbsp;
+<dummy> <inDict> pp
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<ChapterTitle> 529
+<ChapterTitle> -
+<ChapterTitle> 546
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> URL
+<&colon;> :
+<&nbsp;> &nbsp;
+<RefSource> <inDict> db
+<RefSource> /
+<RefSource> <inDict> series
+<RefSource> /
+<RefSource> <inDict> sci
+<RefSource> /
+<RefSource> sci467
+<RefSource> <isPunctOrUpper> .
+<RefSource> html#MazurekMNSWW13
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<FamilyName> Tamir
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> Y
+<Initials> <isPunctOrUpper> .
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> Liang
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<Initials> <isPunctOrUpper> .
+<&comma;> ,
+<&nbsp;> &nbsp;
+<FamilyName> <inDict> Lai
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> T
+<Initials> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<dummy> <inDict> and
+<&nbsp;> &nbsp;
+<FamilyName> Tremblay
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> M
+<Initials> <isPunctOrUpper> .
+<&colon;> :
+<&nbsp;> &nbsp;
+<Year> <isYear> 1991
+<&comma;> ,
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> <isSpringerPublisherName> The
+<ChapterTitle> &nbsp;
+<ChapterTitle> <isPunctOrUpper> <isSpringerPublisherName> UCLA
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Mirror
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Processor
+<ChapterTitle> :
+<ChapterTitle> &nbsp;
+<ChapterTitle> <isPunctOrUpper> A
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Building
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Block
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> for
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Self
+<ChapterTitle> -
+<ChapterTitle> <inDict> Checking
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Self
+<ChapterTitle> -
+<ChapterTitle> Repring
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Computing
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Nodes
+<&period;> <isPunctOrUpper> .
+<&comma;> ,
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> FTCS
+<&comma;> ,
+<&nbsp;> &nbsp;
+<dummy> <inDict> pp
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<ChapterTitle> 178
+<ChapterTitle> -
+<ChapterTitle> 187
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Initials> <isPunctOrUpper> <inDict> URL
+<&colon;> :
+<&nbsp;> &nbsp;
+<BibComments> <inDict> db
+<BibComments> /
+<BibComments> <inDict> conf
+<BibComments> /
+<BibComments> ftcs
+<BibComments> /
+<BibComments> ftcs91
+<BibComments> <isPunctOrUpper> .
+<BibComments> html#TamirLLT91
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<BookTitle> Caroline
+<BookTitle> &nbsp;
+<BookTitle> Fontaine
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> &nbsp;
+<BookTitle> <inDict> Summation
+<BookTitle> &nbsp;
+<BookTitle> <inDict> generator
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<dummy> <inDict> In
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> Encyclopedia
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Cryptography
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> and
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> Security
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<Year> <isYear> 2005c
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<BookTitle> <isPunctOrUpper> <inDict> URL
+<BookTitle> &nbsp;
+<BookTitle> <inDict> db
+<BookTitle> /
+<BookTitle> <inDict> reference
+<BookTitle> /
+<BookTitle> <inDict> crypt
+<BookTitle> /
+<BookTitle> crypt2005
+<BookTitle> <isPunctOrUpper> .
+<BookTitle> html#Fontaine05i
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+
+<BOR> BOR <isPunctOrUpper>
+<&nbsp;> &nbsp;
+<ChapterTitle> <inDict> This
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> is
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> end
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> of
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> the
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> reference
+<ChapterTitle> &nbsp;
+<ChapterTitle> <inDict> list
+<&period;> <isPunctOrUpper> .
+<&nbsp;> &nbsp;
+<EOR> <isPunctOrUpper> EOR
+

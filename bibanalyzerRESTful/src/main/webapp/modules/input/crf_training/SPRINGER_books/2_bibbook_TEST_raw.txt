@@ -1,0 +1,2 @@
+Hoaglin, David C., Frederick Mosteller, and John W. Tukey. Understanding Robust and Exploratory Data Analysis. New York; Wiley, 1983.
+Paul Francis Mendler. Inductive Definition in Type Theory. PhD thesis, Department of Computer Science, Cornell University, Ithaca, New York, 1987.

@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Moving pdfs..."
+find ../pdfs/ -name "*.xml" -exec mv {} ../xml/ \;
+

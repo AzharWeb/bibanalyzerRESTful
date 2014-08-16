@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../../stylesheet/References_Stylesheet.css"?>
+<Bibliography ID="Bib">
+<Heading>References</Heading>
+
+ <Citation ID="CR0_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials>K.</Initials>
+     <FamilyName>Marti</FamilyName>
+   </BibAuthorName>
+   <Year>2012</Year>
+   <ArticleTitle Language="En"></ArticleTitle>
+   <JournalTitle>Advances in Engineering Software</JournalTitle>
+   <VolumeID>46</VolumeID>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+   <IssueID>1</IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>K. Marti, Advances in Engineering Software 46(1), 43 (2012)</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR1_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials>D. B.</Initials>
+     <FamilyName>Herrmann</FamilyName>
+   </BibAuthorName>
+   <Year>1986</Year>
+   <ArticleTitle Language="En">Astronomy in the twentieth century.” Scientometrics, vol</ArticleTitle>
+   <JournalTitle></JournalTitle>
+   <VolumeID>9</VolumeID>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+   <IssueID></IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>D. B. Herrmann, “Astronomy in the twentieth century.” Scientometrics, vol. 9, no. 3-4, pp. 187-191, 1986.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR2_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials>V.</Initials>
+     <FamilyName>Birger Koblitz</FamilyName>
+   </BibAuthorName>
+   <Year>2008</Year>
+   <ArticleTitle Language="En">The AMGA Metadata Service</ArticleTitle>
+   <JournalTitle>J. Grid Comput</JournalTitle>
+   <VolumeID>6</VolumeID>
+   <FirstPage>61</FirstPage>
+   <LastPage></LastPage>
+   <IssueID>1</IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>Birger Koblitz, Nuno Santos, and V. Pose. The AMGA Metadata Service. J. Grid Comput., 6(1):61-76, 2008.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR3_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials>G. H.</Initials>
+     <FamilyName>Freeman</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>I. F.</Initials>
+     <FamilyName>Blake</FamilyName>
+   </BibAuthorName>
+   <Year>1988</Year>
+   <ArticleTitle Language="En">Mark. Trellis source code design as an optimization problem</ArticleTitle>
+   <JournalTitle>IEEE Transactions on Information Theory</JournalTitle>
+   <VolumeID>34</VolumeID>
+   <FirstPage>1226</FirstPage>
+   <LastPage>1241</LastPage>
+   <IssueID>5</IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>G. H. Freeman, I. F. Blake, and J. W. Mark. Trellis source code design as an optimization problem. IEEE Transactions on Information Theory, 34(5):1226-1241, 1988.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR4_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials></Initials>
+     <FamilyName></FamilyName>
+   </BibAuthorName>
+   <Year>1999</Year>
+   <ArticleTitle Language="En">Toshiyuki Hama and Hiroaki Etoh. Topological routing path search algorithm with incremental routability test</ArticleTitle>
+   <JournalTitle>IEEE Trans. on CAD of Integrated Circuits and Systems</JournalTitle>
+   <VolumeID>18</VolumeID>
+   <FirstPage>142</FirstPage>
+   <LastPage>150</LastPage>
+   <IssueID>2</IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>Toshiyuki Hama and Hiroaki Etoh. Topological routing path search algorithm with incremental routability test. IEEE Trans. on CAD of Integrated Circuits and Systems, 18(2):142-150, 1999.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR5_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials>WALCOM</Initials>
+     <FamilyName>Proceedings</FamilyName>
+   </BibAuthorName>
+   <Year>2010</Year>
+   <ArticleTitle Language="En">Algorithms and Computation, 4th International Workshop, WALCOM 2010, Dhaka, Bangladesh, February 10-12, 2010</ArticleTitle>
+   <JournalTitle>Lecture Notes in Computer Science</JournalTitle>
+   <VolumeID></VolumeID>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+   <IssueID></IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>Md. Saidur Rahman 0001 and Satoshi Fujita, editors. WALCOM: Algorithms and Computation, 4th International Workshop, WALCOM 2010, Dhaka, Bangladesh, February 10-12, 2010. Proceedings, volume 5942 of Lecture Notes in Computer Science, 2010. Springer. ISBN 978-3-642-11439-7. URL db/conf/walcom/walcom2010.html.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR6_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials>L.</Initials>
+     <FamilyName>Ethan</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>VA</Initials>
+     <FamilyName>StorageSS</FamilyName>
+   </BibAuthorName>
+   <Year>2006</Year>
+   <ArticleTitle Language="En">Miller and Erez Zadok, editors. Proceedings of the 2006 ACM Workshop On Storage Security And Survivability</ArticleTitle>
+   <JournalTitle>October</JournalTitle>
+   <VolumeID>30</VolumeID>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+   <IssueID></IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>Ethan L. Miller and Erez Zadok, editors. Proceedings of the 2006 ACM Workshop On Storage Security And Survivability, StorageSS 2006, Alexandria, VA, USA, October 30, 2006, 2006. ACM. ISBN 1-59593-552-5. db/conf/storagess/storagess2006.html.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR7_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials></Initials>
+     <FamilyName>Proceedings</FamilyName>
+   </BibAuthorName>
+   <Year>1996</Year>
+   <ArticleTitle Language="En">Second CYTED-RITOS International Workshop on Groupware, CRIWG '96, Puerto Varas, Chile, September 25-27</ArticleTitle>
+   <JournalTitle></JournalTitle>
+   <VolumeID></VolumeID>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+   <IssueID></IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>Second CYTED-RITOS International Workshop on Groupware, CRIWG '96, Puerto Varas, Chile, September 25-27, 1996, Proceedings, 1996.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR8_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials>D.</Initials>
+     <FamilyName>Eckhard</FamilyName>
+   </BibAuthorName>
+   <Year>1995</Year>
+   <ArticleTitle Language="En">Falkenberg and Wolfgang Hesse, editors. Information System Concepts: Towards a consolidation of views, Proceedings of the IFIP international working conference on information system concepts, Marburg, Germany, 28-30 March 1995, volume 26 of IFIP Conference Proceedings</ArticleTitle>
+   <JournalTitle></JournalTitle>
+   <VolumeID></VolumeID>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+   <IssueID></IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>Eckhard D. Falkenberg and Wolfgang Hesse, editors. Information System Concepts: Towards a consolidation of views, Proceedings of the IFIP international working conference on information system concepts, Marburg, Germany, 28-30 March 1995, volume 26 of IFIP Conference Proceedings. Chapman &amp; Hall, 1995.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR9_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials>D.</Initials>
+     <FamilyName>MacClelland</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>D.</Initials>
+     <FamilyName>Futato</FamilyName>
+   </BibAuthorName>
+   <Year>2008</Year>
+   <ArticleTitle Language="En">Adobe InDesign CS4 one-on-one., O'Reilly</ArticleTitle>
+   <JournalTitle></JournalTitle>
+   <VolumeID></VolumeID>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+   <IssueID></IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>MacClelland, D. &amp; Futato, D. (2008), Adobe InDesign CS4 one-on-one., O'Reilly.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR10_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials>D. L.</Initials>
+     <FamilyName>Anderson</FamilyName>
+   </BibAuthorName>
+   <Year>2013</Year>
+   <ArticleTitle Language="En">Machine Intentionality, the Moral Status of Machines, and the Composition Problem. In Philosophy and Theory of Artificial Intelligence</ArticleTitle>
+   <JournalTitle></JournalTitle>
+   <VolumeID></VolumeID>
+   <FirstPage>321</FirstPage>
+   <LastPage>333</LastPage>
+   <IssueID></IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>Anderson, D. L. Machine Intentionality, the Moral Status of Machines, and the Composition Problem. In Philosophy and Theory of Artificial Intelligence. 2013, pp. 321-333.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR11_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials></Initials>
+     <FamilyName></FamilyName>
+   </BibAuthorName>
+   <Year>2011</Year>
+   <ArticleTitle Language="En">In Encyclopedia of Parallel Computing, page 2135</ArticleTitle>
+   <JournalTitle></JournalTitle>
+   <VolumeID></VolumeID>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+   <IssueID></IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>Vectorization. In Encyclopedia of Parallel Computing, page 2135. 2011.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR12_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials>C.</Initials>
+     <FamilyName>Mazurek</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M.</Initials>
+     <FamilyName>Mielnicki</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>A.</Initials>
+     <FamilyName>Nowak</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M.</Initials>
+     <FamilyName>Stroinski</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M.</Initials>
+     <FamilyName>Werla</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>J.</Initials>
+     <FamilyName>Weglarz</FamilyName>
+   </BibAuthorName>
+   <Year>2013</Year>
+   <ArticleTitle Language="En">Architecture for Aggregation, Processing and Provisioning of Data from Heterogeneous Scientific Information Services., in ‘Intelligent Tools for Building a Scientific Information Platform', pp. 529-546</ArticleTitle>
+   <JournalTitle></JournalTitle>
+   <VolumeID></VolumeID>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+   <IssueID></IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>Mazurek, C., Mielnicki, M., Nowak, A., Stroinski, M., Werla, M. &amp; Weglarz, J. (2013), Architecture for Aggregation, Processing and Provisioning of Data from Heterogeneous Scientific Information Services., in ‘Intelligent Tools for Building a Scientific Information Platform', pp. 529-546. URL: db/series/sci/sci467.html#MazurekMNSWW13</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR13_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials>Y.</Initials>
+     <FamilyName>Tamir</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M.</Initials>
+     <FamilyName>Liang</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>T.</Initials>
+     <FamilyName>Lai</FamilyName>
+   </BibAuthorName>
+   <BibAuthorName>
+     <Initials>M.</Initials>
+     <FamilyName>Tremblay</FamilyName>
+   </BibAuthorName>
+   <Year>1991</Year>
+   <ArticleTitle Language="En">The UCLA Mirror Processor: A Building Block for Self-Checking Self-Repring Computing Nodes</ArticleTitle>
+   <JournalTitle></JournalTitle>
+   <VolumeID></VolumeID>
+   <FirstPage>178</FirstPage>
+   <LastPage>187</LastPage>
+   <IssueID></IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>Tamir, Y., Liang, M., Lai, T. and Tremblay, M.: 1991, The UCLA Mirror Processor: A Building Block for Self-Checking Self-Repring Computing Nodes., FTCS, pp. 178-187. URL: db/conf/ftcs/ftcs91.html#TamirLLT91</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR14_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials></Initials>
+     <FamilyName></FamilyName>
+   </BibAuthorName>
+   <Year></Year>
+   <ArticleTitle Language="En">Caroline Fontaine. Summation generator. In Encyclopedia of Cryptography and Security. 2005c. URL db/reference/crypt/crypt2005.html#Fontaine05i</ArticleTitle>
+   <JournalTitle></JournalTitle>
+   <VolumeID></VolumeID>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+   <IssueID></IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>Caroline Fontaine. Summation generator. In Encyclopedia of Cryptography and Security. 2005c. URL db/reference/crypt/crypt2005.html#Fontaine05i.</BibUnstructured>
+ </Citation>
+
+ <Citation ID="CR15_BibArticle">
+ <!-- BibTeX Type: BibArticle -->
+  <BibArticle>
+   <BibAuthorName>
+     <Initials></Initials>
+     <FamilyName></FamilyName>
+   </BibAuthorName>
+   <Year></Year>
+   <ArticleTitle Language="En">This is the end of the reference list</ArticleTitle>
+   <JournalTitle></JournalTitle>
+   <VolumeID></VolumeID>
+   <FirstPage></FirstPage>
+   <LastPage></LastPage>
+   <IssueID></IssueID>
+     <URL></URL>
+  </BibArticle>
+  <BibUnstructured>This is the end of the reference list.</BibUnstructured>
+ </Citation>
+
+</Bibliography>

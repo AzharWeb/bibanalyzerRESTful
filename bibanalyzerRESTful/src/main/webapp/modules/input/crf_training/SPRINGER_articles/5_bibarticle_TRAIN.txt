@@ -1,0 +1,317 @@
+BOR <BOR>
+&nbsp; <&nbsp;>
+Dalla <Initials>
+&nbsp; <&nbsp;>
+Palma <FamilyName>
+&nbsp; <&nbsp;>
+L <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+Rizzato <FamilyName>
+&nbsp; <&nbsp;>
+G <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+Bazzocchi <FamilyName>
+&nbsp; <&nbsp;>
+M <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+Pozzi <FamilyName>
+- <FamilyName>
+Mucelli <FamilyName>
+&nbsp; <&nbsp;>
+RS <Initials>
+&nbsp; <&nbsp;>
+( <&brackl>
+1982 <Year>
+) <&brackr>
+&nbsp; <&nbsp;>
+Grey <ArticleTitle>
+- <ArticleTitle>
+scale <ArticleTitle>
+&nbsp; <ArticleTitle>
+ultrasonography <ArticleTitle>
+&nbsp; <ArticleTitle>
+in <ArticleTitle>
+&nbsp; <ArticleTitle>
+the <ArticleTitle>
+&nbsp; <ArticleTitle>
+evaluation <ArticleTitle>
+&nbsp; <ArticleTitle>
+of <ArticleTitle>
+&nbsp; <ArticleTitle>
+primary <ArticleTitle>
+&nbsp; <ArticleTitle>
+carcinomas <ArticleTitle>
+&nbsp; <ArticleTitle>
+of <ArticleTitle>
+&nbsp; <ArticleTitle>
+the <ArticleTitle>
+&nbsp; <ArticleTitle>
+bile <ArticleTitle>
+&nbsp; <ArticleTitle>
+ducts <ArticleTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+Eur <JournalTitle>
+&nbsp; <JournalTitle>
+J <JournalTitle>
+&nbsp; <JournalTitle>
+Radiol <JournalTitle>
+&nbsp; <&nbsp;>
+2 <VolumeID>
+: <&colon;>
+&nbsp; <&nbsp;>
+135 <FirstPage>
+– <&hypen;>
+138 <LastPage>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Krzysztof <Initials>
+&nbsp; <&nbsp;>
+R <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Apt <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Nissim <Initials>
+&nbsp; <&nbsp;>
+Francez <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+and <dummy>
+&nbsp; <&nbsp;>
+Willem <dummy>
+&nbsp; <&nbsp;>
+Paul <dummy>
+&nbsp; <&nbsp;>
+de <Particle>
+&nbsp; <&nbsp;>
+Roever <FamilyName>
+. <&period;>
+&nbsp; <&nbsp;>
+A <ArticleTitle>
+&nbsp; <ArticleTitle>
+proof <ArticleTitle>
+&nbsp; <ArticleTitle>
+system <ArticleTitle>
+&nbsp; <ArticleTitle>
+for <ArticleTitle>
+&nbsp; <ArticleTitle>
+Communicating <ArticleTitle>
+&nbsp; <ArticleTitle>
+Sequential <ArticleTitle>
+&nbsp; <ArticleTitle>
+Processes <ArticleTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+ACM <Italic> <JournalTitle>
+&nbsp; <Italic> <JournalTitle>
+Transactions <Italic> <JournalTitle>
+&nbsp; <Italic> <JournalTitle>
+on <Italic> <JournalTitle>
+&nbsp; <Italic> <JournalTitle>
+Programming <Italic> <JournalTitle>
+&nbsp; <Italic> <JournalTitle>
+Languages <Italic> <JournalTitle>
+&nbsp; <Italic> <JournalTitle>
+and <Italic> <JournalTitle>
+&nbsp; <Italic> <JournalTitle>
+Systems <Italic> <JournalTitle>
+, <&comma;>
+&nbsp; <&nbsp;>
+2 <VolumeID>
+( <&brackl>
+3 <IssueID>
+) <&brackr>
+: <&colon;>
+359 <FirstPage>
+– <&hypen;>
+385 <LastPage>
+, <&comma;>
+&nbsp; <&nbsp;>
+July <dummy>
+&nbsp; <&nbsp;>
+1980 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Feldberg <Initials>
+&nbsp; <&nbsp;>
+W <Initials>
+, <&comma;>
+&nbsp; <&nbsp;>
+Gupta <FamilyName>
+&nbsp; <&nbsp;>
+KP <Initials>
+: <&colon;>
+&nbsp; <&nbsp;>
+Pyrogen <ArticleTitle>
+&nbsp; <ArticleTitle>
+fever <ArticleTitle>
+&nbsp; <ArticleTitle>
+and <ArticleTitle>
+&nbsp; <ArticleTitle>
+prostaglandin <ArticleTitle>
+- <ArticleTitle>
+like <ArticleTitle>
+&nbsp; <ArticleTitle>
+activity <ArticleTitle>
+&nbsp; <ArticleTitle>
+in <ArticleTitle>
+&nbsp; <ArticleTitle>
+cerebrospinal <ArticleTitle>
+&nbsp; <ArticleTitle>
+fluid <ArticleTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+J <JournalTitle>
+&nbsp; <JournalTitle>
+Physiol <JournalTitle>
+&nbsp; <&nbsp;>
+228 <VolumeID>
+: <&colon;>
+41 <FirstPage>
+– <&hypen;>
+53 <LastPage>
+, <&comma;>
+&nbsp; <&nbsp;>
+1973 <Year>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Runciman <FamilyName>
+&nbsp; <&nbsp;>
+WB <dummy>
+. <&period;>
+&nbsp; <&nbsp;>
+Sellen <Initials>
+&nbsp; <&nbsp;>
+A <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Webb <FamilyName>
+&nbsp; <&nbsp;>
+RK <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Williamson <FamilyName>
+&nbsp; <&nbsp;>
+JA <dummy>
+. <&period;>
+&nbsp; <&nbsp;>
+Currie <Initials>
+&nbsp; <&nbsp;>
+M <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Morgan <FamilyName>
+&nbsp; <&nbsp;>
+C <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Russel <FamilyName>
+&nbsp; <&nbsp;>
+WJ <dummy>
+. <&period;>
+&nbsp; <&nbsp;>
+( <&brackl>
+1993 <Year>
+) <&brackr>
+&nbsp; <&nbsp;>
+The <Italic> <ArticleTitle>
+&nbsp; <Italic> <ArticleTitle>
+Australian <Italic> <ArticleTitle>
+&nbsp; <Italic> <ArticleTitle>
+Incident <Italic> <ArticleTitle>
+&nbsp; <Italic> <ArticleTitle>
+Reporting <Italic> <ArticleTitle>
+&nbsp; <Italic> <ArticleTitle>
+Study <Italic> <ArticleTitle>
+. <Italic> <ArticleTitle>
+&nbsp; <Italic> <ArticleTitle>
+Errors <Italic> <ArticleTitle>
+, <Italic> <ArticleTitle>
+&nbsp; <Italic> <ArticleTitle>
+incidents <Italic> <ArticleTitle>
+&nbsp; <Italic> <ArticleTitle>
+and <Italic> <ArticleTitle>
+&nbsp; <Italic> <ArticleTitle>
+accidents <Italic> <ArticleTitle>
+&nbsp; <Italic> <ArticleTitle>
+in <Italic> <ArticleTitle>
+&nbsp; <Italic> <ArticleTitle>
+anaesthetic <Italic> <ArticleTitle>
+&nbsp; <Italic> <ArticleTitle>
+practice <Italic> <ArticleTitle>
+&nbsp; <&nbsp;>
+Anaesthesia <JournalTitle>
+&nbsp; <JournalTitle>
+Intensiv <JournalTitle>
+&nbsp; <JournalTitle>
+Care <JournalTitle>
+&nbsp; <&nbsp;>
+( <&brackl>
+21 <VolumeID>
+) <&brackr>
+&nbsp; <&nbsp;>
+506 <FirstPage>
+– <&hypen;>
+519 <LastPage>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+T <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Padmanabhan <FamilyName>
+&nbsp; <&nbsp;>
+and <dummy>
+&nbsp; <&nbsp;>
+T <Initials>
+. <Initials>
+&nbsp; <&nbsp;>
+Roy <Initials>
+&nbsp; <&nbsp;>
+Choudhury <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Mon <JournalTitle>
+. <JournalTitle>
+&nbsp; <JournalTitle>
+Not <JournalTitle>
+. <JournalTitle>
+&nbsp; <JournalTitle>
+Roy <JournalTitle>
+. <JournalTitle>
+&nbsp; <JournalTitle>
+Astron <JournalTitle>
+. <JournalTitle>
+&nbsp; <JournalTitle>
+Soc <JournalTitle>
+. <JournalTitle>
+&nbsp; <&nbsp;>
+344 <Bold> <VolumeID>
+, <&comma;>
+&nbsp; <&nbsp;>
+823 <FirstPage>
+&nbsp; <&nbsp;>
+( <&brackl>
+2003 <Year>
+) <&brackr>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+

@@ -1,0 +1,5 @@
+Richard J. Lipton and Rafail Ostrovsky. Micro-payments via efficient coin-flipping. In Proceedings of Second Financial Cryptography Conference,’ 98, volume 1465 of Lecture Notes in Computer Science LNCS, pages 1–15, February 1998.
+Mises, Ludwig von, Gottfried Haberler, Murray N. Rothbard, and Friedrich A. Hayek. 1996. The Austrian Theory of the Trade Cycle and Other Essays. Auburn, Ala.: Ludwig von Mises Institute.
+Guido Governatori. Un modello formale per il ragionamento giuridico. PhD thesis, CIRFID, University of Bologna, Bologna, 1997. http://www.cit.gu.edu.au/~guido/papers/PhD.pdf
+Gilles Fauconnier: “Espaces mentaux, aspects de la construction du sens dans les langues naturelles”, 216 pages, Les éditions de Minuit, Paris, 1984.
+Pallas Athena. Protos User Manual. Pallas Athena BV, Plasmolen, The Netherlands, 1997.

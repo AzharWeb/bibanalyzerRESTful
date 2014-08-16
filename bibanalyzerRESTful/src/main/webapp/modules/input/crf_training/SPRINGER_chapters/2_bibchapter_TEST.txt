@@ -1,0 +1,232 @@
+BOR <BOR>
+&nbsp; <&nbsp;>
+Sam <Initials>
+&nbsp; <&nbsp;>
+Coates <FamilyName>
+- <FamilyName>
+Stephens <FamilyName>
+. <&period;>
+&nbsp; <&nbsp;>
+Automatic <ChapterTitle>
+&nbsp; <ChapterTitle>
+lexical <ChapterTitle>
+&nbsp; <ChapterTitle>
+acquisition <ChapterTitle>
+&nbsp; <ChapterTitle>
+using <ChapterTitle>
+&nbsp; <ChapterTitle>
+within <ChapterTitle>
+- <ChapterTitle>
+text <ChapterTitle>
+&nbsp; <ChapterTitle>
+descriptors <ChapterTitle>
+&nbsp; <ChapterTitle>
+of <ChapterTitle>
+&nbsp; <ChapterTitle>
+proper <ChapterTitle>
+&nbsp; <ChapterTitle>
+nouns <ChapterTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+In <dummy>
+&nbsp; <&nbsp;>
+Proceedings <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+the <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Seventh <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Annual <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Conference <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+of <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+the <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+UW <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Centre <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+for <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+the <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+New <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+OED <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+and <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Text <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Research <Italic> <BookTitle>
+: <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Using <Italic> <BookTitle>
+&nbsp; <Italic> <BookTitle>
+Corpora <Italic> <BookTitle>
+, <&comma;>
+&nbsp; <&nbsp;>
+pages <dummy>
+&nbsp; <&nbsp;>
+154 <FirstPage>
+– <&hypen;>
+166 <LastPage>
+, <&comma;>
+&nbsp; <&nbsp;>
+Waterloo <PublisherLocation>
+, <PublisherLocation>
+&nbsp; <PublisherLocation>
+Ontario <PublisherLocation>
+, <&comma;>
+&nbsp; <&nbsp;>
+1991 <Year>
+. <&period;>
+&nbsp; <&nbsp;>
+UW <PublisherName>
+&nbsp; <PublisherName>
+Centre <PublisherName>
+&nbsp; <PublisherName>
+for <PublisherName>
+&nbsp; <PublisherName>
+the <PublisherName>
+&nbsp; <PublisherName>
+New <PublisherName>
+&nbsp; <PublisherName>
+OED <PublisherName>
+&nbsp; <PublisherName>
+and <PublisherName>
+&nbsp; <PublisherName>
+Text <PublisherName>
+&nbsp; <PublisherName>
+Research <PublisherName>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+
+BOR <BOR>
+&nbsp; <&nbsp;>
+Ph <dummy>
+. <&period;>
+&nbsp; <&nbsp;>
+Hanschke <FamilyName>
+. <&period;>
+&nbsp; <&nbsp;>
+Specifying <BookTitle>
+&nbsp; <BookTitle>
+Role <BookTitle>
+&nbsp; <BookTitle>
+Interactions <BookTitle>
+&nbsp; <BookTitle>
+in <BookTitle>
+&nbsp; <BookTitle>
+Concept <BookTitle>
+&nbsp; <BookTitle>
+Languages <BookTitle>
+. <&period;>
+&nbsp; <&nbsp;>
+In <Initials>
+&nbsp; <Initials>
+Bernhard <Initials>
+&nbsp; <&nbsp;>
+Nebel <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Charles <Initials>
+&nbsp; <&nbsp;>
+Rich <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+and <dummy>
+&nbsp; <&nbsp;>
+William <Initials>
+&nbsp; <&nbsp;>
+Swartout <FamilyName>
+, <&comma;>
+&nbsp; <&nbsp;>
+editors <dummy>
+, <&comma;>
+&nbsp; <&nbsp;>
+Principles <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+of <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+Knowledge <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+Representation <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+and <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+Reasoning <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+— <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+Proc <Italic> <ConfEventName>
+. <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+of <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+the <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+Third <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+International <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+Conference <Italic> <ConfEventName>
+&nbsp; <Italic> <ConfEventName>
+KR <Italic> <ConfEventName>
+' <Italic> <ConfEventName>
+92 <Italic> <ConfEventName>
+, <&comma;>
+&nbsp; <&nbsp;>
+Cambridge <ConfEventLocation>
+, <ConfEventLocation>
+&nbsp; <ConfEventLocation>
+Mass <ConfEventLocation>
+. <ConfEventLocation>
+, <&comma;>
+&nbsp; <&nbsp;>
+October <dummy>
+&nbsp; <&nbsp;>
+25 <dummy>
+– <&hypen;>
+29 <dummy>
+, <&comma;>
+&nbsp; <&nbsp;>
+1992 <Year>
+, <&comma;>
+&nbsp; <&nbsp;>
+pages <dummy>
+&nbsp; <&nbsp;>
+318 <FirstPage>
+– <&hypen;>
+329 <LastPage>
+. <&period;>
+&nbsp; <&nbsp;>
+Morgan <PublisherName>
+&nbsp; <PublisherName>
+Kaufmann <PublisherName>
+&nbsp; <PublisherName>
+Publ <PublisherName>
+. <PublisherName>
+&nbsp; <PublisherName>
+Inc <PublisherName>
+. <PublisherName>
+, <&comma;>
+&nbsp; <&nbsp;>
+San <PublisherLocation>
+&nbsp; <PublisherLocation>
+Mateo <PublisherLocation>
+, <PublisherLocation>
+&nbsp; <PublisherLocation>
+CA <PublisherLocation>
+, <&comma;>
+&nbsp; <&nbsp;>
+1992 <dummy>
+. <&period;>
+&nbsp; <&nbsp;>
+EOR <EOR>
+

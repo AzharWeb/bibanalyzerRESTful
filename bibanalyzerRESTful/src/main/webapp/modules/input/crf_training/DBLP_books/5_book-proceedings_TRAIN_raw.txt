@@ -1,0 +1,5 @@
+Md. Saidur Rahman 0001 and Satoshi Fujita, editors. WALCOM: Algorithms and Computation, 4th International Workshop, WALCOM 2010, Dhaka, Bangladesh, February 10-12, 2010. Proceedings, volume 5942 of Lecture Notes in Computer Science, 2010. Springer. ISBN 978-3-642-11439-7. URL db/conf/walcom/walcom2010.html.
+Ethan L. Miller and Erez Zadok, editors. Proceedings of the 2006 ACM Workshop On Storage Security And Survivability, StorageSS 2006, Alexandria, VA, USA, October 30, 2006, 2006. ACM. ISBN 1-59593-552-5. db/conf/storagess/storagess2006.html.
+Second CYTED-RITOS International Workshop on Groupware, CRIWG '96, Puerto Varas, Chile, September 25-27, 1996, Proceedings, 1996.
+Eckhard D. Falkenberg and Wolfgang Hesse, editors. Information System Concepts: Towards a consolidation of views, Proceedings of the IFIP international working conference on information system concepts, Marburg, Germany, 28-30 March 1995, volume 26 of IFIP Conference Proceedings. Chapman & Hall, 1995.
+MacClelland, D. & Futato, D. (2008), Adobe InDesign CS4 one-on-one., O'Reilly.

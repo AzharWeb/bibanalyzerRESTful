@@ -1,0 +1,2 @@
+Hofstetter, EM (1965) Some results on the stochastic signal parameter estimation problem. IEEE Transactions on Information Theory 11(3):422-429
+Y. Xia, S.G. Ghiocel, D. Dotta, D. Shawhan, A. Kindle, J.H. Chow, IEEE Trans. Smart Grid 4(4), 2356 (2013)

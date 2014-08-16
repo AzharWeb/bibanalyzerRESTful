@@ -1,0 +1,43 @@
+Kohn LT, Corrigan JM, Donaldson MS (eds) (2000) To err is human: building a safer health system. National Academy Press, Washington DC
+Lilford R, Mohammed MA, Spiegelhalter D, Thomson R (2004) Use and misuse of process and outcome data in managing performance of acute medical care: avoiding institutional stigma. Lancet 363:1147–1154
+Blendon RJ, DesRoches CM, Brodie M, Jm Benson, Rosen AB, Schneider EC, Altman DE, Zapert K, Herrmann NL, Steffenson AE (2002) Views of practicing physicians and the public on medical errors. N Engl J Med 347:1933–1939
+Altman DE, Clancy C, Blendon RJ (2004) Improving patient safety—five years after the IOM report. N Engl J Med 351:2041–2043
+Donabedian A (1990) The seven pillars of quality. Arch Pathol Lab Med 114:1115–1118
+Haynes B (1999) Can it work? Does it work? Is it worth it? Br Med J 319:652–653
+Deans KJ, Minneci PC, Suffredini AF, Danner RL, Hoffman WD, Ciu X, Klein HG, Schechter AN, Banks SM, Eichacker PQ, Natanson C (2007) Randomization in clinical trials of titrated therapies: unintended consequences of using fixed treatment protocols. Crit Care Med 35:1509–1516
+Hopewell S, Clarke M, Moher D, Wager E, Middleton P, Altman DG, Schulz KF, the CONSORT Group (2008) CONSORT for reporting randomized controlled trials in journal and conference abstracts: explanation and elaboration. PLOS Med 5:e20. doi:                     10.1371/journal.pmed.0050020                                                         
+GRADE working group (2004) Grading quality of evidence and strength of recommendations. Br Med J 328:1–8
+Tinetti ME (2008) Over-the-counter sales of statins and other drugs for asymptomatic conditions. N Engl J Med 358:2728–2732
+Armitage J (2007) The safety of statins in clinical practice. Lancet 370:1890–1891
+Grol R (1997) Beliefs and evidence in changing clinical practice. Br Med J 315:418–421
+Garrow JS (2007) What to do about CAM: how much of orthodox medicine is evidence based? Br Med J 335:951
+Aronson JK (2003) Anecdotes as evidence. We need guidelines for reporting anecdotes of suspected adverse drug reactions. Br Med J 326:1346
+Kelley MA, Angus DC, Chalfin DB, Crandall ED, Ingbar D, Johanson W, Medina J, Sessler CN, Vender JS (2004) The critical care crisis in the United States: a report from the profession. Crit Care Med 32:1219–1222
+Pronovost PJ, KJenckes MW, Dorman T, Garrett E, Breslow MJ, Rosenfeld BA, Lipsett PA, Bass E (1999) Organizational characteristics of intensive care units related to outcomes of abdominal aortic surgery. JAMA 281:1310–1317
+Pronovost P, Angus DC, Dorman T, Robinson KA, Dremsizov TT, Young TL (2002) Physician staffing patterns and clinical outcomes in critically ill patients. A systematic review. JAMA 288:2151–2162
+Amaravadi RK, Dimick JB, Pronovost PJ, Lipsett PA (2000) ICU nurse-to-patient ratio is associated with complications and resource use after esophagectomy. Intensive Care Med 26:1857–1862
+Valentin A, Capuzzo M, Guidet B, Moreno RP, Dolanski L, Bauer P, Metnitz PG (2006) Patient safety in intensive care: results from the multinational sentinel events evaluation (SEE) study. Intensive Care Med 32:1591–1598
+Valentin A, Capuzzo M, Guidet B, Moreno R, Metnitz B, Bauer P, Metnitz P, Research group on quality improvement of the European Society of Intensive Care Medicine (ESICM); Sentinel Events Evaluation (SEE) Study Investigators (2009) Errors in the administration of parenteral drugs—an urgent safety issue in intensive care units. Results from a multinational, prospective study. Br Med J 338:b814
+Kumar A, Roberts D, Wood KE, Light B, Parrillo JE, Sharma S, Suppes R, Feinstein D, Zanotti S, Taiberg L, Gurka D, Kumar A, Cheang M (2006) Duration of hypotension before initiation of effective antimicrobial therapy is the critical determinant of survival in human septic shock. Crit Care Med 34:1589–1596
+Garnacho-Montero J, Ortiz-Leyba C, Herrera-Melero I, Aldabó-Pallá T, Cayuela-Dominguez A, Marquez-Vacaro JA, Carbajal-Guerrero J, Garcia-Garmendia JL (2008) Mortality and morbidity attributable to inadequate empirical antimicrobial therapy in patients admitted to the ICU with sepsis: a matched cohort study. J Antimicrob Chemother 61:436–441
+Jones J, Rowan K (1995) Is there a relationship between the volume of work carried out in intensive care and its outcome? Int J Technol Assess Health Care 11:762–769
+Luft HS, Bunker JP, Enthoven AC (2007) Should operations be regionalized? The empirical relation between surgical volume and mortality. 1979. Clin Orthop Relat Res 457:3–9
+Stockwell DC, Slonim AD (2006) Volume-outcome relationships: is it the individual or the team? Crit Care Med 34:2495–2497
+Hugonnet S, Chevrolet J-C, Pittet D (2007) The effect of workload on infection risk in critically ill patients. Crit Care Med 35:76–81
+Needleman J, Buerhaus P, Mattke S, Stewart M, Zelevinsky K (2002) Nurse-staffing levels and the quality of care in hospital. N Engl J Med 346:1715–1722
+Vandijck DM, Blot SI (2008) High acuity nurse patient ratio—is it cost-effective? In: Kuhlen R, Moreno R, Ranieri M, Rhodes A (eds) Controversies in intensive care medicine. Medizinisch Wissenschaftiche Verlagsgesellschaft, Berlin, pp 393–405
+Needleman J, Buerhaus P (2003) Nurse staffing and patient safety: current knowledge and implications for action. Int J Qual Health Care 15:275–277
+Miranda DR, Ryan DW, Schaufeli WB, Fidler V (eds) (1997) Organization and management of intensive care: a prospective study in 12 European countries. Springer, Berlin
+Miranda DR, Rivera-Fernández R, Nap RE (2007) Critical care medicine in the hospital: lessons from the EURICUS-studies. Med Intensiva 31:194–203
+Jain M, Miller L, Belt D, King D, Berwick DM (2006) Decline in ICU adverse events, nosocomial infections and cost through a quality improvement initiative focusing on teamwork and culture change. Qual Saf Health Care 15:235–239
+Baggs JG (1989) Intensive care unit use and collaboration between nurses and physicians. Heart Lung 18:332–338
+Baggs JG (2007) Nurse–physician collaboration in intensive care units. Crit Care Med 35:641–642
+Prescott PA, Bowen SA (1985) Physician–nurse relationships. Ann Intern Med 103:127–133
+Philpin S (2006) ‘Handing Over’: transmission of information between nurses in an intensive therapy unit. Nurs Crit Care 2006(11):86–93
+Donchin Y, Gopher D, Olin M, Badihi Y, Biesky M, Sprung CL, Pizov R, Cotev S (1995) A look into the nature and causes of human errors in the intensive care unit. Crit Care Med 23:294–300
+Le Blanc PM, de Jonge J, de Rijk AE, Schaufeli WE (2001) Well-being of intensive care nurses (WEBIC): a job analytic approach. J Adv Nurs 36:460–470
+Katona BG, Ayd PR, Walters JK, Caspi M, Finkelstein BW (1989) Effect of a pharmacist’s and a nurse’s interventions on cost of drug therapy in a medical intensive-care unit. Am J Hosp Pharm 46:119–1182
+Leape LL, Cullen DJ, Clapp MD, Burdick E, Demonaco HJ, Erickson JI, Bates DW (2000) Pharmacist participation on physician rounds and adverse drug events in the intensive care unit. JAMA 282:267–270
+Kane SL, Weber RJ, Dasta JF (2003) The impact of critical care pharmacists on enhancing patient outcomes. Intensive Care Med 29:691–698
+Rothen HU, Stricker K, Einfalt J, Bauer P, Metnitz PGH, Moreno RP, Takala J (2007) Variability in outcome and resource use in intensive care units. Intensive Care Med 33:1329–1336
+Donchin Y, Gopher D, Olin M, Badihi Y, Biesky M, Sprung CL, Pizov R, Cotev S (2003) A look into the nature and causes of human errors in the intensive care unit. Qual Saf Health Care 12:143–148

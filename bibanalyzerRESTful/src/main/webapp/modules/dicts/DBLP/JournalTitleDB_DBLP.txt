@@ -1,0 +1,1429 @@
+Nature
+J. Math. Anal.
+Ann. Fac. Sci. Toulouse Math.
+Journal of Artificial Intelligence Research
+Journal of Artificial Intelligence
+C. R. Acad. Sci. Paris Sér.
+Ann. Scuola Norm. Sup. Pisa Cl. Sci.
+CoRR
+IEICE Transactions
+IEEE Transactions on Information Theory
+Discrete Mathematics
+Applied Mathematics and Computation
+Commun. ACM
+Theor. Comput. Sci.
+IEEE Transactions on Signal Processing
+European Journal of Operational Research
+Expert Syst. Appl.
+Bioinformatics
+IEEE Transactions on Communications
+Inf. Process. Lett.
+IACR Cryptology ePrint Archive
+Automatica
+J. Convex Anal.
+J. Convex Anal
+J. Funct. Anal.
+Pattern Recognition
+BMC Bioinformatics
+IEEE Trans. Computers
+Arch. Ration. Mech. Anal.
+IEEE T. Geoscience and Remote Sensing
+Inf. Sci.
+Electr. Notes Theor. Comput. Sci.
+Neurocomputing
+IEEE T. Instrumentation and Measurement
+Nucleic Acids Research
+NeuroImage
+Discrete Applied Mathematics
+IEEE Transactions on Wireless Communications
+IEEE Computer
+Pattern Recognition Letters
+IEEE Trans. Automat. Contr.
+IEEE Trans. Pattern Anal. Mach. Intell.
+IEEE Communications Letters
+Computer Communications
+IEEE Transactions on Image Processing
+IEEE Trans. on CAD of Integrated Circuits and Systems
+IEEE Transactions on Industrial Electronics
+Computers & OR
+IEEE T. Vehicular Technology
+Computers & Mathematics with Applications
+Signal Processing
+IEEE Journal on Selected Areas in Communications
+J. Symb. Log.
+IEEE Trans. Biomed. Engineering
+Journal of Computational Chemistry
+Microelectronics Reliability
+Computer Networks
+J. Comb. Theory, Ser. A
+Scientometrics
+J. Comput. Physics
+Appl. Math. Lett.
+Journal of Systems and Software
+IEEE Trans. on Circuits and Systems
+Comput. J.
+IEEE Trans. Software Eng.
+I. J. Bifurcation and Chaos
+IEEE Trans. Consumer Electronics
+Computational Statistics & Data Analysis
+Journal of Chemical Information and Computer Sciences
+Wireless Personal Communications
+IEEE Transactions on Neural Networks
+Fuzzy Sets and Systems
+SIAM J. Comput.
+Mathematical and Computer Modelling
+EURASIP J. Adv. Sig. Proc.
+J. Parallel Distrib. Comput.
+IEEE Software
+IEEE Trans. Parallel Distrib. Syst.
+Neural Networks
+Comput. Graph. Forum
+Softw., Pract. Exper.
+IEEE Trans. Circuits Syst. Video Techn.
+IEEE Transactions on Systems, Man, and Cybernetics
+Computers & Graphics
+J. ACM
+Fundam. Inform.
+IEEE Trans. VLSI Syst.
+The American Mathematical Monthly
+IEEE Trans. Knowl. Data Eng.
+Computer-Aided Design
+IEEE Trans. Med. Imaging
+JASIST
+Computer Physics Communications
+Artif. Intell.
+J. Comput. Syst. Sci.
+Image Vision Comput.
+Ars Comb.
+PLoS Computational Biology
+Electronic Notes in Discrete Mathematics
+Electr. J. Comb.
+Datenschutz und Datensicherheit
+Microelectronics Journal
+Eur. J. Comb.
+Parallel Computing
+Electronic Colloquium on Computational Complexity (ECCC)
+Inf. Process. Manage.
+J. Comb. Theory, Ser. B
+Computers & Education
+Computers & Chemical Engineering
+Rel. Eng. & Sys. Safety
+Neural Computation
+Int. J. Systems Science
+ACM Trans. Graph.
+Computers in Human Behavior
+J. Symb. Comput.
+IEEE Trans. Vis. Comput. Graph.
+J. UCS
+Systems and Computers in Japan
+IEEE/ACM Trans. Netw.
+Decision Support Systems
+Appl. Soft Comput.
+Biological Cybernetics
+Algorithmica
+Robotics and Autonomous Systems
+Speech Communication
+Journal of Graph Theory
+Int. J. Comput. Math.
+Annals OR
+J. Computational Applied Mathematics
+Math. Comput.
+Mathematics and Computers in Simulation
+Inf. Comput.
+IEEE Transactions on Systems, Man, and Cybernetics, Part B
+Interactions
+Informatik Spektrum
+EURASIP J. Wireless Comm. and Networking
+JCP
+Math. Program.
+ACM SIGSOFT Software Engineering Notes
+Networks
+Computers & Security
+Knowl.-Based Syst.
+Discrete & Computational Geometry
+Information & Software Technology
+IEEE Signal Process. Lett.
+JAMIA
+Ann. Pure Appl. Logic
+IEEE Trans. Contr. Sys. Techn.
+SIAM J. Discrete Math.
+Future Generation Comp. Syst.
+J. Comput. Sci. Technol.
+Information & Management
+Advanced Robotics
+IEEE Design & Test of Computers
+J. Cognitive Neuroscience
+Computers & Geosciences
+IBM Journal of Research and Development
+Cyberpsy., Behavior, and Soc. Networking
+Computers & Industrial Engineering
+KI
+The Visual Computer
+Computer Methods and Programs in Biomedicine
+Journal of Intelligent and Robotic Systems
+Soft Comput.
+SIAM J. Control and Optimization
+Des. Codes Cryptography
+Computer Vision and Image Understanding
+Information and Control
+IEEE Internet Computing
+IEEE T. Fuzzy Systems
+International Journal of Computer Vision
+Management Science
+Computing
+Neural Computing and Applications
+IEEE Transactions on Systems, Man, and Cybernetics, Part A
+J. Inf. Sci. Eng.
+Perform. Eval.
+SIAM J. Numerical Analysis
+The Journal of Supercomputing
+I. J. Robotic Res.
+Oper. Res. Lett.
+JSW
+Journal of Chemical Information and Modeling
+Environmental Modelling and Software
+First Monday
+SIGMOD Record
+Multimedia Tools Appl.
+IJPRAI
+SIAM J. Scientific Computing
+Systems & Control Letters
+IET Communications
+IEEE Transactions on Audio, Speech & Language Processing
+JASIS
+IEEE Transactions on Multimedia
+Wirtschaftsinformatik
+IBM Systems Journal
+J. Economic Theory
+AI Magazine
+Graphs and Combinatorics
+SIGPLAN Notices
+European Transactions on Telecommunications
+I. J. Medical Informatics
+Comp. in Bio. and Med.
+IEEE T. Robotics and Automation
+Int. J. Approx. Reasoning
+Concurrency and Computation: Practice and Experience
+Data Knowl. Eng.
+Queueing Syst.
+Journal of Computational Biology
+Telecommunication Systems
+Synthese
+SIAM Journal of Applied Mathematics
+Acta Inf.
+JACIII
+Inf. Res.
+Math. Meth. of OR
+Inf. Syst.
+Educational Technology & Society
+Games and Economic Behavior
+IEEE Computer Graphics and Applications
+ACM Trans. Math. Softw.
+J. Global Optimization
+Computer Aided Geometric Design
+Praxis der Informationsverarbeitung und Kommunikation
+International Journal of Geographical Information Science
+Sci. Comput. Program.
+Int. J. Math. Mathematical Sciences
+BMC Systems Biology
+HMD - Praxis Wirtschaftsinform.
+Combinatorica
+ACM Comput. Surv.
+Robotica
+Int. J. Hum.-Comput. Stud.
+Journal of Approximation Theory
+J. Electronic Imaging
+Wireless Networks
+Simulation
+IEEE Trans. Mob. Comput.
+J. Field Robotics
+IEEE Security & Privacy
+Int. J. Found. Comput. Sci.
+J. Electronic Testing
+Wireless Communications and Mobile Computing
+J. Algorithms
+IEEE Intelligent Systems
+Machine Learning
+Med. Biol. Engineering and Computing
+International Journal of Man-Machine Studies
+JNW
+Eng. Appl. of AI
+Computers & Chemistry
+Operating Systems Review
+Journal of Circuits, Systems, and Computers
+PVLDB
+Digital Signal Processing
+IEEE Transactions on Information Technology in Biomedicine
+IEEE Transactions on Robotics
+IJTM
+Artificial Intelligence in Medicine
+Operations Research
+Human Factors
+Sig. Proc.: Image Comm.
+J. of Management Information Systems
+Annales des Télécommunications
+Numerical Algorithms
+Studia Logica
+Math. Log. Q.
+Journal of Computer-Aided Molecular Design
+DATA BASE
+SIGACT News
+SIAM J. Math. Analysis
+Elektronische Informationsverarbeitung und Kybernetik
+SIAM Journal on Optimization
+Cognitive Science
+J. Log. Comput.
+INFORMS Journal on Computing
+J. Solid-State Circuits
+Simulation Modelling Practice and Theory
+Comput. Geom.
+J. Intelligent Manufacturing
+IEEE MultiMedia
+Random Struct. Algorithms
+Int. J. Computer Integrated Manufacturing
+J. Sci. Comput.
+VLSI Signal Processing
+Ann. Math. Artif. Intell.
+IEEE Transactions on Reliability
+SCIENCE CHINA Information Sciences
+J. Digital Imaging
+IEEE Transactions on Intelligent Transportation Systems
+IEEE Trans. Education
+Computers & Electrical Engineering
+Informatica (Slovenia)
+J. Complexity
+IJCAT
+IEEE Data Eng. Bull.
+IEEE Communications Magazine
+Mach. Vis. Appl.
+AI Soc.
+Journal of Biomedical Informatics
+Personal and Ubiquitous Computing
+Journal of Machine Learning Research
+Int. J. Neural Syst.
+New Media & Society
+ACM Trans. Program. Lang. Syst.
+Social Choice and Welfare
+Combinatorics, Probability & Computing
+IEEE Geosci. Remote Sensing Lett.
+International Journal of Parallel Programming
+J. Medical Systems
+MONET
+Library Trends
+Entropy
+IEEE Transactions on Systems, Man, and Cybernetics, Part C
+IEEE Micro
+Advances in Engineering Software
+Computers in Industry
+Computer Applications in the Biosciences
+J. Network and Computer Applications
+Appl. Intell.
+Applied Artificial Intelligence
+International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+JORS
+J. Multivariate Analysis
+Int. J. Communication Systems
+Industrial Management and Data Systems
+Ad Hoc Networks
+Comp. Opt. and Appl.
+SIGCSE Bulletin
+D-Lib Magazine
+Bulletin of the EATCS
+Kybernetes
+ITA
+IJAC
+Integration
+International Journal of Software Engineering and Knowledge Engineering
+Int. J. Intell. Syst.
+Presence
+Journal of Mathematical Imaging and Vision
+SIAM J. Matrix Analysis Applications
+IEEE Transactions on Speech and Audio Processing
+ERCIM News
+SIGMETRICS Performance Evaluation Review
+Parallel Processing Letters
+Computer Communication Review
+Interacting with Computers
+Inf. Soc.
+Biosystems
+SIGIR Forum
+Medical Image Analysis
+J. Autom. Reasoning
+IEEE Annals of the History of Computing
+Communications in Statistics - Simulation and Computation
+ACM Trans. Database Syst.
+J. Artificial Societies and Social Simulation
+Softwaretechnik-Trends
+Scholarpedia
+Computer Standards & Interfaces
+Theory Comput. Syst.
+Mathematical Social Sciences
+Knowl. Inf. Syst.
+ACM Queue
+IEEE Wireless Commun.
+Adv. Comput. Math.
+Logic Journal of the IGPL
+J. Comb. Optim.
+Int. J. Hum. Comput. Interaction
+Int. J. Imaging Systems and Technology
+IEEE Transactions on Information Forensics and Security
+J. Applied Mathematics
+Auton. Robots
+Notre Dame Journal of Formal Logic
+Arch. Math. Log.
+Minds and Machines
+Procesamiento del Lenguaje Natural
+BMC Med. Inf. & Decision Making
+Bell Labs Technical Journal
+Journal of Computational Neuroscience
+IEEE/ACM Trans. Comput. Biology Bioinform.
+Journal of Object Technology
+IEEE Trans. Evolutionary Computation
+LOG IN
+J. Visual Communication and Image Representation
+Neural Processing Letters
+Proceedings of the IEEE
+Journal of Communications and Networks
+Automatisierungstechnik
+IS Management
+Experimental Mathematics
+Computer Networks and ISDN Systems
+The Electronic Library
+J. Comp. Assisted Learning
+Mathematical Systems Theory
+J. Artif. Intell. Res. (JAIR)
+International Journal on Artificial Intelligence Tools
+J. Knowledge Management
+Cybernetics and Systems
+IEEE Expert
+Journal of Systems Architecture
+Technique et Science Informatiques
+Discussiones Mathematicae Graph Theory
+Acta Cybern.
+Computational Linguistics
+Computational Intelligence
+Complexity
+IEEE Pervasive Computing
+Journal of Intelligent and Fuzzy Systems
+IEEE Trans. Industrial Informatics
+Photonic Network Communications
+Behaviour & IT
+Artif. Intell. Rev.
+Formal Asp. Comput.
+Journal of Visualization and Computer Animation
+TBC
+Elektrotechnik und Informationstechnik
+Mathematical Structures in Computer Science
+Elektronische Rechenanlagen
+ACM Trans. Design Autom. Electr. Syst.
+Multimedia Syst.
+Briefings in Bioinformatics
+IJMTM
+Electronic Markets
+Concurrency - Practice and Experience
+Quantum Information & Computation
+Science in China Series F: Information Sciences
+ECEASST
+Computing in Science and Engineering
+Information Systems Research
+Signal Processing Systems
+J. Visualization
+IT Professional
+AI EDAM
+IEEE T. Automation Science and Engineering
+Intell. Data Anal.
+Int. J. Game Theory
+Int. J. Comput. Geometry Appl.
+Int. Journal of Network Management
+EJIS
+New Generation Comput.
+IEEE Robot. Automat. Mag.
+Applied Categorical Structures
+Eur. J. Control
+J. Vis. Lang. Comput.
+MIS Quarterly
+TIIS
+Math. Oper. Res.
+Online Information Review
+Business Proc. Manag. Journal
+Journal of Information, Law and Technology
+J. Computer-Mediated Communication
+Australian Computer Journal
+J. Bioinformatics and Computational Biology
+Int. J. Applied Earth Observation and Geoinformation
+Transportation Science
+Internet Research
+J. Funct. Program.
+T. GIS
+VLDB J.
+Information Systems Frontiers
+J. Network Syst. Manage.
+Mobile Computing and Communications Review
+J. Information Science
+IEEE Trans. Smart Grid
+J. Sel. Topics Signal Processing
+Optimization Letters
+Comp. Math. Methods in Medicine
+J. Intell. Inf. Syst.
+Appl. Algebra Eng. Commun. Comput.
+Computers and the Humanities
+Quality and Reliability Eng. Int.
+J. Exp. Theor. Artif. Intell.
+J. Optimization Theory and Applications
+Computer Speech & Language
+ACM Trans. Embedded Comput. Syst.
+Real-Time Systems
+Angewandte Informatik
+Advances in Complex Systems
+Computational Biology and Chemistry
+I. J. Network Security
+Inf. Manag. Comput. Security
+IEEE Distributed Systems Online
+eLearn Magazine
+it - Information Technology
+IJDSN
+LLC
+Computer Vision, Graphics, and Image Processing
+ACM Trans. Inf. Syst.
+Finite Fields and Their Applications
+AI Commun.
+Informatica, Lith. Acad. Sci.
+Advances in Computers
+Scalable Computing: Practice and Experience
+Int. Arab J. Inf. Technol.
+Int. J. Computer Assisted Radiology and Surgery
+Computer and Information Science
+Statistics and Computing
+International Journal of Information Technology and Decision Making
+Distributed Computing
+IJWMIP
+Comp. Med. Imag. and Graph.
+IEEE Trans. Acoustics, Speech, and Signal Processing
+Aslib Proceedings
+Security and Communication Networks
+EAIT
+Cluster Computing
+Pattern Anal. Appl.
+IEEE Trans. Neural Netw. Learning Syst.
+Comput. Syst. Sci. Eng.
+Interfaces
+JCM
+ACM Crossroads
+STTT
+Programming and Computer Software
+Computers, Environment and Urban Systems
+Advanced Engineering Informatics
+Neural Parallel & Scientific Comp.
+Artificial Life
+Inf. Sec. Techn. Report
+Inf. Syst. J.
+J. Heuristics
+Formal Methods in System Design
+J. Discrete Algorithms
+J. Log. Program.
+Production Engineering
+J. Cheminformatics
+Adaptive Behaviour
+Journal of Multimedia
+Electronic Commerce Research and Applications
+IGTR
+Eng. Comput. (Lond.)
+Information Fusion
+IEEE Network
+Microprocessing and Microprogramming
+JOOP
+Social Networks
+Periodica Mathematica Hungarica
+Softw. Test., Verif. Reliab.
+Microprocessors and Microsystems - Embedded Hardware Design
+IJWIN
+Organization Science
+Australasian J. of Inf. Systems
+Logical Methods in Computer Science
+Data Min. Knowl. Discov.
+Journal of Logic, Language and Information
+Natural Computing
+Asymptotic Analysis
+iJET
+Inform., Forsch. Entwickl.
+J. Comput. Meth. in Science and Engineering
+iJOE
+Software Quality Journal
+IEEE Technol. Soc. Mag.
+J. Scheduling
+Natural Language Engineering
+Procedia CS
+Digital Creativity
+Scientific Programming
+Machine Translation
+Finance and Stochastics
+Journal of Systems Architecture - Embedded Systems Design
+Evolutionary Computation
+IJSTM
+SIGKDD Explorations
+IJHPCA
+Int. J. Image Graphics
+Library Hi Tech
+Integrated Computer-Aided Engineering
+JDIM
+Decision Sciences
+Inteligencia Artificial, Revista Iberoamericana de Inteligencia Artificial
+Cybernetics and Human Knowing
+Journal of Computer Security
+Ingénierie des Systèmes d'Information
+IRE Transactions on Information Theory
+J. Low Power Electronics
+Empirical Software Engineering
+TPLP
+Marketing Science
+Computer Supported Cooperative Work
+J. Cryptology
+Science and Engineering Ethics
+APJOR
+Computer Science Education
+i-com
+Cognition, Technology & Work
+Telematics and Informatics
+IEEE Communications Surveys and Tutorials
+Reliable Computing
+Autonomous Agents and Multi-Agent Systems
+Datenbank-Spektrum
+Techn. Analysis & Strat. Manag.
+Computación y Sistemas
+Applied Mathematics and Computer Science
+Ecological Informatics
+J. Informetrics
+In Silico Biology
+Revue d'Intelligence Artificielle
+ACM Trans. Model. Comput. Simul.
+OCLC Systems & Services
+Order
+Discrete Mathematics & Theoretical Computer Science
+ACM Transactions on Algorithms
+Real-Time Imaging
+ACM Trans. Comput. Syst.
+Computers in Entertainment
+Discrete Event Dynamic Systems
+Language and Linguistics Compass
+AI in Engineering
+Comp.-Aided Civil and Infrastruct. Engineering
+Optimization Methods and Software
+Inf. Retr.
+SIGARCH Computer Architecture News
+Pervasive and Mobile Computing
+J. Philosophical Logic
+Journal of Zhejiang University - Science C
+JCIT
+IEEE Systems Journal
+Comput. Lang.
+Virtual Reality
+Parallel Algorithms Appl.
+Information Systems Security
+Information Economics and Policy
+Journal of Quantitative Linguistics
+Signal, Image and Video Processing
+Int. J. Cooperative Inf. Syst.
+Open Syst. Inform. Dynam.
+IJMC
+Annales UMCS, Informatica
+BIAA
+J. Log. Algebr. Program.
+Automatic Control and Computer Sciences
+J. High Speed Networks
+Universal Access in the Information Society
+IJCNS
+Comput. Sci. Inf. Syst.
+Autom. Softw. Eng.
+RASI
+Computers and Artificial Intelligence
+I. J. Robotics and Automation
+Multiple-Valued Logic and Soft Computing
+Software Process: Improvement and Practice
+Journal of Applied Non-Classical Logics
+J. Enterprise Inf. Management
+IJBIS
+Journal of Automata, Languages and Combinatorics
+SIAM J. Applied Dynamical Systems
+ACM Trans. Comput.-Hum. Interact.
+Software and System Modeling
+Computational Complexity
+Computing and Informatics
+Distributed and Parallel Databases
+Human-Computer Interaction
+Industrial Robot
+IJDAR
+IET Circuits, Devices & Systems
+ACM Trans. Comput. Log.
+IEEE Trans. Dependable Sec. Comput.
+RAIRO - Operations Research
+J. Braz. Comp. Soc.
+IEEE Trans. Biomed. Circuits and Systems
+Journal of Software Maintenance
+GeoInformatica
+IMA J. Math. Control & Information
+JIKM
+J. AIS
+Computational & Mathematical Organization Theory
+J. Computing in Higher Education
+Theory in Biosciences
+Data Science Journal
+IEEE Signal Process. Mag.
+MCSS
+World Wide Web
+Constraints
+IT & People
+Requir. Eng.
+ACM Trans. Softw. Eng. Methodol.
+Journal of Geographical Systems
+OOPS Messenger
+Graphical Models
+Discrete Optimization
+Cognitive Systems Research
+Connect. Sci.
+Int. J. Biomedical Imaging
+J. Nonlinear Science
+Artif. Intell. Law
+Genetic Programming and Evolvable Machines
+Cryptologia
+Microprocessors and Microsystems
+IET Computers & Digital Techniques
+J. Community Informatics
+Digital Investigation
+Interactive Learning Environments
+J. Grid Comput.
+Neuroinformatics
+User Model. User-Adapt. Interact.
+IJAHUC
+BIT
+Datenbank Rundbrief
+CVGIP: Graphical Model and Image Processing
+Cognitive Processing
+Annals of GIS
+International Journal of Computational Intelligence and Applications
+J. Graph Algorithms Appl.
+Nord. J. Comput.
+Concurrent Engineering: R&A
+4OR
+NHM
+Knowledge Eng. Review
+J. Web Sem.
+IJBRA
+I. J. Humanoid Robotics
+Revue Internationale de Géomatique
+Information Polity
+IJSNet
+IJEB
+J. Applied Logic
+Monte Carlo Meth. and Appl.
+Annual Reviews in Control
+Information Technology and Management
+SIAM J. Imaging Sciences
+Ad Hoc & Sensor Wireless Networks
+Int. J. General Systems
+IJNVO
+JDCTA
+IJEBM
+IJISTA
+ACM Trans. Inf. Syst. Secur.
+TOSN
+C&RL
+Journal of Interconnection Networks
+Universität Trier, Mathematik/Informatik, Forschungsbericht
+Operational Research
+MIS Quarterly Executive
+IEEE Personal Commun.
+FO & DM
+CIT
+IJWBC
+SIGBED Review
+JIPS
+TACO
+Journal of Decision Systems
+Int. J. Inf. Sec.
+Expert Systems
+Information Visualization
+J. Digit. Inf.
+I. J. Comput. Appl.
+JIT
+J. Math. Model. Algorithms
+Foundations of Computational Mathematics
+Int. J. Comp. Sci. Sport
+Egyptian Computer Science Journal
+Multiscale Modeling & Simulation
+EURASIP J. Image and Video Processing
+Cartographica
+J. Database Manag.
+Int. J. on Digital Libraries
+IJITM
+IEEE Database Eng. Bull.
+JSEA
+KES Journal
+J. Electrical and Computer Engineering
+Computer Music Journal
+Simul. Pr. Theory
+JIP
+Health Informatics Journal
+TOMCCAP
+Statistical Methods and Applications
+Information Storage and Retrieval
+Frontiers of Computer Science in China
+J. London Math. Society
+International Journal of Computational Engineering Science
+EG
+Inf. Syst. E-Business Management
+IEEE Comp. Int. Mag.
+IET Software
+Journal of Research and Practice in Information Technology
+Manufacturing & Service Operations Management
+TAP
+Document Numérique
+J. Classification
+Genomics, Proteomics & Bioinformatics
+Digital Technical Journal
+Design Autom. for Emb. Sys.
+IRMJ
+Education for Information
+Transactions on Computational Science
+Language Resources and Evaluation
+Electronic Commerce Research
+Web Intelligence and Agent Systems
+I. J. Information Acquisition
+Bulletin of Symbolic Logic
+IJDMB
+Int. Syst. in Accounting, Finance and Management
+IJPEDS
+IJICTE
+J. of IT & Tourism
+South African Computer Journal
+SIGecom Exchanges
+Mathematics in Computer Science
+International Journal of High Speed Computing
+Prague Bull. Math. Linguistics
+Discrete Math., Alg. and Appl.
+Business & Information Systems Engineering
+EURASIP J. Emb. Sys.
+Adv. in Math. of Comm.
+Zeitschrift für Medienpsychologie
+The New Review of Hypermedia and Multimedia
+Int. J. Comput. Proc. Oriental Lang.
+IJWMC
+Engineering Letters
+Decision Analysis
+J. Integrative Bioinformatics
+Higher-Order and Symbolic Computation
+J. Real-Time Image Processing
+Optical Switching and Networking
+ACM Journal of Experimental Algorithmics
+Control and Intelligent Systems
+IJDET
+ISSE
+IJCSE
+LDV Forum
+JAMDS
+ACM TIST
+Statistical Analysis and Data Mining
+Network Security
+Robotersysteme
+L'OBJET
+InformingSciJ
+IJCSA
+I. J. Law and Information Technology
+JGIM
+T. Edutainment
+IJDC
+ACM Trans. Asian Lang. Inf. Process.
+JOEUC
+J. Web Eng.
+Int. J. Digital Earth
+J. Graphics, GPU, & Game Tools
+JTAER
+Informatics in Education
+IEEE-RITA
+BMC Medical Imaging
+IJKL
+IJCIS
+Spatial Cognition & Computation
+IEEE Trans. Systems Science and Cybernetics
+CLEI Electron. J.
+Cognitive Computation
+SIAM Review
+Information, Knowledge, Systems Management
+Wireless Sensor Network
+Multiagent and Grid Systems
+Int. J. Pervasive Computing and Communications
+Algorithms for Molecular Biology
+IEEE Transactions on Network and Service Management
+TLT
+IEEE J. Rob. Autom.
+Algorithms
+iJIM
+Int. J. Hybrid Intell. Syst.
+ACM Trans. Internet Techn.
+Formalized Mathematics
+IJMR
+JAISE
+JTHTL
+J. Inf., Comm, Ethics in Society
+JITE
+Poiesis & Praxis
+IJHPCN
+IEEE T. Services Computing
+J. Cellular Automata
+Ann. Software Eng.
+I. J. Computer-Supported Collaborative Learning
+Interact. Techn. Smart Edu.
+Reports on Mathematical Logic
+IJIIDS
+IEE Proceedings - Software
+JECO
+IEEE T. Haptics
+I. J. Social Robotics
+IJSS
+Information Security Journal: A Global Perspective
+PsychNology Journal
+Physical Communication
+J. Comput. Science
+IEEE T. Cybernetics
+J. Mobile Multimedia
+J. Cases on Inf. Techn.
+IJMSO
+Space Communications
+Symmetry
+Int. J. Reconfig. Comp.
+RITA
+EURASIP J. Audio, Speech and Music Processing
+IEEE J. Emerg. Sel. Topics Circuits Syst.
+Computer Science - R&D
+IJWGS
+IEEE Instrum. Meas. Mag.
+Enterprise IS
+History and Computing
+IJUC
+Information and Organization
+Internet Mathematics
+Dagstuhl Reports
+The Computer Science Journal of Moldova
+Mobile Information Systems
+IJSN
+IJTHI
+Int. J. Web Service Res.
+IJEIS
+IET Information Security
+JETC
+IJMEI
+TAAS
+Journal of Systems Integration
+Journal in Computer Virology
+Peer-to-Peer Networking and Applications
+Intelligent Decision Technologies
+JIDM
+IJEBR
+J. Biomedical Semantics
+Int. J. Satellite Communications Networking
+Int. J. Digital Multimedia Broadcasting
+SIGART Bulletin
+ICGA Journal
+VLSI Design
+IJEGR
+Inf. Services and Use
+IJWIS
+IJBIC
+IJIPT
+IJLT
+Revista Colombiana de Computación
+Journal Comp. Netw. and Communic.
+J. Strategic Inf. Sys.
+IEICE Electronic Express
+International Journal of Internet and Enterprise Management
+Int. J. Systems Assurance Engineering and Management
+Int. J. Semantic Computing
+IJEH
+IWBS Report
+Webology
+TRETS
+Future Internet
+Int. J. Web Eng. Technol.
+iJAC
+Archive of Formal Proofs
+IJCAET
+T. Rough Sets
+IJBIDM
+Trans. Emerging Telecommunications Technologies
+IJHISI
+it+ti - Informationstechnik und Technische Informatik
+Sci. Ann. Cuza Univ.
+J. Ambient Intelligence and Humanized Computing
+Computer Architecture Letters
+I. J.  Computational Biology and Drug Design
+Stud. Inform. Univ.
+Journal of WSCG
+Adv. Data Analysis and Classification
+IJBDCN
+Electronic Publishing
+Social Netw. Analys. Mining
+TOS
+IJDWM
+IJIIT
+JCSE
+Comput. Meth. in Appl. Math.
+Computer Languages, Systems & Structures
+IEEE T. Systems, Man, and Cybernetics: Systems
+INFOR
+IJCINI
+ACM SIGMOD Digital Review
+TKDD
+IxD&A
+Distributed Systems Engineering
+Intelligent Service Robotics
+IJAACS
+J. Systems and IT
+I. J. Artificial Intelligence in Education
+TWEB
+IJeC
+EMISA Forum
+ARIST
+IJITWE
+J. Comput. Inf. Sci. Eng.
+IJKM
+Advances in Adaptive Data Analysis
+Systems Engineering
+Frontiers of Computer Science
+J. Riga Technical University
+Service Oriented Computing and Applications
+Intelligent Information Management
+Int. J. Software and Informatics
+IEEE T. Autonomous Mental Development
+OR Insight
+Computing Systems
+IEEE Concurrency
+IJCLCLP
+IJICT
+EURASIP J. Bioinformatics and Systems Biology
+Game Studies
+Brain Connectivity
+T. Computational Collective Intelligence
+IEEE Intell. Transport. Syst. Mag.
+Intelligenza Artificiale
+Adv. Fuzzy Systems
+IJISP
+IEEE Trans. Comput. Intellig. and AI in Games
+ACM Journal of Educational Resources in Computing
+IJWLTT
+Logica Universalis
+Earth Science Informatics
+Contributions to Discrete Mathematics
+IJISCM
+IEEE J. Biomedical and Health Informatics
+SIAM J. Financial Math.
+Memetic Computing
+Lisp and Symbolic Computation
+IJIMAI
+J. Simulation
+J. Mathematical Cryptology
+Applied Ontology
+IJES
+Theory of Computing
+Wiley Interdisc. Rew.: Data Mining and Knowledge Discovery
+Journal of Chinese Language and Computing
+International Journal of Shape Modeling
+ITC
+IJGUC
+Micromachines
+RAIRO - Theor. Inf. and Applic.
+iJEP
+European Journal of Law and Technology
+J. Location Based Services
+Int. J. IT Standards and Standardization Res.
+IEEE Trans. Prof. Communication
+Adv. Human-Computer Interaction
+Adv. in MM
+Int. J. Semantic Web Inf. Syst.
+J. Embedded Computing
+Scandinavian J. Inf. Systems
+Embedded Systems Letters
+IJISSCM
+Robotics
+Information
+Journal of Software: Evolution and Process
+JITR
+Logistics Research
+J. Instruction-Level Parallelism
+IJAIP
+BioData Mining
+International Journal of Geographical Information Systems
+IJHAC
+Source Code for Biology and Medicine
+IJAMC
+Evolutionary Intelligence
+Intelligent Tutoring Media
+T. Affective Computing
+Intelligence
+Semantic Web
+J. Org. Computing and E. Commerce
+FDT - Bulletin of ACM SIGFIDET
+IJIDS
+Games
+Computer Science Review
+SIGSPATIAL Special
+Int. J. Computer Games Technology
+Int. J. Comput. Syst. Signal
+TOCE
+TAPOS
+Applied Comp. Int. Soft Computing
+IJGCMS
+Adv. Bioinformatics
+Smart CR
+IJCNDS
+Kognitionswissenschaft
+IJDMMM
+T. Petri Nets and Other Models of Concurrency
+IJMCMC
+J. Intelligent Systems
+IJACI
+IJGHPC
+IET Wireless Sensor Systems
+J. Data Semantics
+IJSSCI
+Algorithmic Operations Research
+J. Internet Services and Applications
+Risk and Decision Analysis
+JSAT
+ADS
+Grey Systems: T&A
+IJBPSCM
+IJISSS
+Software - Concepts and Tools
+IJWA
+IJICTHD
+Cryptography and Communications
+Comp. Int. and Neurosc.
+IJVR
+I. J. Functional Informatics and Personalised Medicine
+Grammars
+T. Large-Scale Data- and Knowledge-Centered Systems
+TAL
+IJWP
+ITSSA
+IJAPUC
+Swarm Intelligence
+Structured Programming
+IJITN
+Paladyn
+J. Graphics Tools
+J. Digital Forensic Practice
+Swarm and Evolutionary Computation
+IJHPSA
+IJAOM
+MMI Interaktiv
+JOCCH
+TSLP
+IJMBL
+J. Clinical Bioinformatics
+Evolving Systems
+IJMHCI
+IJAGR
+IJEA
+IJIDSS
+GI Datenbank Rundbrief
+IJCNIS
+World Digital Libraries
+IJISCRAM
+Int. J. Adv. Comp. Techn.
+IJABIM
+IJMNO
+Groups Complexity Cryptology
+J. Geographic Information System
+Chicago J. Theor. Comput. Sci.
+IJDSST
+IJVCSN
+JVRB
+ACM Journal of Computer Documentation
+Central Europ. J. Computer Science
+IJATS
+IJHCR
+SIGART Newsletter
+IJANTTI
+IJDST
+IJKSR
+IJKESDP
+ACM SIGAPL APL Quote Quad
+TinyToCS
+Communications and Network
+ACM Trans. Management Inf. Syst.
+T. HiPEAC
+IJITPM
+IJORIS
+IJEHMC
+Bioinformatics [ISMB/ECCB]
+Int. Journal in Computer Simulation
+IJISSC
+IJDCF
+MCFNS
+Journal of Functional and Logic Programming
+IJVPLE
+T. Comp. Sys. Biology
+IJAISC
+IMPACT Comput. Sci. Eng.
+IJAOSE
+IJSDS
+J. Information Security
+IJSKD
+IJSSMET
+IEEE Intelligent Informatics Bulletin
+IJESMA
+ACM StandardView
+J. Adv. Inf. Fusion
+J. Electron. Commerce Res.
+I. J. Knowledge and Web Intelligence
+IEEE T. Human-Machine Systems
+ISPRS Int. J. Geo-Information
+IJAL
+Int. Arab J. e-Technol.
+I. J. Wireless & Optical Communications
+IJKSS
+IJARAS
+IJCOPI
+Adv. Operations Research
+Hypermedia
+IJT
+IJBIR
+Research and Practice in Technology Enhanced Learning
+IJEP
+Trans. of the IRE Professional Group on Information Theory (TIT)
+EURASIP J. Information Security
+IJHCITP
+Adv. Artificial Intellegence
+IJIDE
+IJRFITA
+TACCESS
+IJCCBS
+Int. J. of Applied Metaheuristic Computing
+Electron. Trans. Artif. Intell.
+IJSITA
+IJAEC
+IJAVET
+IJSSC
+Enterprise Modelling and Information Systems Architectures
+IJITSA
+IJTD
+IJALR
+African J. of Inf. & Commun. Technology
+Circuits and Systems
+IBIS
+IJISMD
+J. Cryptographic Engineering
+AISS
+I. J. RF Technol.: Res. and Appl.
+IJGBL
+IJOPCD
+IJGCRSIS
+IJDLDC
+IJNGC
+IJNC
+Artif. Intell. Research
+CMG Transactions
+Math. Program. Comput.
+JLCL
+IJMMME
+TiiS
+IJOSSP
+Transactions on Data Privacy
+IJSSOE
+IJERTCS
+IJSSE
+IJDE
+IJNCR
+IJSIR
+IJEEI
+J. Data and Information Quality
+IJIQ
+LILOG-Report
+IJCAC
+TOCT
+IJMDEM
+Adv. Software Engineering
+Axioms
+IJDLS
+IJFSA
+T. Aspect-Oriented Software Development
+IJACT
+Journal of Social Structure
+IJCALLT
+Sci. Ann. Comp. Sci.
+IJMIS
+IJCBPL
+Graphical Models and Image Processing
+Wireless Engineering and Technology
+Bioinformatics [ISMB]
+Int. J. Intell. Games & Simulation
+Journal of Computer Research and Development
+IJKDB
+IJOM
+Networking and Information Systems
+JILSA
+SIGHIT Record
+IJKBO
+IJMTIE
+J. Spatial Information Science
+IJCVIP
+FDT - Bulletin of ACM SIGMOD
+J. Sensor and Actuator Networks
+IJNMC
+e-Minds
+J. Signal and Information Processing
+American Journal of Computational Linguistics
+e-Informatica
+IJITCC
+LOPLAS
+IJCMAM
+Int. J. of Asian Lang. Proc.
+Software Focus
+JMPT
+IJIMR
+IJAEIS
+Progress in AI
+T. Data Hiding and Multimedia Security
+IJMIR
+IET Networks
+IJSHC
+IJOCI
+The Review of Socionetwork Strategies
+Argument & Computation
+IJEOE
+TACL
+T. Mass-Data Analysis of Images and Signals
+IJSODIT
+IJCC
+IJGC
+OMICS
+Foundations and Trends in Communications and Information Theory
+JoCG
+IJITBAG
+IJCEE
+Trans. MLDM
+IJKEDM
+IJIPM
+BMC Genomics
+JNIT
+IJQAETE
+J. Prog. Lang.
+Bull. Acad. Polon. Sci., Sér. Sci. Math. Astronom. Phys.
+IJIRR
+IJMHeur
+IJICoT
+IJICTRDA
+Algorithmic Finance
+IJCICG
+SIGCAS Computers and Society
+Netw. and Communic. Technol.
+IJSE
+JUSPN
+Markup Languages
+IJICST
+IJCCE
+Int. J. Auton. Comp.
+J. Formalized Reasoning
+IJTEM
+Foundations and Trends in Theoretical Computer Science
+Rundbrief der GI-Fachgruppe 5.10 Informationssystem-Architekturen
+IJWNBT
+IJIEI
+IJ3DIM
+Foundations and Trends in Electronic Design Automation
+IJWS
+American J. Computational Mathematics
+Informatica Didactica
+IJCWT
+Foundations and Trends in Computer Graphics and Vision
+Computability
+Foundations and Trends in Information Retrieval
+World Wide Web Journal
+Foundations and Trends in Machine Learning
+Foundations and Trends in Networking
+ACM Trans. Economics and Comput.
+Meth. of Logic in CS
+JoSSR
+IJDTIS
+Foundations and Trends in Human-Computer Interaction
+IJCIH
+IJACDT
+JoSS
+Foundations and Trends in Signal Processing
+Tran. CBR
+Transactions on Pattern Languages of Programming
+Foundations and Trends in Technology, Information and Operations Management
+J. Computer Virology and Hacking Techniques
+IEEE Computational Intelligence Bulletin
+IJIIP
+J. Math. Model. Algorithms in OR
+Foundations and Trends in Databases
+IJSCCPS
+Object Oriented Systems
+J. Inf. Sec. Appl.
+Control and Cybernetics
+Advances in Computing Research
+J. Quantum Information Science
+ICST Trans. Mobile Communications Applications
+J. Sensor Technology
+LILOG-Memo
+IJSSS
+IJIPSI
+JACIC
+IJSNM
+GTE Laboratories Incorporated
+Foundations and Trends in Robotics
+Foundations and Trends in Web Science
+ICST Trans. e-Education e-Learning
+IBM Research Report
+Computers
+EAI Endorsed Trans. Ubiquitous Environments
+ACM SIGMOD Anthology
+Adv. Internet of Things
+IJPOP
+Data Quality Journal
+T. Aspect-Oriented Software Development VI
+Bulletin of the IGPL
+EAI Endorsed Trans. Serious Games
+IJATEM
+ICST Trans. Security Safety
+EAI Endorsed Trans. Ambient Systems
+EAI Endorsed Trans. Complex Systems
+Schedae Informaticae
+EAI Endorsed Trans. e-Learning
+EAI Endorsed Trans. Mobile Communications Applications
+Wasserwirtschaft
+IBM Research Report, San Jose, California
+EAI Endorsed Trans. Scalable Information Systems
+EAI Endorsed Trans. Security Safety
+Dagstuhl Manifestos
+ICST Trans. Ambient Systems
+Int. J. Intelligence Science
+Wikipedia
+Theory of Computing, Graduate Surveys
+Computation
+Roars Transactions
+EAI Endorsed Trans. e-Business
+Foundations and Trends in Stochastic Systems
+ANSI X3H2
+ACM SIGMOD Digital Symposium Collection
+EAI Endorsed Trans. Energy Web
+IBM Publication
+C't Magazin für Computer Technik
+Hydrology and Earth System Sciences
+submitted to IEEE Expert
+IJSNET
+Computerworld
+Digital System Research Center Report
+technical Report 248, ETH Zürich, Dept. of Computer Science
+Compulog Newsletter
+Proc. Natl. Acad. Sci. USA
+In: R. Rustin (ed.): Database Systems: 65-98, Prentice Hall and IBM Research Report RJ 987, San Jose, California
+Nachr. Dok.
+Kybernetica
+ANSI X2H2
+The Atlantic Monthly
+Electronic Networking: Research, Applications and Policy
+news@nature.com
+Technical Rep. UKSC 0060, IBM United Kingdom Scientific Centre
+Technical Report
+Science

@@ -1,0 +1,243 @@
+/*Author:Prabht*/
+/*Created:19.05.2014*/
+/*Version:1.0*/
+
+Bibliography, Citation
+{
+background-color: #ffffff;
+color: black;
+margin-left:2em;
+margin-right:2em;
+margin-top:1em;
+display:table-row;
+
+}
+
+Heading
+{
+display: block;
+margin-top: 10pt;
+margin-bottom: 20pt;
+margin-left: 1em;
+color: black;
+font-size: 40pt;
+}
+
+BibEditorName
+{
+border: dotted 1px maroon;
+margin-left:2pt;
+margin-right:2pt;
+}
+
+BibEditorName > Initials
+{
+display: inline;
+margin-left: 2pt;
+margin-right: 0pt;
+padding-left:5px;
+background:#FFD1E8
+}
+
+BibEditorName > FamilyName
+{
+display: inline;
+margin-left: 2pt;
+margin-right: 0pt;
+padding-left:5px;
+background:#FF95CA
+}
+
+BibAuthorName
+{
+border: dotted 1px black;
+margin-left:1pt;
+margin-right:2pt;
+}
+
+Initials
+{
+display: inline;
+margin-left: 0pt;
+margin-right: 2pt;
+padding-left:5px;
+background:#DDDDDD
+}
+
+FamilyName
+{
+display: inline;
+margin-left: 2pt;
+margin-right: 0pt;
+padding-left:5px;
+background:#BCBCBC
+}
+
+Year
+{
+display: inline;
+margin-left: 2pt;
+background:#66FF66
+}
+
+ArticleTitle
+{
+margin-left: 2pt;
+background:#CCCCFF
+}
+
+JournalTitle
+{
+display: inline;
+margin-left: 2pt;
+background:#CCFF99
+}
+
+VolumeID
+{
+display: inline;
+margin-left: 2pt;
+background:#FFCC66
+}
+
+IssueID
+{
+display: inline;
+margin-left: 2pt;
+background:#C8BE84
+}
+
+FirstPage
+{
+display: inline;
+margin-left: 2pt;
+background:#D279FF
+}
+
+LastPage
+{
+display: inline;
+margin-left: -2pt;
+background:#D279FF
+}
+
+BookTitle
+{
+display: inline;
+margin-left: 2pt;
+background:#FFD9B3
+}
+
+PublisherName
+{
+display: inline;
+margin-left: 2pt;
+background:#FFFF49
+}
+PublisherLocation
+{
+display: inline;
+margin-left: 2pt;
+background:#00A5E0
+}
+ChapterTitle
+{
+display: inline;
+margin-left: 2pt;
+background:#FF9933
+}
+EditionNumber
+{
+display: inline;
+margin-left: 2pt;
+background:#9999FF
+}
+InstitutionalAuthorName
+{
+display: inline;
+margin-left: 2pt;
+background:#BDBAD6
+}
+
+Prefix
+{
+display: inline;
+margin-left: 2pt;
+background:#FFFF80
+}
+
+Suffix
+{
+display: inline;
+margin-left: 2pt;
+background:#FFA86D
+}
+
+BibArticle
+{
+display:table-cell;
+margin-top: 20px;
+margin-right:1em;
+margin-bottom: 0em;
+padding-right:8px;
+padding-left:8px;
+
+}
+
+BibChapter
+{
+display:table-cell;
+margin-top: 20px;
+margin-right:1em;
+margin-bottom: 0em;
+padding-right:2px;
+padding-left:8px;
+}
+BibBook
+{
+display:table-cell;
+margin-top: 20px;
+margin-right:1em;
+margin-bottom: 0em;
+padding-right:2px;
+padding-left:8px;
+margin-left: 1em;
+}
+
+BibUnstructured
+{
+display:block;
+margin-top: 5px;
+margin-right:1em;
+margin-left:2em;
+margin-bottom: 1em;
+padding-right:30px;
+padding-left:30px;
+border-bottom: 1px dotted black;
+background-size:auto;
+background-clip:border-box;
+background-origin: padding-box;
+}
+
+Citation
+{
+margin-left:2em;
+margin-right:1em;
+padding-right:5px;
+padding-left:5px;
+display:table-row;
+}
+
+CitationNumber
+{
+color: #0000FF;
+font-size: 14pt;
+margin-left:3em;
+margin-right:2em;
+padding-right:5px;
+padding-left:5px;
+display:table-cell;
+
+}
+
+

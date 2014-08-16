@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Formatting pdf-to-xml output."
+for file in ../xml/*.xml ; do xmllint --format "$file" > "$file"formatted.xml ; done;

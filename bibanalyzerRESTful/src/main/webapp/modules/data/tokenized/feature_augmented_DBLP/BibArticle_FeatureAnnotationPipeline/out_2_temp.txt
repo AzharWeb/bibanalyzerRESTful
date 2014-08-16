@@ -1,0 +1,1042 @@
+BOR <isPunctOrUpper> 
+&nbsp; 
+K <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Marti 
+, 
+&nbsp; 
+Advances 
+&nbsp; 
+in 
+&nbsp; 
+Engineering 
+&nbsp; 
+Software 
+&nbsp; 
+46 
+( 
+1 
+) 
+, 
+&nbsp; 
+43 
+&nbsp; 
+( 
+2012  <isYear> 
+) 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+D <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+B <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Herrmann 
+, 
+&nbsp; 
+“ 
+Astronomy 
+&nbsp; 
+in 
+&nbsp; 
+the 
+&nbsp; 
+twentieth 
+&nbsp; 
+century 
+. <isPunctOrUpper> 
+” 
+&nbsp; 
+Scientometrics 
+, 
+&nbsp; 
+vol 
+. <isPunctOrUpper> 
+&nbsp; 
+9 
+, 
+&nbsp; 
+no 
+. <isPunctOrUpper> 
+&nbsp; 
+3 
+- 
+4 
+, 
+&nbsp; 
+pp 
+. <isPunctOrUpper> 
+&nbsp; 
+187 
+- 
+191 
+, 
+&nbsp; 
+1986  <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Birger 
+&nbsp; 
+Koblitz 
+, 
+&nbsp; 
+Nuno 
+&nbsp; 
+Santos 
+, 
+&nbsp; 
+and 
+&nbsp; 
+V <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Pose 
+. <isPunctOrUpper> 
+&nbsp; 
+The 
+&nbsp; 
+AMGA <isPunctOrUpper> 
+&nbsp; 
+Metadata 
+&nbsp; 
+Service 
+. <isPunctOrUpper> 
+&nbsp; 
+J <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Grid 
+&nbsp; 
+Comput 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+6 
+( 
+1 
+) 
+: 
+61 
+- 
+76 
+, 
+&nbsp; 
+2008  <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+G <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+H <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Freeman 
+, 
+&nbsp; 
+I <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+F <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Blake 
+, 
+&nbsp; 
+and 
+&nbsp; 
+J <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+W <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Mark 
+. <isPunctOrUpper> 
+&nbsp; 
+Trellis 
+&nbsp; 
+source 
+&nbsp; 
+code 
+&nbsp; 
+design 
+&nbsp; 
+as 
+&nbsp; 
+an 
+&nbsp; 
+optimization 
+&nbsp; 
+problem 
+. <isPunctOrUpper> 
+&nbsp; 
+IEEE <isPunctOrUpper> 
+&nbsp; 
+Transactions 
+&nbsp; 
+on 
+&nbsp; 
+Information 
+&nbsp; 
+Theory 
+, 
+&nbsp; 
+34 
+( 
+5 
+) 
+: 
+1226 
+- 
+1241 
+, 
+&nbsp; 
+1988  <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Toshiyuki 
+&nbsp; 
+Hama 
+&nbsp; 
+and 
+&nbsp; 
+Hiroaki 
+&nbsp; 
+Etoh 
+. <isPunctOrUpper> 
+&nbsp; 
+Topological 
+&nbsp; 
+routing 
+&nbsp; 
+path 
+&nbsp; 
+search 
+&nbsp; 
+algorithm 
+&nbsp; 
+with 
+&nbsp; 
+incremental 
+&nbsp; 
+routability 
+&nbsp; 
+test 
+. <isPunctOrUpper> 
+&nbsp; 
+IEEE <isPunctOrUpper> 
+&nbsp; 
+Trans 
+. <isPunctOrUpper> 
+&nbsp; 
+on 
+&nbsp; 
+CAD <isPunctOrUpper> 
+&nbsp; 
+of 
+&nbsp; 
+Integrated 
+&nbsp; 
+Circuits 
+&nbsp; 
+and 
+&nbsp; 
+Systems 
+, 
+&nbsp; 
+18 
+( 
+2 
+) 
+: 
+142 
+- 
+150 
+, 
+&nbsp; 
+1999  <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Md 
+. <isPunctOrUpper> 
+&nbsp; 
+Saidur 
+&nbsp; 
+Rahman 
+&nbsp; 
+0001 
+&nbsp; 
+and 
+&nbsp; 
+Satoshi 
+&nbsp; 
+Fujita 
+, 
+&nbsp; 
+editors 
+. <isPunctOrUpper> 
+&nbsp; 
+WALCOM <isPunctOrUpper> 
+: 
+&nbsp; 
+Algorithms 
+&nbsp; 
+and 
+&nbsp; 
+Computation 
+, 
+&nbsp; 
+4th 
+&nbsp; 
+International 
+&nbsp; 
+Workshop 
+, 
+&nbsp; 
+WALCOM <isPunctOrUpper> 
+&nbsp; 
+2010  <isYear> 
+, 
+&nbsp; 
+Dhaka 
+, 
+&nbsp; 
+Bangladesh 
+, 
+&nbsp; 
+February 
+&nbsp; 
+10 
+- 
+12 
+, 
+&nbsp; 
+2010  <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+Proceedings 
+, 
+&nbsp; 
+volume 
+&nbsp; 
+5942 
+&nbsp; 
+of 
+&nbsp; 
+Lecture 
+&nbsp; 
+Notes 
+&nbsp; 
+in 
+&nbsp; 
+Computer 
+&nbsp; 
+Science 
+, 
+&nbsp; 
+2010  <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+Springer 
+. <isPunctOrUpper> 
+&nbsp; 
+ISBN <isPunctOrUpper> 
+&nbsp; 
+978 
+- 
+3 
+- 
+642 
+- 
+11439 
+- 
+7 
+. <isPunctOrUpper> 
+&nbsp; 
+URL <isPunctOrUpper> 
+&nbsp; 
+db 
+/ 
+conf 
+/ 
+walcom 
+/ 
+walcom2010 
+. <isPunctOrUpper> 
+html 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Ethan 
+&nbsp; 
+L <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Miller 
+&nbsp; 
+and 
+&nbsp; 
+Erez 
+&nbsp; 
+Zadok 
+, 
+&nbsp; 
+editors 
+. <isPunctOrUpper> 
+&nbsp; 
+Proceedings 
+&nbsp; 
+of 
+&nbsp; 
+the 
+&nbsp; 
+2006  <isYear> 
+&nbsp; 
+ACM <isPunctOrUpper> 
+&nbsp; 
+Workshop 
+&nbsp; 
+On 
+&nbsp; 
+Storage 
+&nbsp; 
+Security 
+&nbsp; 
+And 
+&nbsp; 
+Survivability 
+, 
+&nbsp; 
+StorageSS 
+&nbsp; 
+2006  <isYear> 
+, 
+&nbsp; 
+Alexandria 
+, 
+&nbsp; 
+VA <isPunctOrUpper> 
+, 
+&nbsp; 
+USA <isPunctOrUpper> 
+, 
+&nbsp; 
+October 
+&nbsp; 
+30 
+, 
+&nbsp; 
+2006  <isYear> 
+, 
+&nbsp; 
+2006  <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+ACM <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+ISBN <isPunctOrUpper> 
+&nbsp; 
+1 
+- 
+59593 
+- 
+552 
+- 
+5 
+. <isPunctOrUpper> 
+&nbsp; 
+db 
+/ 
+conf 
+/ 
+storagess 
+/ 
+storagess2006 
+. <isPunctOrUpper> 
+html 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Second 
+&nbsp; 
+CYTED <isPunctOrUpper> 
+- 
+RITOS <isPunctOrUpper> 
+&nbsp; 
+International 
+&nbsp; 
+Workshop 
+&nbsp; 
+on 
+&nbsp; 
+Groupware 
+, 
+&nbsp; 
+CRIWG <isPunctOrUpper> 
+&nbsp; 
+' 
+96 
+, 
+&nbsp; 
+Puerto 
+&nbsp; 
+Varas 
+, 
+&nbsp; 
+Chile 
+, 
+&nbsp; 
+September 
+&nbsp; 
+25 
+- 
+27 
+, 
+&nbsp; 
+1996  <isYear> 
+, 
+&nbsp; 
+Proceedings 
+, 
+&nbsp; 
+1996  <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Eckhard 
+&nbsp; 
+D <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Falkenberg 
+&nbsp; 
+and 
+&nbsp; 
+Wolfgang 
+&nbsp; 
+Hesse 
+, 
+&nbsp; 
+editors 
+. <isPunctOrUpper> 
+&nbsp; 
+Information 
+&nbsp; 
+System 
+&nbsp; 
+Concepts 
+: 
+&nbsp; 
+Towards 
+&nbsp; 
+a 
+&nbsp; 
+consolidation 
+&nbsp; 
+of 
+&nbsp; 
+views 
+, 
+&nbsp; 
+Proceedings 
+&nbsp; 
+of 
+&nbsp; 
+the 
+&nbsp; 
+IFIP <isPunctOrUpper> 
+&nbsp; 
+international 
+&nbsp; 
+working 
+&nbsp; 
+conference 
+&nbsp; 
+on 
+&nbsp; 
+information 
+&nbsp; 
+system 
+&nbsp; 
+concepts 
+, 
+&nbsp; 
+Marburg 
+, 
+&nbsp; 
+Germany 
+, 
+&nbsp; 
+28 
+- 
+30 
+&nbsp; 
+March 
+&nbsp; 
+1995  <isYear> 
+, 
+&nbsp; 
+volume 
+&nbsp; 
+26 
+&nbsp; 
+of 
+&nbsp; 
+IFIP <isPunctOrUpper> 
+&nbsp; 
+Conference 
+&nbsp; 
+Proceedings 
+. <isPunctOrUpper> 
+&nbsp; 
+Chapman 
+&nbsp; 
+& 
+&nbsp; 
+Hall 
+, 
+&nbsp; 
+1995  <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+MacClelland 
+, 
+&nbsp; 
+D <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+& 
+&nbsp; 
+Futato 
+, 
+&nbsp; 
+D <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+( 
+2008  <isYear> 
+) 
+, 
+&nbsp; 
+Adobe 
+&nbsp; 
+InDesign 
+&nbsp; 
+CS4 
+&nbsp; 
+one 
+- 
+on 
+- 
+one 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+O <isPunctOrUpper> 
+' 
+Reilly 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Anderson 
+, 
+&nbsp; 
+D <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+L <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+Machine 
+&nbsp; 
+Intentionality 
+, 
+&nbsp; 
+the 
+&nbsp; 
+Moral 
+&nbsp; 
+Status 
+&nbsp; 
+of 
+&nbsp; 
+Machines 
+, 
+&nbsp; 
+and 
+&nbsp; 
+the 
+&nbsp; 
+Composition 
+&nbsp; 
+Problem 
+. <isPunctOrUpper> 
+&nbsp; 
+In 
+&nbsp; 
+Philosophy 
+&nbsp; 
+and 
+&nbsp; 
+Theory 
+&nbsp; 
+of 
+&nbsp; 
+Artificial 
+&nbsp; 
+Intelligence 
+. <isPunctOrUpper> 
+&nbsp; 
+2013  <isYear> 
+, 
+&nbsp; 
+pp 
+. <isPunctOrUpper> 
+&nbsp; 
+321 
+- 
+333 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Vectorization 
+. <isPunctOrUpper> 
+&nbsp; 
+In 
+&nbsp; 
+Encyclopedia 
+&nbsp; 
+of 
+&nbsp; 
+Parallel 
+&nbsp; 
+Computing 
+, 
+&nbsp; 
+page 
+&nbsp; 
+2135 
+. <isPunctOrUpper> 
+&nbsp; 
+2011  <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Mazurek 
+, 
+&nbsp; 
+C <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Mielnicki 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Nowak 
+, 
+&nbsp; 
+A <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Stroinski 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Werla 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+& 
+&nbsp; 
+Weglarz 
+, 
+&nbsp; 
+J <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+( 
+2013  <isYear> 
+) 
+, 
+&nbsp; 
+Architecture 
+&nbsp; 
+for 
+&nbsp; 
+Aggregation 
+, 
+&nbsp; 
+Processing 
+&nbsp; 
+and 
+&nbsp; 
+Provisioning 
+&nbsp; 
+of 
+&nbsp; 
+Data 
+&nbsp; 
+from 
+&nbsp; 
+Heterogeneous 
+&nbsp; 
+Scientific 
+&nbsp; 
+Information 
+&nbsp; 
+Services 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+in 
+&nbsp; 
+‘Intelligent 
+&nbsp; 
+Tools 
+&nbsp; 
+for 
+&nbsp; 
+Building 
+&nbsp; 
+a 
+&nbsp; 
+Scientific 
+&nbsp; 
+Information 
+&nbsp; 
+Platform 
+' 
+, 
+&nbsp; 
+pp 
+. <isPunctOrUpper> 
+&nbsp; 
+529 
+- 
+546 
+. <isPunctOrUpper> 
+&nbsp; 
+URL <isPunctOrUpper> 
+: 
+&nbsp; 
+db 
+/ 
+series 
+/ 
+sci 
+/ 
+sci467 
+. <isPunctOrUpper> 
+html#MazurekMNSWW13 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Tamir 
+, 
+&nbsp; 
+Y <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Liang 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+Lai 
+, 
+&nbsp; 
+T <isPunctOrUpper> 
+. <isPunctOrUpper> 
+&nbsp; 
+and 
+&nbsp; 
+Tremblay 
+, 
+&nbsp; 
+M <isPunctOrUpper> 
+. <isPunctOrUpper> 
+: 
+&nbsp; 
+1991  <isYear> 
+, 
+&nbsp; 
+The 
+&nbsp; 
+UCLA <isPunctOrUpper> 
+&nbsp; 
+Mirror 
+&nbsp; 
+Processor 
+: 
+&nbsp; 
+A <isPunctOrUpper> 
+&nbsp; 
+Building 
+&nbsp; 
+Block 
+&nbsp; 
+for 
+&nbsp; 
+Self 
+- 
+Checking 
+&nbsp; 
+Self 
+- 
+Repring 
+&nbsp; 
+Computing 
+&nbsp; 
+Nodes 
+. <isPunctOrUpper> 
+, 
+&nbsp; 
+FTCS <isPunctOrUpper> 
+, 
+&nbsp; 
+pp 
+. <isPunctOrUpper> 
+&nbsp; 
+178 
+- 
+187 
+. <isPunctOrUpper> 
+&nbsp; 
+URL <isPunctOrUpper> 
+: 
+&nbsp; 
+db 
+/ 
+conf 
+/ 
+ftcs 
+/ 
+ftcs91 
+. <isPunctOrUpper> 
+html#TamirLLT91 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+Caroline 
+&nbsp; 
+Fontaine 
+. <isPunctOrUpper> 
+&nbsp; 
+Summation 
+&nbsp; 
+generator 
+. <isPunctOrUpper> 
+&nbsp; 
+In 
+&nbsp; 
+Encyclopedia 
+&nbsp; 
+of 
+&nbsp; 
+Cryptography 
+&nbsp; 
+and 
+&nbsp; 
+Security 
+. <isPunctOrUpper> 
+&nbsp; 
+2005c  <isYear> 
+. <isPunctOrUpper> 
+&nbsp; 
+URL <isPunctOrUpper> 
+&nbsp; 
+db 
+/ 
+reference 
+/ 
+crypt 
+/ 
+crypt2005 
+. <isPunctOrUpper> 
+html#Fontaine05i 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+
+BOR <isPunctOrUpper> 
+&nbsp; 
+This 
+&nbsp; 
+is 
+&nbsp; 
+the 
+&nbsp; 
+end 
+&nbsp; 
+of 
+&nbsp; 
+the 
+&nbsp; 
+reference 
+&nbsp; 
+list 
+. <isPunctOrUpper> 
+&nbsp; 
+EOR <isPunctOrUpper> 
+

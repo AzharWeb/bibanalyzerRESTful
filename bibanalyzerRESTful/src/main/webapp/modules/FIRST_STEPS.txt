@@ -1,0 +1,49 @@
+** Sample usage:
+
+* ANALYZING BIBLIOGRAPHIC REFERENCES (programmatically) *
+Open the source project with your favorite IDE and
+
+1. Run de.acoli.informatik.uni.frankfurt.classifier.BibAnalyzer.java 's main method.
+  a) The program reads in the specified INPUT_FILE_NAME which is located under input/plaintext_references/
+     Currently there are three options
+	1.) Read in plaintext references each separated by a new line. (default)
+	2.) Read in Springer A++ format with only <BibUnstructured> elements and the plaintext references in between.
+	3.) Read in Springer A++ format from valid and complete XML files.
+
+	
+2. Inspect the generated output in under 
+  a) data/tagged/combined_visualized/ 
+    and
+  b) data/tagged/combined
+  
+  
+  
+* ANALYZING BIBLIOGRAPHIC REFERENCES (command-line tool) *  
+
+1. Copy bibanalyzer.jar from the dist/ directory to the top-level folder where the crf_tagger.jar is also located.
+2. Run the bibanalyzer.jar from the command line with
+   java -jar bibanalyzer.jar "path/to/your/plaintextreferences/inputfile.txt"
+
+  
+
+* EXTRACTING PLAINTEXT REFERENCES FROM PDF FILES*
+(Currently only supported for LINUX systems)
+
+1. Place your PDF's to be analyzed within the pdf2text/pdfs/ folder.
+2. Run de.acoli.informatik.uni.frankfurt.pdftotext.PDFtoTextDemo.java
+
+Make sure you have installed the following command line utilities:
+- xmllint
+- libxml2
+
+
+
+** How To Train Own Models:
+
+1. Bib type classification 
+
+---> For more information, see the commments in
+de.acoli.informatik.uni.frankfurt.processing.bibtypefeatures.BibtypeFeatureValuePairGeneratorFromPlaintextReferences.java)
+
+2. Bib field classification
+---> See input/crf_training/README.txt
