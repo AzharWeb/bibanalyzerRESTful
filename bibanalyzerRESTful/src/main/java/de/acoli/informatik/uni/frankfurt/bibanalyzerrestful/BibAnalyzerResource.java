@@ -61,9 +61,8 @@ import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
 
-
 /**
- * 
+ *
  * @author niko
  */
 @Path("/analyze/")
@@ -72,46 +71,45 @@ public class BibAnalyzerResource {
     @javax.ws.rs.core.Context
     ServletContext context;
 
-    // Test with http://localhost:8080/mavenproject1/analyze
-    
     /**
-     * TEXT_PLAIN is the request to this method.
-     * Test with:
-     * curl -i -H "Accept: text/plain" localhost:8080/bibanalyzerRESTful/analyze
-     * @return 
+     * TEXT_PLAIN is the request to this method. Test with: curl -i -H "Accept:
+     * text/plain" localhost:8080/bibanalyzerRESTful/analyze
+     *
+     * @return
      */
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String sayPlainTextHello() {
-        return "Hello Jerseyy..";
+        return "A plain hello.";
     }
- 
+
     /**
-     * XML is the request to this method.
-     * Test with:
-     * curl -i -H "Accept: text/xml" localhost:8080/bibanalyzerRESTful/analyze
+     * XML is the request to this method. Test with: curl -i -H "Accept:
+     * text/xml" localhost:8080/bibanalyzerRESTful/analyze
      */
     @GET
     @Produces(MediaType.TEXT_XML)
     public String sayXMLHello() {
-        return "<?xml version=\"1.0\"?>" + "<hello> Hello Jerseyy.." + "</hello>";
+        return "<?xml version=\"1.0\"?>" + "<hello> An XML hello" + "</hello>";
     }
 
     /**
-     * HTML is the request to this method.
-     * This is how you can control the input type.
-     * @Consumes(MediaType.TEXT_HTML) // -H "Content-Type:text/html"
-     * Test with: curl -i -H "Accept: text/html" localhost:8080/HelloWorld/hello
+     * HTML is the request to this method. This is how you can control the input
+     * type.
+     *
+     * @Consumes(MediaType.TEXT_HTML) // -H "Content-Type:text/html" Test with:
+     * curl -i -H "Accept: text/html" localhost:8080/HelloWorld/hello
      */
     @GET
     @Produces(MediaType.TEXT_HTML)
     public String sayHtmlHello() {
-        return "<html> " + "<title>" + "Hello Jersey.." + "</title>"
-                + "<body><h1>" + "Hello Jersey, I'm sending you HTML" + "</body></h1>" + "</html> ";
+        return "<html> " + "<title>" + "HTML hello.." + "</title>"
+                + "<body><h1>" + "I'm sending you HTML" + "</body></h1>" + "</html> ";
     }
 
     /**
-     * Test with: curl -i -X POST -d "input=thisIsATest" localhost:8080/BibAnalyzerResource/analyze
+     * Test with: curl -i -X POST -d "input=thisIsATest"
+     * localhost:8080/bibanalyzerRESTful/analyze
      *
      */
     @POST
@@ -128,33 +126,27 @@ public class BibAnalyzerResource {
         return "<html><body><h1>Analyzing input! " + input + " <br></h1></body>" + realPath + " <- real path " + input + "</html>";
     }
 
-    
-    
-    
-    
-    
     /**
-     * Upload a file containing plaintext references 
-     * specified by "name" and analyze it in terms of the bibliography analysis.
-     * 
-     * local:
-     * curl -i -F "name=@/home/niko/Desktop/input.txt"
+     * Upload a file containing plaintext references specified by "name" and
+     * analyze it in terms of the bibliography analysis.
+     *
+     * local: curl -i -F "name=@/home/niko/Desktop/input.txt"
      * localhost:8080/bibanalyzerRESTful/analyze/plaintext
      *
-     * server:
-     * curl -i -F "name=@/home/niko/Desktop/input.txt"
+     * server: curl -i -F "name=@/home/niko/Desktop/input.txt"
      * corpora.acoli.informatik.uni-frankfurt.de/bibanalyzerRESTful/analyze/plaintext
      *
-     * 
-     * where input.txt contains the plaintext references.
-     * 
-     * 
-     * // Later options including parameters:
-     * curl -i -F "type=SPRINGER" -F "name=@/home/niko/Desktop/input.txt" localhost:8080/bibanalyzerRESTful/hello/analyze-plaintext
      *
-     * 
+     * where input.txt contains the plaintext references.
+     *
+     *
+     * // Later options including parameters: curl -i -F "type=SPRINGER" -F
+     * "name=@/home/niko/Desktop/input.txt"
+     * localhost:8080/bibanalyzerRESTful/hello/analyze-plaintext
+     *
+     *
      * @param inputStream
-     * @return 
+     * @return
      */
     @POST
     @Path("plaintext")
@@ -162,8 +154,6 @@ public class BibAnalyzerResource {
     public Response uploadFile(@FormDataParam("file") InputStream inputStream
     //, @FormDataParam("file") FormDataContentDisposition file
     ) throws IOException {
-
-        String aPlusPlusResponse = "A++ analysis was not successful.";
 
         String realPath = context.getRealPath("/") + "modules/";
         System.out.println("real path: " + realPath);
@@ -179,11 +169,10 @@ public class BibAnalyzerResource {
         String[] inputFile = new String[1];
         inputFile[0] = fileDestination;
         BibAnalyzer.analyzeBibliography(inputFile, realPath);
-        aPlusPlusResponse = BibAnalyzer.getFinalAPlusPlus(realPath, "SPRINGER");
-        
+        String aPlusPlusResponse = BibAnalyzer.getFinalAPlusPlus(realPath, "SPRINGER");
+
         System.out.println("Analysis successful.");
 
-        //return Response.status(200).entity("Analysis successful.").build();
         return Response.status(200).entity(aPlusPlusResponse).build();
     }
 
@@ -209,50 +198,47 @@ public class BibAnalyzerResource {
             System.out.println("Creating one for you...");
             directoryToUploadTo.mkdir();
         }
-        
-            
-            final String fileDestination = realPath + "uploads/" + generatedFileName;
-            System.out.println(fileDestination);
-            
-            System.out.println("FILE_DESTINATION: " + fileDestination);
-            File f = new File(fileDestination);
-            OutputStream outputStream = new FileOutputStream(f);
-            int size = 0;
-            byte[] bytes = new byte[1024];
-            while ((size = inputStream.read(bytes)) != -1) {
-                System.out.println(size);
-                outputStream.write(bytes, 0, size);
-            }
-            outputStream.flush();
-            outputStream.close();
 
-            
+        final String fileDestination = realPath + "uploads/" + generatedFileName;
+        System.out.println(fileDestination);
+
+        System.out.println("FILE_DESTINATION: " + fileDestination);
+        File f = new File(fileDestination);
+        OutputStream outputStream = new FileOutputStream(f);
+        int size = 0;
+        byte[] bytes = new byte[1024];
+        while ((size = inputStream.read(bytes)) != -1) {
+            System.out.println(size);
+            outputStream.write(bytes, 0, size);
+        }
+        outputStream.flush();
+        outputStream.close();
+
             // TODO:
-            // Security check.
-            // Plus: Check max size of file upload!
-            ArrayList<String> fileLines = new ArrayList<String>();
-            Scanner s = new Scanner(new File(fileDestination));
-            while(s.hasNextLine()) {
-                String aLine = s.nextLine();
-                System.out.println(aLine);
-                fileLines.add(aLine);
-            }
-            s.close();
-            
-            ArrayList<String> referenceLines = new ArrayList<>();
-            for(int i = 4; i < fileLines.size()-2; i++) {
-                referenceLines.add(fileLines.get(i));
-            }
-            
-            // Overwrite !!
-            PrintWriter w = new PrintWriter(new File(fileDestination));
-            for(String refLine : referenceLines) {
-                w.write(refLine + "\n");
-            }
-            w.flush();
-            w.close();
-            
-            return fileDestination;
-    }
+        // Security check.
+        // Plus: Check max size of file upload!
+        ArrayList<String> fileLines = new ArrayList<String>();
+        Scanner s = new Scanner(new File(fileDestination));
+        while (s.hasNextLine()) {
+            String aLine = s.nextLine();
+            System.out.println(aLine);
+            fileLines.add(aLine);
+        }
+        s.close();
 
+        ArrayList<String> referenceLines = new ArrayList<>();
+        for (int i = 4; i < fileLines.size() - 2; i++) {
+            referenceLines.add(fileLines.get(i));
+        }
+
+        // Overwrite !!
+        PrintWriter w = new PrintWriter(new File(fileDestination));
+        for (String refLine : referenceLines) {
+            w.write(refLine + "\n");
+        }
+        w.flush();
+        w.close();
+
+        return fileDestination;
+    }
 }
