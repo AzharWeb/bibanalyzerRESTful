@@ -157,7 +157,7 @@ public class BibAnalyzer {
      * features and two SPRINGER models without features (trained only on
      * tokens) and a last SPRINGER model for BibChapters including features.
      */
-    private static void loadModels(String realPath) {
+    private synchronized static void loadModels(String realPath) {
         System.out.print("Loading models...");
 
         if (useDBLPModels) {
@@ -213,7 +213,7 @@ public class BibAnalyzer {
      *
      * @throws FileNotFoundException
      */
-    private static void loadDictionaries(String realPath) throws FileNotFoundException {
+    private synchronized static void loadDictionaries(String realPath) throws FileNotFoundException {
         System.out.println("Loading dictionaries...");
 
         DictReader dr = new DictReader();
@@ -238,7 +238,7 @@ public class BibAnalyzer {
      * Clean up directory structure from previous runs. I.e. delete previously
      * generated A++, etc. files...
      */
-    private static void cleanUpDirectories(String realPath) {
+    private synchronized static void cleanUpDirectories(String realPath) {
         System.out.println("Cleaning up directory structure...\n");
         ArrayList<String> pathsToBeDeleted = new ArrayList<>();
 
@@ -271,7 +271,7 @@ public class BibAnalyzer {
     
     
     
-    public static void main(String[] args) {
+    public synchronized static void main(String[] args) {
         String userDir = System.getProperty("user.dir");
         
         String realPath = userDir + "/src/main/webapp/modules/";
@@ -291,7 +291,7 @@ public class BibAnalyzer {
      * @throws FileNotFoundException
      * @throws IOException 
      */
-     public static void analyzeBibliography(String[] args, String realPath) throws FileNotFoundException, IOException {
+     public synchronized static void analyzeBibliography(String[] args, String realPath) throws FileNotFoundException, IOException {
         
          // Use internal input file.
         if(args.length == 0) {
@@ -453,7 +453,7 @@ public class BibAnalyzer {
      * @param fileList
      * @param path
      */
-    private static void collectFiles(ArrayList<File> fileList, String path) {
+    private synchronized static void collectFiles(ArrayList<File> fileList, String path) {
         File root = new File(path);
         File[] list = root.listFiles();
 
@@ -473,7 +473,7 @@ public class BibAnalyzer {
      *
      * @param args
      */
-    private static void showHelp() {
+    private synchronized static void showHelp() {
         System.out.println("Please refer to the README.txt in this directory"
                 + " for instructions on how to use the program.\n"
                 + "In short:\n>>> java -jar bibanalyzer.jar inputfile.txt\n\n"
@@ -488,7 +488,7 @@ public class BibAnalyzer {
      * @param pathToTokenized, the output file path.
      * @throws FileNotFoundException
      */
-    private static void tokenize(ArrayList<String> plaintextReferences, String pathToTokenized) throws FileNotFoundException {
+    private synchronized static void tokenize(ArrayList<String> plaintextReferences, String pathToTokenized) throws FileNotFoundException {
         PrintWriter writer = new PrintWriter(new File(pathToTokenized));
         for (String aRef : plaintextReferences) {
             ArrayList<String> tokens = ReferenceUtil.tokenize(aRef);
@@ -512,7 +512,7 @@ public class BibAnalyzer {
      * @throws FileNotFoundException
      * @throws IOException
      */
-    private static void tag(String realPath, String pathToTokenized, String pathToTagged, String datatype) throws FileNotFoundException, IOException {
+    private synchronized static void tag(String realPath, String pathToTokenized, String pathToTagged, String datatype) throws FileNotFoundException, IOException {
         // For every model
         for (String aModel : models) {
 
@@ -585,7 +585,7 @@ public class BibAnalyzer {
      * written to.
      * @throws FileNotFoundException
      */
-    private static void generateAPlusPlus(ArrayList<File> taggedByModel, String pathToAPlusPlus) throws FileNotFoundException {
+    private synchronized static void generateAPlusPlus(ArrayList<File> taggedByModel, String pathToAPlusPlus) throws FileNotFoundException {
         for (File f : taggedByModel) {
 
             String fn = f.getName();
@@ -677,7 +677,7 @@ public class BibAnalyzer {
     }
 
     @Deprecated
-    private static ArrayList<String> generateBestAPlusPlusOutOfAllPossibilities(ArrayList<File> aplusplusByModel) throws FileNotFoundException {
+    private synchronized static ArrayList<String> generateBestAPlusPlusOutOfAllPossibilities(ArrayList<File> aplusplusByModel) throws FileNotFoundException {
         // Map of ID to 3-tuple. (each tuple represents an A++ entry for the same reference / ID.)
         LinkedHashMap<String, ArrayList<String>> aPlusPlusChain = new LinkedHashMap<String, ArrayList<String>>();
         for (File f : aplusplusByModel) {
@@ -754,7 +754,7 @@ public class BibAnalyzer {
     }
 
     @Deprecated
-    private static void writeAPlusPlusFinalToFile(ArrayList<String> best, String pathToAPlusPlusFinal) throws FileNotFoundException {
+    private synchronized static void writeAPlusPlusFinalToFile(ArrayList<String> best, String pathToAPlusPlusFinal) throws FileNotFoundException {
         PrintWriter w = new PrintWriter(new File(pathToAPlusPlusFinal + "bibtypes_combined.xml"));
         w.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
                 + "<?xml-stylesheet type=\"text/css\" href=\"../../stylesheet/References_Stylesheet.css\"?>\n"
@@ -779,7 +779,7 @@ public class BibAnalyzer {
      * @param datatype
      * @throws FileNotFoundException
      */
-    private static void combineBibtypes(ArrayList<String> bibtypePredictions, String pathToTagged, String datatype) throws FileNotFoundException {
+    private synchronized static void combineBibtypes(ArrayList<String> bibtypePredictions, String pathToTagged, String datatype) throws FileNotFoundException {
         // Collect all crf files.
         ArrayList<File> allCrfFiles = new ArrayList<>();
         collectFiles(allCrfFiles, pathToTagged);
@@ -842,7 +842,7 @@ public class BibAnalyzer {
      * @param outputFolder
      * @throws FileNotFoundException
      */
-    private static void visualizeCRF(String pathToTagged, String outputFolder) throws FileNotFoundException {
+    private synchronized static void visualizeCRF(String pathToTagged, String outputFolder) throws FileNotFoundException {
         // Collect all crf files.
         ArrayList<File> allCrfFiles = new ArrayList<>();
         collectFiles(allCrfFiles, pathToTagged);
@@ -864,7 +864,7 @@ public class BibAnalyzer {
      * @throws FileNotFoundException
      * @throws IOException
      */
-    private static ArrayList<String> classifyBibtypes(String realPath, String bibtypesFeatsFile) throws FileNotFoundException, IOException {
+    private synchronized static ArrayList<String> classifyBibtypes(String realPath, String bibtypesFeatsFile) throws FileNotFoundException, IOException {
 
         String bibtypesClassified = realPath + "data/bibtypes/bibtypes_classified.txt";
         String bibtypesPredicted = realPath + "data/bibtypes/bibtypes_predicted.txt";
@@ -907,7 +907,7 @@ public class BibAnalyzer {
      * @param bibtypePredictions
      * @throws FileNotFoundException
      */
-    private static void generateAPlusPlusFinal(String taggedCombinedCrfData, String outputAPlusPlus,
+    private synchronized static void generateAPlusPlusFinal(String taggedCombinedCrfData, String outputAPlusPlus,
             ArrayList<String> bibtypePredictions) throws FileNotFoundException {
         PrintWriter w = new PrintWriter(new File(outputAPlusPlus));
         w.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
@@ -951,7 +951,7 @@ public class BibAnalyzer {
      * @return
      * @throws FileNotFoundException 
      */
-    public static String getFinalAPlusPlus(String realPath, String type) throws FileNotFoundException {
+    public synchronized static String getFinalAPlusPlus(String realPath, String type) throws FileNotFoundException {
         Scanner s = new Scanner(new File(realPath + "/data/a++/combined/" + type + "/aplusplus_" + type + "_combined.xml"));
         StringBuilder sb = new StringBuilder();
         while(s.hasNextLine()) {

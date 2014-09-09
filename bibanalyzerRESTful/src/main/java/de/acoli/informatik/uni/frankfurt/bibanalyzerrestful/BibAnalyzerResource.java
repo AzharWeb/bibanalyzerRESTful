@@ -72,8 +72,9 @@ public class BibAnalyzerResource {
     ServletContext context;
 
     /**
-     * TEXT_PLAIN is the request to this method. Test with: curl -i -H "Accept:
-     * text/plain" localhost:8080/bibanalyzerRESTful/analyze
+     * TEXT_PLAIN is the request to this method. 
+     * Test with: 
+     * curl -i -H "Accept: text/plain" localhost:8080/bibanalyzerRESTful/analyze
      *
      * @return
      */
@@ -84,8 +85,11 @@ public class BibAnalyzerResource {
     }
 
     /**
-     * XML is the request to this method. Test with: curl -i -H "Accept:
-     * text/xml" localhost:8080/bibanalyzerRESTful/analyze
+     * XML is the request to this method. 
+     * Test with: 
+     * curl -i -H "Accept: text/xml" localhost:8080/bibanalyzerRESTful/analyze
+     * 
+     * @return 
      */
     @GET
     @Produces(MediaType.TEXT_XML)
@@ -94,23 +98,35 @@ public class BibAnalyzerResource {
     }
 
     /**
-     * HTML is the request to this method. This is how you can control the input
-     * type.
+     * HTML is the request to this method. 
+     * Test with:
+     * curl -i -H "Accept: text/html" localhost:8080/bibanalyzerRESTful/analyze
+     * 
+     * or:
+     * Navigate your browser to: localhost:8080/bibanalyzerRESTful/analyze
      *
-     * @Consumes(MediaType.TEXT_HTML) // -H "Content-Type:text/html" Test with:
-     * curl -i -H "Accept: text/html" localhost:8080/HelloWorld/hello
+     * 
+     * This is how you can control the input type.
+     * @Consumes(MediaType.TEXT_HTML) 
+     * 
+     * @return 
+     * 
      */
     @GET
     @Produces(MediaType.TEXT_HTML)
     public String sayHtmlHello() {
-        return "<html> " + "<title>" + "HTML hello.." + "</title>"
+        return "<html> " + "<title>" + "HTML hello!" + "</title>"
                 + "<body><h1>" + "I'm sending you HTML" + "</body></h1>" + "</html> ";
     }
 
     /**
-     * Test with: curl -i -X POST -d "input=thisIsATest"
-     * localhost:8080/bibanalyzerRESTful/analyze
+     * Test with.
+     * curl -i -X POST -d "input=thisIsATest" localhost:8080/bibanalyzerRESTful/analyze
      *
+     * @param input
+     * @return 
+     * @throws java.lang.InterruptedException
+     * @throws java.io.IOException
      */
     @POST
     @Consumes(MediaType.APPLICATION_FORM_URLENCODED)
@@ -123,35 +139,43 @@ public class BibAnalyzerResource {
         }
 
         String realPath = context.getRealPath("/");
-        return "<html><body><h1>Analyzing input! " + input + " <br></h1></body>" + realPath + " <- real path " + input + "</html>";
+        return "<html><body><h1>Analyzing input: " + input + " <br></h1></body>" + realPath + " <- real path " + input + "</html>";
     }
 
+    
+    
     /**
-     * Upload a file containing plaintext references specified by "name" and
-     * analyze it in terms of the bibliography analysis.
+     * Upload a file containing plaintext references specified by 
+     * the "name" parameter (the filename)
+     * and analyze it in terms of the bibliography analysis.
      *
-     * local: curl -i -F "name=@/home/niko/Desktop/input.txt"
+     * Sample usage on the local machine:
+     * 
+     * > curl -i -F "name=@/path/to/your/local/input.txt"
      * localhost:8080/bibanalyzerRESTful/analyze/plaintext
      *
-     * server: curl -i -F "name=@/home/niko/Desktop/input.txt"
+     * 
+     * Sample usage on the server side:
+     * > curl -i -F "name=@/path/to/your/local/input.txt"
      * corpora.acoli.informatik.uni-frankfurt.de/bibanalyzerRESTful/analyze/plaintext
      *
      *
      * where input.txt contains the plaintext references.
      *
      *
-     * // Later options including parameters: curl -i -F "type=SPRINGER" -F
-     * "name=@/home/niko/Desktop/input.txt"
-     * localhost:8080/bibanalyzerRESTful/hello/analyze-plaintext
+     * // Later options including parameters, e.g.: 
+     * > curl -i -F "type=SPRINGER" -F "name=@/home/niko/Desktop/input.txt"
+     * localhost:8080/bibanalyzerRESTful/analyze/plaintext
      *
      *
      * @param inputStream
      * @return
+     * @throws java.io.IOException
      */
     @POST
     @Path("plaintext")
     @Consumes(MediaType.MULTIPART_FORM_DATA)
-    public Response uploadFile(@FormDataParam("file") InputStream inputStream
+    public synchronized Response uploadFile(@FormDataParam("file") InputStream inputStream
     //, @FormDataParam("file") FormDataContentDisposition file
     ) throws IOException {
 
@@ -176,7 +200,7 @@ public class BibAnalyzerResource {
         return Response.status(200).entity(aPlusPlusResponse).build();
     }
 
-    private String getGeneratedFileName() {
+    private synchronized String getGeneratedFileName() {
         Random randomGenerator = new Random();
         String fileIdx = String.valueOf(randomGenerator.nextInt(1000));
         DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
@@ -186,7 +210,7 @@ public class BibAnalyzerResource {
         return "upload_" + date + "_" + fileIdx + ".txt";
     }
 
-    private String uploadFileToServerDirectory(InputStream inputStream, String realPath, String generatedFileName) throws FileNotFoundException, IOException {
+    private synchronized String uploadFileToServerDirectory(InputStream inputStream, String realPath, String generatedFileName) throws FileNotFoundException, IOException {
         // Make sure directory is there, otherwise create it.
         File directoryToUploadTo = new File(realPath + "uploads/");
         //System.out.println(directoryToUploadTo.getName());
